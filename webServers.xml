@@ -1,0 +1,23 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="cc496d32-c65c-461e-b31d-73f145fb4c5a" name="localManager-VM" url="https://localmanager.vm.rioseo.com">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="0e48ff4f-4517-4462-8b1f-3d4c0a25f12f" name="QA" url="http://qa.rioseo.com">
+        <fileTransfer host="10.181.0.196" port="22" rootFolder="/home/jbuchmiller" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="4567a80c-dcd1-4b9d-8a30-29842d97b6ba" name="RLS-VM" url="https://dashboard.vm.rioseo.com">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="b5832766-5680-4bf4-884e-aac1fe4bc326" name="cms.vm.rioseo.com" url="https://cms.vm.rioseo.com">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>

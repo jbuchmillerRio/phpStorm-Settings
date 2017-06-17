@@ -1,0 +1,8 @@
+<templateSet group="JSON">
+  <template name="compPath" value="&#10;    {&#10;        &quot;type&quot;: &quot;path&quot;,&#10;        &quot;url&quot; : &quot;../rioseo/$LIB$&quot;:&quot;*&quot;,&#10;        &quot;options&quot; :{&#10;            &quot;symlink&quot; : true&#10;            }&#10;    }&#10;    &#10;&#10;}" description="Composer local path" toReformat="false" toShortenFQNames="true">
+    <variable name="LIB" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JSON" value="true" />
+    </context>
+  </template>
+</templateSet>

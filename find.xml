@@ -1,0 +1,42 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="Project and Libraries" />
+    <option name="defaultScopeName" value="Project and Libraries" />
+    <option name="searchOverloadedMethods" value="true" />
+    <option name="SEARCH_OVERLOADED_METHODS" value="true" />
+    <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.php" />
+    <recentFileMasks>
+      <mask>controller.p</mask>
+      <mask>controller.php</mask>
+      <mask>*controller.php</mask>
+      <mask>*ontroller.php</mask>
+      <mask>*Controller.php</mask>
+      <mask>c</mask>
+      <mask>co</mask>
+      <mask>conf</mask>
+      <mask>confi</mask>
+      <mask>config</mask>
+      <mask>*config</mask>
+      <mask>*confi</mask>
+      <mask>*conf</mask>
+      <mask>*con</mask>
+      <mask>*co</mask>
+      <mask>*php</mask>
+      <mask>*</mask>
+      <mask>*css</mask>
+      <mask>*cs</mask>
+      <mask>*c</mask>
+      <mask>*.css</mask>
+      <mask>*.cs</mask>
+      <mask>*.c</mask>
+      <mask>-*.php</mask>
+      <mask>*.ph</mask>
+      <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.php</mask>
+    </recentFileMasks>
+  </component>
+</application>
