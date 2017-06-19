@@ -27,11 +27,6 @@
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/vendor/rioseo/rls-lib-hours/vendor/rioseo/rls-lib-history/composer.json" timestamp="1484178277847">
         <mark key="[" line="39" column="57" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0d038304-9170-416f-a634-b570ce79034f/console.sql" timestamp="1497458747422">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lib-user/tests/fixture/settingsTestFixtureNox509certIDPFile.php" timestamp="1494005642888">
         <mark key="[" line="36" column="23" />
       </file>
@@ -237,11 +232,6 @@
         <mark key="^" line="173" column="59" />
         <mark key="." line="173" column="61" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/vendor/rioseo/rls-lib-hours/src/HoursManager.php" timestamp="1497444428657">
-        <mark key="[" line="383" column="55" />
-        <mark key="]" line="429" column="0" />
-        <mark key="." line="429" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Rio/rls-cms/src/RLS/Exception/DoesNotExist.php" timestamp="1495643384528">
         <mark key="[" line="5" column="19" />
       </file>
@@ -439,10 +429,10 @@
       <file name="$USER_HOME$/Documents/Rio/rls-lib-datastore/Gruntfile.js" timestamp="1483922260074">
         <mark key="[" line="5" column="52" />
       </file>
-      <file name="/Dummy.txt" timestamp="1497905341291">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="1" />
-        <mark key="." line="0" column="1" />
+      <file name="/Dummy.txt" timestamp="1497905587396">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/public/js/rls/rls_location.js" timestamp="1491511974644">
         <mark key="[" line="909" column="15" />
@@ -602,11 +592,11 @@
       <jump line="65" column="28" filename="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/LiveData/LiveDataHistoryManager.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkbG9nZ2VyLT5kZWJ1ZygibG9naW4gYXR0ZW1wdGVkIik7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Updated to check empt for saml_session. and rebased to dev so had to update composer.lock.</text>
       </register>
       <register name="-" type="4">
-        <text>domainId</text>
+        <text>Updated to check empt for saml_session. and rebased to dev so had to update composer.lock.</text>
       </register>
       <register name="/" type="4">
         <text>saveOver</text>
