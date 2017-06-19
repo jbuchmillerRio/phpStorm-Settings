@@ -402,7 +402,7 @@
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/module/Services/config/module.config.php" timestamp="1496702945364">
         <mark key="[" line="9" column="40" />
       </file>
-      <file name="/PHP Console" timestamp="1497894769858">
+      <file name="/PHP Console" timestamp="1497903947918">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/vendor/rioseo/rls-lib-hours/tests/HoursManagerTest.php" timestamp="1486842714786">
@@ -413,6 +413,12 @@
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-cms/vendor/rioseo/rls-lib-user/tests/SAML/SAMLManagerTest.php" timestamp="1493072685511">
         <mark key="[" line="275" column="17" />
+      </file>
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/module/Services/src/Services/Controller/SAMLController.php" timestamp="1497905553882">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="42" />
+        <mark key="^" line="38" column="38" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lib-user/tests/SAML/ClaimManagerAbstract.php" timestamp="1491239519591">
         <mark key="[" line="11" column="25" />
@@ -433,7 +439,7 @@
       <file name="$USER_HOME$/Documents/Rio/rls-lib-datastore/Gruntfile.js" timestamp="1483922260074">
         <mark key="[" line="5" column="52" />
       </file>
-      <file name="/Dummy.txt" timestamp="1497733064654">
+      <file name="/Dummy.txt" timestamp="1497905341291">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
@@ -597,7 +603,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkY3VzdG9tRmllbGRzID0gU3F1aWdnbHlNYW5hZ2VyOjpnZXRIb3Vyc1NxdWlnZ2xpZXMoJHRoaXMtPmdldEhvdXJzU2V0TWFuYWdlcigpLCAkZG9tYWluSWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkbG9nZ2VyLT5kZWJ1ZygibG9naW4gYXR0ZW1wdGVkIik7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>domainId</text>
@@ -606,7 +612,7 @@
         <text>saveOver</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkaG91cnNNYW5hZ2VyID0gJHRoaXMtPmdldEhvdXJzU2V0TWFuYWdlcigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkbG9nZ2VyLT5kZWJ1ZygibG9naW4gYXR0ZW1wdGVkIik7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAkY3VzdG9tRmllbGRzID0gU3F1aWdnbHlNYW5hZ2VyOjpnZXRIb3Vyc1NxdWlnZ2xpZXMoJHRoaXMtPmdldEhvdXJzU2V0TWFuYWdlcigpLCAkZG9tYWluSWQpOwo=</text>
