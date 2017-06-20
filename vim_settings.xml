@@ -143,12 +143,6 @@
       <file name="$USER_HOME$/Documents/Rio/rls-lib-user/src/Model/User.php" timestamp="1496253833791">
         <mark key="[" line="64" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-client_lib/module/Locator/Manager/ClientSitemapManager.php" timestamp="1497994245077">
-        <mark key="[" line="182" column="72" />
-        <mark key="]" line="182" column="73" />
-        <mark key="^" line="182" column="72" />
-        <mark key="." line="182" column="73" />
-      </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/BazaarVoice/ProductManager.php" timestamp="1497733881557" />
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/vendor/zendframework/zendframework/library/Zend/View/Helper/Navigation/AbstractHelper.php" timestamp="1493767260316">
         <mark key="[" line="320" column="30" />
@@ -299,12 +293,6 @@
         <mark key="." line="66" column="47" />
         <mark key="^" line="66" column="47" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-client_lib/module/Locator/Model/SitemapIndex.php" timestamp="1497994404319">
-        <mark key="[" line="37" column="39" />
-        <mark key="]" line="9" column="33" />
-        <mark key="^" line="9" column="33" />
-        <mark key="." line="9" column="33" />
-      </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/scripts/gmb_attributes_updater.php" timestamp="1494104306742">
         <mark key="[" line="70" column="55" />
       </file>
@@ -431,7 +419,7 @@
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/vendor/zendframework/zendframework/library/Zend/View/Helper/Navigation.php" timestamp="1494639855655">
         <mark key="[" line="196" column="28" />
       </file>
-      <file name="/dummy.sql" timestamp="1497994075769">
+      <file name="/dummy.sql" timestamp="1497997697987">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.php" timestamp="1489970184289">
