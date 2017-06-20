@@ -92,11 +92,11 @@
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/ActiveDirectory/ActiveDirectoryManager.php" timestamp="1488576210850">
         <mark key="[" line="2" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/MongoPublish.php" timestamp="1497981166247">
-        <mark key="[" line="264" column="30" />
-        <mark key="]" line="264" column="31" />
-        <mark key="." line="264" column="31" />
-        <mark key="^" line="264" column="31" />
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/MongoPublish.php" timestamp="1497981819644">
+        <mark key="[" line="264" column="0" />
+        <mark key="]" line="264" column="0" />
+        <mark key="." line="264" column="0" />
+        <mark key="^" line="254" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-cms/src/RLS/Exception/NotDeletedException.php" timestamp="1495654313764">
         <mark key="[" line="4" column="16" />
@@ -293,10 +293,11 @@
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/DataTransfer/Processor/BofAAtm.php" timestamp="1486832011854">
         <mark key="[" line="435" column="96" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Service/UrlService.php" timestamp="1497732701095">
-        <mark key="[" line="123" column="0" />
-        <mark key="]" line="123" column="0" />
-        <mark key="." line="123" column="0" />
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Service/UrlService.php" timestamp="1497982856690">
+        <mark key="[" line="66" column="7" />
+        <mark key="]" line="66" column="47" />
+        <mark key="." line="66" column="47" />
+        <mark key="^" line="66" column="47" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/scripts/gmb_attributes_updater.php" timestamp="1494104306742">
         <mark key="[" line="70" column="55" />
@@ -423,7 +424,7 @@
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/vendor/zendframework/zendframework/library/Zend/View/Helper/Navigation.php" timestamp="1494639855655">
         <mark key="[" line="196" column="28" />
       </file>
-      <file name="/dummy.sql" timestamp="1497889236931">
+      <file name="/dummy.sql" timestamp="1497981791614">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.php" timestamp="1489970184289">
@@ -600,63 +601,44 @@
       <jump line="65" column="28" filename="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/LiveData/LiveDataHistoryManager.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICQoIiNleHBvcnRMaXZlRGF0YUVtYWlsIikudmFsKCcnKTsK</text>
+      <register name="&quot;" type="4">
+        <text>---------------------------------------------------------&quot;);</text>
       </register>
       <register name="-" type="4">
-        <text>Updated to check empt for saml_session. and rebased to dev so had to update composer.lock.</text>
+        <text>---------------------------------------------------------&quot;);</text>
       </register>
       <register name="/" type="4">
         <text>saveOver</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkbG9nZ2VyLT5kZWJ1ZygibG9naW4gYXR0ZW1wdGVkIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBcTG9nZ2VyOjpkZWJ1ZygiLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tIik7CiAgICAgICAgXExvZ2dlcjo6ZGVidWcoIi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICQoIiNleHBvcnRMaXZlRGF0YUVtYWlsIikudmFsKCcnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgXExvZ2dlcjo6ZGVidWcoIi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSIpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRkYXRhWydsaXZlX2RhdGFfbmFtZSddID0gJGxkWyduYW1lJ107Cg==</text>
+        <text encoding="base64">ICAgICAgICBcTG9nZ2VyOjpkZWJ1ZygkdGhpcy0+KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRkYXRhWydtZXNzYWdlX2lkJ10gPSAkbGRbJ19pZCddOwo=</text>
+        <text encoding="base64">ICAgICAgICBcTG9nZ2VyOjpkZWJ1ZygkdGhpcy0+ZG9tYWluKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRkYXRhWydtZXNzYWdlX2lkJ10gPSAkbGRbJ19pZCddOwo=</text>
+        <text encoding="base64">ICAgICAgICBcTG9nZ2VyOjpkZWJ1ZygkdGhpcy0+ZG9tYWluKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRkYXRhWydsaXZlX2RhdGFfbmFtZSddID0gJGxkWyduYW1lJ107Cg==</text>
+        <text encoding="base64">ICAgICAgICBcTG9nZ2VyOjpkZWJ1ZygkdGhpcy0+ZG9tYWluKTsK</text>
       </register>
-      <register name="6" type="4">
-        <text>#ExportAllLPopupWorkArea {
-    position: relative;
-    border-left: 1px solid #bbbbbb;
-    border-right: 1px solid #bbbbbb;
-    border-bottom: 1px solid #bbbbbb;
-    border-bottom-left-radius: 5px;
-    border-bottom-right-radius: 5px;
-    border-top-left-radius: 0;
-    border-top-right-radius: 0;
-    height: 100px;
-    padding: 0px;
-    box-shadow: 1px 2px 2px #b1b1b1;
-    -webkit-box-shadow: 1px 2px 2px #b1b1b1;
-    -moz-box-shadow: 1px 2px 2px #b1b1b1;
-}
-#ExportAllLocationsPopupWorkContent {
-    padding-top: 10px;
-    background-color: #ffffff;
-    min-height: 90px;
-}</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBcTG9nZ2VyOjpkZWJ1ZygkdGhpcy0+ZG9tYWluKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBcTG9nZ2VyOjpkZWJ1ZygkZG9tYWluWydzaXRlbWFwX3VybCddKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8Zm9ybSBuZy1zdWJtaXQ9ImV4cG9ydExpdmVEYXRhU3VibWl0KCkiPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICQoIiNleHBvcnRMaXZlRGF0YUVtYWlsIikudmFsKCcnKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRkYXRhWydsaXZlX2RhdGFfbmFtZSddID0gJGxkWyduYW1lJ107Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
