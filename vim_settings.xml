@@ -311,6 +311,12 @@
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/public/js/rls/rls_live_data_field/rls_live_data_definition_controller.js" timestamp="1496352811259">
         <mark key="[" line="41" column="58" />
       </file>
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/composer.json" timestamp="1497983144022">
+        <mark key="[" line="92" column="35" />
+        <mark key="]" line="92" column="34" />
+        <mark key="^" line="92" column="34" />
+        <mark key="." line="92" column="34" />
+      </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/public/js/rls/rls_mtp.js" timestamp="1496505461432">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="42" column="41" />
@@ -342,11 +348,6 @@
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-cms/src/RLS/Manager/HoursManager.php" timestamp="1487349362876">
         <mark key="[" line="100" column="4" />
-      </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/scripts/async_email_export_feeds.php" timestamp="1497892788743">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-cms/src/RLS/Manager/SpecialtyManager.php" timestamp="1485359345381">
         <mark key="[" line="200" column="57" />
@@ -432,11 +433,6 @@
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lib-datastore/Gruntfile.js" timestamp="1483922260074">
         <mark key="[" line="5" column="52" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1497975856830">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="9" />
-        <mark key="." line="0" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/public/js/rls/rls_location.js" timestamp="1491511974644">
         <mark key="[" line="909" column="15" />
@@ -601,8 +597,8 @@
       <jump line="65" column="28" filename="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/LiveData/LiveDataHistoryManager.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>---------------------------------------------------------&quot;);</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">UkxTLTM3MDggVXBkYXRlZCBwZXIgdG8gaGF2ZSBuaWNlciBpbnRlcmZhY2UuCg==</text>
       </register>
       <register name="-" type="4">
         <text>---------------------------------------------------------&quot;);</text>
@@ -614,13 +610,13 @@
         <text encoding="base64">ICAgICAgICBcTG9nZ2VyOjpkZWJ1ZygiLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tIik7CiAgICAgICAgXExvZ2dlcjo6ZGVidWcoIi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgXExvZ2dlcjo6ZGVidWcoIi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSIpOwo=</text>
+        <text encoding="base64">UkxTLTM3MDggVXBkYXRlZCBwZXIgdG8gaGF2ZSBuaWNlciBpbnRlcmZhY2UuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBcTG9nZ2VyOjpkZWJ1ZygkdGhpcy0+KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgXExvZ2dlcjo6ZGVidWcoIi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBcTG9nZ2VyOjpkZWJ1ZygkdGhpcy0+ZG9tYWluKTsK</text>
+        <text encoding="base64">ICAgICAgICBcTG9nZ2VyOjpkZWJ1ZygkdGhpcy0+KTsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBcTG9nZ2VyOjpkZWJ1ZygkdGhpcy0+ZG9tYWluKTsK</text>
@@ -632,13 +628,13 @@
         <text encoding="base64">ICAgICAgICBcTG9nZ2VyOjpkZWJ1ZygkdGhpcy0+ZG9tYWluKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBcTG9nZ2VyOjpkZWJ1ZygkZG9tYWluWydzaXRlbWFwX3VybCddKTsK</text>
+        <text encoding="base64">ICAgICAgICBcTG9nZ2VyOjpkZWJ1ZygkdGhpcy0+ZG9tYWluKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICQoIiNleHBvcnRMaXZlRGF0YUVtYWlsIikudmFsKCcnKTsK</text>
+        <text encoding="base64">ICAgICAgICBcTG9nZ2VyOjpkZWJ1ZygkZG9tYWluWydzaXRlbWFwX3VybCddKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRkYXRhWydsaXZlX2RhdGFfbmFtZSddID0gJGxkWyduYW1lJ107Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICQoIiNleHBvcnRMaXZlRGF0YUVtYWlsIikudmFsKCcnKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
