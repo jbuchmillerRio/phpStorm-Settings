@@ -143,10 +143,11 @@
       <file name="$USER_HOME$/Documents/Rio/rls-lib-user/src/Model/User.php" timestamp="1496253833791">
         <mark key="[" line="64" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-client_lib/module/Locator/Manager/ClientSitemapManager.php" timestamp="1497998282020">
-        <mark key="]" line="160" column="55" />
-        <mark key="^" line="160" column="55" />
-        <mark key="." line="160" column="55" />
+      <file name="$USER_HOME$/Documents/Rio/rls-client_lib/module/Locator/Manager/ClientSitemapManager.php" timestamp="1497998566875">
+        <mark key="[" line="130" column="22" />
+        <mark key="]" line="130" column="23" />
+        <mark key="^" line="130" column="23" />
+        <mark key="." line="130" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/BazaarVoice/ProductManager.php" timestamp="1497733881557" />
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/vendor/zendframework/zendframework/library/Zend/View/Helper/Navigation/AbstractHelper.php" timestamp="1493767260316">
@@ -433,7 +434,7 @@
       <file name="$USER_HOME$/Documents/Rio/rls-lib-datastore/Gruntfile.js" timestamp="1483922260074">
         <mark key="[" line="5" column="52" />
       </file>
-      <file name="/Dummy.txt" timestamp="1497998293576">
+      <file name="/Dummy.txt" timestamp="1497998327877">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/public/js/rls/rls_location.js" timestamp="1491511974644">
