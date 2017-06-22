@@ -58,12 +58,6 @@
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/vhosts/bofa.dashboard.conf" timestamp="1494718609097">
         <mark key="[" line="3" column="51" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/SpecialtiesManager.php" timestamp="1498170185527">
-        <mark key="[" line="1130" column="56" />
-        <mark key="]" line="1172" column="49" />
-        <mark key="^" line="1172" column="49" />
-        <mark key="." line="1172" column="49" />
-      </file>
       <file name="$USER_HOME$/Documents/Rio/rls-cms/src/RLS/Controller/HoursController.php" timestamp="1497541098105">
         <mark key="[" line="158" column="90" />
         <mark key="]" line="162" column="0" />
@@ -242,12 +236,6 @@
       <file name="$USER_HOME$/Documents/Rio/rls-cms/src/RLS/Middleware/Rbac/UserRbac.php" timestamp="1496782391575">
         <mark key="[" line="41" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/ContactManager.php" timestamp="1498168329007">
-        <mark key="[" line="222" column="0" />
-        <mark key="]" line="222" column="0" />
-        <mark key="^" line="217" column="16" />
-        <mark key="." line="222" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lib-user/tests/SAML/ClaimMappingFactoryTest.php" timestamp="1491239684138">
         <mark key="[" line="11" column="28" />
       </file>
@@ -303,12 +291,6 @@
       <file name="$USER_HOME$/Documents/Rio/rls-client_lib/module/Locator/Model/SitemapIndex.php" timestamp="1498153561915" />
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/scripts/gmb_attributes_updater.php" timestamp="1494104306742">
         <mark key="[" line="70" column="55" />
-      </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/DataTransfer/Processor/DefaultProcessor.php" timestamp="1498168481112">
-        <mark key="[" line="273" column="84" />
-        <mark key="]" line="274" column="52" />
-        <mark key="^" line="274" column="52" />
-        <mark key="." line="274" column="52" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/public/js/rls/rls_live_data_field/rls_live_data_definition_controller.js" timestamp="1496352811259">
         <mark key="[" line="41" column="58" />
@@ -437,7 +419,7 @@
       <file name="$USER_HOME$/Documents/Rio/rls-lib-datastore/Gruntfile.js" timestamp="1483922260074">
         <mark key="[" line="5" column="52" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498151643769">
+      <file name="/Dummy.txt" timestamp="1498170359853">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/public/js/rls/rls_location.js" timestamp="1491511974644">
