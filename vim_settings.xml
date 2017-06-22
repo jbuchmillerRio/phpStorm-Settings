@@ -232,11 +232,6 @@
         <mark key="^" line="173" column="59" />
         <mark key="." line="173" column="61" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/vendor/rioseo/rls-lib-hours/src/HoursManager.php" timestamp="1498146481553">
-        <mark key="[" line="383" column="55" />
-        <mark key="]" line="429" column="0" />
-        <mark key="." line="429" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Rio/rls-cms/src/RLS/Exception/DoesNotExist.php" timestamp="1495643384528">
         <mark key="[" line="5" column="19" />
       </file>
@@ -351,11 +346,6 @@
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-cms/src/RLS/Manager/HoursManager.php" timestamp="1487349362876">
         <mark key="[" line="100" column="4" />
-      </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/scripts/async_email_export_feeds.php" timestamp="1497892788743">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-cms/src/RLS/Manager/SpecialtyManager.php" timestamp="1485359345381">
         <mark key="[" line="200" column="57" />
