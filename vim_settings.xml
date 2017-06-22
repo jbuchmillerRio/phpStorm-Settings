@@ -22,11 +22,6 @@
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/vendor/rioseo/rls-lib-hours/vendor/rioseo/rls-lib-history/composer.json" timestamp="1484178277847">
         <mark key="[" line="39" column="57" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0d038304-9170-416f-a634-b570ce79034f/console.sql" timestamp="1497458747422">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lib-user/tests/fixture/settingsTestFixtureNox509certIDPFile.php" timestamp="1494005642888">
         <mark key="[" line="36" column="23" />
       </file>
@@ -241,8 +236,11 @@
       <file name="$USER_HOME$/Documents/Rio/rls-cms/src/RLS/Middleware/Rbac/UserRbac.php" timestamp="1496782391575">
         <mark key="[" line="41" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/ContactManager.php" timestamp="1485810594737">
-        <mark key="[" line="105" column="20" />
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/ContactManager.php" timestamp="1498168329007">
+        <mark key="[" line="222" column="0" />
+        <mark key="]" line="222" column="0" />
+        <mark key="^" line="217" column="16" />
+        <mark key="." line="222" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lib-user/tests/SAML/ClaimMappingFactoryTest.php" timestamp="1491239684138">
         <mark key="[" line="11" column="28" />
@@ -300,11 +298,11 @@
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/scripts/gmb_attributes_updater.php" timestamp="1494104306742">
         <mark key="[" line="70" column="55" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/DataTransfer/Processor/DefaultProcessor.php" timestamp="1497975536672">
-        <mark key="[" line="827" column="130" />
-        <mark key="]" line="827" column="188" />
-        <mark key="^" line="827" column="188" />
-        <mark key="." line="827" column="188" />
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/DataTransfer/Processor/DefaultProcessor.php" timestamp="1498168481112">
+        <mark key="[" line="273" column="84" />
+        <mark key="]" line="274" column="52" />
+        <mark key="^" line="274" column="52" />
+        <mark key="." line="274" column="52" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/public/js/rls/rls_live_data_field/rls_live_data_definition_controller.js" timestamp="1496352811259">
         <mark key="[" line="41" column="58" />
@@ -320,11 +318,6 @@
         <mark key="]" line="42" column="41" />
         <mark key="." line="42" column="41" />
         <mark key="^" line="42" column="41" />
-      </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/public/js/rls/rls_live_data_field/rls_live_data_field_controller.js" timestamp="1497914218432">
-        <mark key="[" line="512" column="0" />
-        <mark key="]" line="512" column="0" />
-        <mark key="." line="512" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lib-user/tests/Mocks/UserManagerMock.php" timestamp="1491847670772">
         <mark key="[" line="14" column="17" />
@@ -429,7 +422,7 @@
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/vendor/zendframework/zendframework/library/Zend/View/Helper/Navigation.php" timestamp="1494639855655">
         <mark key="[" line="196" column="28" />
       </file>
-      <file name="/dummy.sql" timestamp="1497997697987">
+      <file name="/dummy.sql" timestamp="1498167918799">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.php" timestamp="1489970184289">
@@ -482,11 +475,6 @@
         <mark key="]" line="543" column="59" />
         <mark key="^" line="543" column="59" />
         <mark key="." line="543" column="59" />
-      </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/ExportManager.php" timestamp="1497914052087">
-        <mark key="[" line="1032" column="0" />
-        <mark key="]" line="1032" column="0" />
-        <mark key="." line="1032" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/vendor/rioseo/rls-lib-hours/src/HoursSetManager.php" timestamp="1487788942910">
         <mark key="[" line="68" column="45" />
@@ -605,7 +593,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJGNoaWxkSG91cnMgPSBlbXB0eSgkY2hpbGRbJ2hvdXJzJ10pID8gW10gJGNoaWxkWydob3VycyddOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>'</text>
@@ -614,34 +602,34 @@
         <text>saveOver</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IEhUVFBfU0NIRU1FID0gJ2h0dHAnOwo=</text>
+        <text encoding="base64">ICAgICAqIEB0aHJvd3MgXEludmFsaWRBcmd1bWVudEV4Y2VwdGlvbiBpZiBsaWQgaXMgbWlzc2luZyBmcm9tIGRhdGEgYXJyYXkK</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIAogICAgLyoqCiAgICAgKiBTYXZlIGNvbnRhY3QgZm9yIGxvY2F0aW9uCiAgICAgKgogICAgICogQHBhcmFtIGFycmF5ICRkYXRhCiAgICAgKiBAcGFyYW0gc3RyaW5nICRpbnB1dE1vZGUKICAgICAqIEBwYXJhbSBib29sZWFuICRwcm9jZXNzSnNvbgogICAgICogQHJldHVybiBib29sZWFufGNvbnRhY3RJZCBpZiBhIG5ldyBjb250YWN0IHJlY29yZCB3YXMgY3JlYXRlZAogICAgICogQHRocm93cyBcSW52YWxpZEFyZ3VtZW50RXhjZXB0aW9uIGlmIGxpZCBpcyBtaXNzaW5nIGZyb20gZGF0YSBhcnJheQogICAgICov</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgIC8qKgogICAgICogU2F2ZSBjb250YWN0IGZvciBsb2NhdGlvbgogICAgICoKICAgICAqIEBwYXJhbSBhcnJheSAkZGF0YQogICAgICogQHBhcmFtIHN0cmluZyAkaW5wdXRNb2RlCiAgICAgKiBAcGFyYW0gYm9vbGVhbiAkcHJvY2Vzc0pzb24KICAgICAqIEByZXR1cm4gYm9vbGVhbnxjb250YWN0SWQgaWYgYSBuZXcgY29udGFjdCByZWNvcmQgd2FzIGNyZWF0ZWQKICAgICAqIEB0aHJvd3MgXEludmFsaWRBcmd1bWVudEV4Y2VwdGlvbiBpZiBsaWQgaXMgbWlzc2luZyBmcm9tIGRhdGEgYXJyYXkKICAgICAqLw==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJGNoaWxkSG91cnMgPSBlbXB0eSgkY2hpbGRbJ2hvdXJzJ10pID8gW10gJGNoaWxkWydob3VycyddOwo=</text>
       </register>
-      <register name="2" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJG15RXJyb3JzID0gJHZhbGlkYXRvci0+Z2V0RXJyb3JzKCk7Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAkc2NoZW1hID0gZW1wdHkoJGRvbWFpbltzZWxmOjokZG9tYWluU2l0ZW1hcFByZWZpeF0pID8gJGh0dHAgOiAkZG9tYWluW3NlbGY6OiRkb21haW5TaXRlbWFwUHJlZml4XTsK</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICAgICAgICAkZG9tYWluTmFtZSA9ICRkb21haW5bc2VsZjo6JGRvbWFpbk5hbWVLZXldOwogICAgICAgICRkb21haW5Mb2MgPSAkZG9tYWluW3NlbGY6OiRkb21haW5Mb2NLZXldOw==</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBpZigkZG9tYWluW3NlbGY6OiRkb21dKQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZigkZG9tYWluW3NlbGY6OiRkb21haW5fc2l0ZW1hcF9wcmVmaXhdKSB7Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">UkxTLTM3MDggVXBkYXRlZCBwZXIgdG8gaGF2ZSBuaWNlciBpbnRlcmZhY2UuCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgXExvZ2dlcjo6ZGVidWcoIi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -680,9 +668,6 @@
         <entry>saveOver</entry>
       </history-search>
       <history-cmd>
-        <entry>199</entry>
-        <entry>248</entry>
-        <entry>329</entry>
         <entry>198</entry>
         <entry>325</entry>
         <entry>82</entry>
@@ -699,6 +684,9 @@
         <entry>67</entry>
         <entry>402</entry>
         <entry>589</entry>
+        <entry>660</entry>
+        <entry>222</entry>
+        <entry>274</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
