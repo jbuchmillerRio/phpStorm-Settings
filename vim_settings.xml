@@ -58,6 +58,12 @@
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/vhosts/bofa.dashboard.conf" timestamp="1494718609097">
         <mark key="[" line="3" column="51" />
       </file>
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/SpecialtiesManager.php" timestamp="1498170185527">
+        <mark key="[" line="1130" column="56" />
+        <mark key="]" line="1172" column="49" />
+        <mark key="^" line="1172" column="49" />
+        <mark key="." line="1172" column="49" />
+      </file>
       <file name="$USER_HOME$/Documents/Rio/rls-cms/src/RLS/Controller/HoursController.php" timestamp="1497541098105">
         <mark key="[" line="158" column="90" />
         <mark key="]" line="162" column="0" />
@@ -632,7 +638,7 @@
         <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>123</text>
       </register>
     </registers>
     <search>
@@ -668,8 +674,6 @@
         <entry>saveOver</entry>
       </history-search>
       <history-cmd>
-        <entry>198</entry>
-        <entry>325</entry>
         <entry>82</entry>
         <entry>59</entry>
         <entry>340</entry>
@@ -687,7 +691,9 @@
         <entry>660</entry>
         <entry>222</entry>
         <entry>274</entry>
+        <entry>1168</entry>
         <entry>w</entry>
+        <entry>123</entry>
       </history-cmd>
       <history-expr />
       <history-input />
