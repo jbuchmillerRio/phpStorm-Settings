@@ -36,6 +36,12 @@
       <file name="$USER_HOME$/Documents/Rio/rls-lib-user/tests/Mock/UserMock.php" timestamp="1491845254400">
         <mark key="[" line="13" column="29" />
       </file>
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/module/Services/src/Services/Controller/HoursController.php" timestamp="1498148048043">
+        <mark key="[" line="588" column="39" />
+        <mark key="]" line="588" column="39" />
+        <mark key="^" line="588" column="39" />
+        <mark key="." line="588" column="39" />
+      </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/scripts/migration/migrate_hours.php" timestamp="1487697057609">
         <mark key="[" line="87" column="88" />
       </file>
@@ -397,7 +403,7 @@
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/module/Services/config/module.config.php" timestamp="1496702945364">
         <mark key="[" line="9" column="40" />
       </file>
-      <file name="/PHP Console" timestamp="1498147275721">
+      <file name="/PHP Console" timestamp="1498147898484">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/vendor/rioseo/rls-lib-hours/tests/HoursManagerTest.php" timestamp="1486842714786">
@@ -600,11 +606,11 @@
       <jump line="65" column="28" filename="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/LiveData/LiveDataHistoryManager.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJG15RXJyb3JzID0gJHZhbGlkYXRvci0+Z2V0RXJyb3JzKCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>:</text>
       </register>
       <register name="-" type="4">
-        <text>$domain[self::$domainSitemapPrefix] ;</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>saveOver</text>
@@ -676,8 +682,6 @@
         <entry>saveOver</entry>
       </history-search>
       <history-cmd>
-        <entry>212</entry>
-        <entry>238</entry>
         <entry>199</entry>
         <entry>248</entry>
         <entry>329</entry>
@@ -695,6 +699,8 @@
         <entry>807</entry>
         <entry>46</entry>
         <entry>67</entry>
+        <entry>402</entry>
+        <entry>589</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
