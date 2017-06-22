@@ -129,6 +129,7 @@
       <file name="$USER_HOME$/Documents/Rio/rls-cms/vendor/rioseo/rls-lib-user/src/SAML/SAMLManager.php" timestamp="1496947317432">
         <mark key="[" line="134" column="49" />
       </file>
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/scripts/patch_tenantsDB.php" timestamp="1498153612485" />
       <file name="$USER_HOME$/Documents/Rio/rls-lib-user/src/Exception/SAMLExeception.php" timestamp="1493073101916">
         <mark key="[" line="2" column="22" />
       </file>
@@ -300,6 +301,7 @@
         <mark key="." line="66" column="47" />
         <mark key="^" line="66" column="47" />
       </file>
+      <file name="$USER_HOME$/Documents/Rio/rls-client_lib/module/Locator/Model/SitemapIndex.php" timestamp="1498153561915" />
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/scripts/gmb_attributes_updater.php" timestamp="1494104306742">
         <mark key="[" line="70" column="55" />
       </file>
@@ -375,6 +377,12 @@
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lib-history/src/Document/DynamicFieldDocument.php" timestamp="1482347903718">
         <mark key="[" line="9" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/scripts/updateLiveDatahistory.php" timestamp="1498154021079">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="21" column="47" />
+        <mark key="^" line="21" column="47" />
+        <mark key="." line="21" column="47" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/vendor/rioseo/rls-lib-datastore/src/KafkaBackend.php" timestamp="1490032609115">
         <mark key="[" line="136" column="4" />
