@@ -452,11 +452,11 @@
       <file name="$USER_HOME$/Documents/Rio/docker-rls/apache/proc/settings.php" timestamp="1494367704348">
         <mark key="[" line="52" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lib-user/src/SAML/SAMLManager.php" timestamp="1498238971295">
-        <mark key="[" line="113" column="4" />
-        <mark key="]" line="115" column="77" />
+      <file name="$USER_HOME$/Documents/Rio/rls-lib-user/src/SAML/SAMLManager.php" timestamp="1498239542728">
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="115" column="0" />
         <mark key="^" line="115" column="77" />
-        <mark key="." line="115" column="77" />
+        <mark key="." line="115" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/public/rls_domainEditor.html" timestamp="1496505414175">
         <mark key="[" line="543" column="54" />
@@ -580,8 +580,8 @@
       <jump line="65" column="28" filename="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/LiveData/LiveDataHistoryManager.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>:</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+bG9nZ2VyLT5lcnJvcigiLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tIik7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>:</text>
@@ -593,31 +593,31 @@
         <text encoding="base64">ICAgICAqIEB0aHJvd3MgXEludmFsaWRBcmd1bWVudEV4Y2VwdGlvbiBpZiBsaWQgaXMgbWlzc2luZyBmcm9tIGRhdGEgYXJyYXkK</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+bG9nZ2VyLT5lcnJvcigiLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tIik7Cg==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">ICAgIAogICAgLyoqCiAgICAgKiBTYXZlIGNvbnRhY3QgZm9yIGxvY2F0aW9uCiAgICAgKgogICAgICogQHBhcmFtIGFycmF5ICRkYXRhCiAgICAgKiBAcGFyYW0gc3RyaW5nICRpbnB1dE1vZGUKICAgICAqIEBwYXJhbSBib29sZWFuICRwcm9jZXNzSnNvbgogICAgICogQHJldHVybiBib29sZWFufGNvbnRhY3RJZCBpZiBhIG5ldyBjb250YWN0IHJlY29yZCB3YXMgY3JlYXRlZAogICAgICogQHRocm93cyBcSW52YWxpZEFyZ3VtZW50RXhjZXB0aW9uIGlmIGxpZCBpcyBtaXNzaW5nIGZyb20gZGF0YSBhcnJheQogICAgICov</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">ICAgIC8qKgogICAgICogU2F2ZSBjb250YWN0IGZvciBsb2NhdGlvbgogICAgICoKICAgICAqIEBwYXJhbSBhcnJheSAkZGF0YQogICAgICogQHBhcmFtIHN0cmluZyAkaW5wdXRNb2RlCiAgICAgKiBAcGFyYW0gYm9vbGVhbiAkcHJvY2Vzc0pzb24KICAgICAqIEByZXR1cm4gYm9vbGVhbnxjb250YWN0SWQgaWYgYSBuZXcgY29udGFjdCByZWNvcmQgd2FzIGNyZWF0ZWQKICAgICAqIEB0aHJvd3MgXEludmFsaWRBcmd1bWVudEV4Y2VwdGlvbiBpZiBsaWQgaXMgbWlzc2luZyBmcm9tIGRhdGEgYXJyYXkKICAgICAqLw==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJGNoaWxkSG91cnMgPSBlbXB0eSgkY2hpbGRbJ2hvdXJzJ10pID8gW10gJGNoaWxkWydob3VycyddOwo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJG15RXJyb3JzID0gJHZhbGlkYXRvci0+Z2V0RXJyb3JzKCk7Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAkc2NoZW1hID0gZW1wdHkoJGRvbWFpbltzZWxmOjokZG9tYWluU2l0ZW1hcFByZWZpeF0pID8gJGh0dHAgOiAkZG9tYWluW3NlbGY6OiRkb21haW5TaXRlbWFwUHJlZml4XTsK</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICAgICAgICAkZG9tYWluTmFtZSA9ICRkb21haW5bc2VsZjo6JGRvbWFpbk5hbWVLZXldOwogICAgICAgICRkb21haW5Mb2MgPSAkZG9tYWluW3NlbGY6OiRkb21haW5Mb2NLZXldOw==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZigkZG9tYWluW3NlbGY6OiRkb21dKQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBpZigkZG9tYWluW3NlbGY6OiRkb21dKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
