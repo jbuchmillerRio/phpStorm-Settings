@@ -31,11 +31,11 @@
       <file name="$USER_HOME$/Documents/Rio/rls-lib-user/tests/Mock/UserMock.php" timestamp="1491845254400">
         <mark key="[" line="13" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/module/Services/src/Services/Controller/HoursController.php" timestamp="1498150606434">
-        <mark key="[" line="431" column="27" />
-        <mark key="]" line="402" column="67" />
-        <mark key="^" line="402" column="67" />
-        <mark key="." line="402" column="67" />
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/module/Services/src/Services/Controller/HoursController.php" timestamp="1498247935825">
+        <mark key="[" line="433" column="27" />
+        <mark key="]" line="432" column="23" />
+        <mark key="^" line="432" column="23" />
+        <mark key="." line="432" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/scripts/migration/migrate_hours.php" timestamp="1487697057609">
         <mark key="[" line="87" column="88" />
@@ -424,7 +424,7 @@
       <file name="$USER_HOME$/Documents/Rio/rls-lib-datastore/Gruntfile.js" timestamp="1483922260074">
         <mark key="[" line="5" column="52" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498241610699">
+      <file name="/Dummy.txt" timestamp="1498247663145">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/public/js/rls/rls_location.js" timestamp="1491511974644">
@@ -661,7 +661,6 @@
         <entry>saveOver</entry>
       </history-search>
       <history-cmd>
-        <entry>340</entry>
         <entry>347</entry>
         <entry>271</entry>
         <entry>745</entry>
@@ -680,6 +679,7 @@
         <entry>123</entry>
         <entry>467</entry>
         <entry>573</entry>
+        <entry>427</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
