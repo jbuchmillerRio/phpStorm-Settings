@@ -37,6 +37,7 @@
         <mark key="^" line="432" column="23" />
         <mark key="." line="432" column="23" />
       </file>
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/module/Application/src/Application/Controller/UserController.php" timestamp="1498258075616" />
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/scripts/migration/migrate_hours.php" timestamp="1487697057609">
         <mark key="[" line="87" column="88" />
       </file>
@@ -196,7 +197,7 @@
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/DataTransfer/Processor/AbstractProcessor.php" timestamp="1494104146325">
         <mark key="[" line="75" column="64" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/SAML/BofAClaimManager.php" timestamp="1496947215117">
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/SAML/BofAClaimManager.php" timestamp="1498258473578">
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="0" />
         <mark key="^" line="48" column="103" />
@@ -387,7 +388,7 @@
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/module/Services/config/module.config.php" timestamp="1496702945364">
         <mark key="[" line="9" column="40" />
       </file>
-      <file name="/PHP Console" timestamp="1498149629105">
+      <file name="/PHP Console" timestamp="1498258592394">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/vendor/rioseo/rls-lib-hours/tests/HoursManagerTest.php" timestamp="1486842714786">
@@ -399,7 +400,7 @@
       <file name="$USER_HOME$/Documents/Rio/rls-cms/vendor/rioseo/rls-lib-user/tests/SAML/SAMLManagerTest.php" timestamp="1493072685511">
         <mark key="[" line="275" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/module/Services/src/Services/Controller/SAMLController.php" timestamp="1498253305221">
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/module/Services/src/Services/Controller/SAMLController.php" timestamp="1498258100560">
         <mark key="[" line="24" column="37" />
         <mark key="]" line="36" column="42" />
         <mark key="^" line="38" column="38" />
@@ -457,7 +458,7 @@
       <file name="$USER_HOME$/Documents/Rio/docker-rls/apache/proc/settings.php" timestamp="1494367704348">
         <mark key="[" line="52" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lib-user/src/SAML/SAMLManager.php" timestamp="1498253580558">
+      <file name="$USER_HOME$/Documents/Rio/rls-lib-user/src/SAML/SAMLManager.php" timestamp="1498256507162">
         <mark key="[" line="97" column="0" />
         <mark key="]" line="97" column="0" />
         <mark key="^" line="97" column="39" />
@@ -625,7 +626,7 @@
         <text encoding="base64">ICAgICAgICAkc2NoZW1hID0gZW1wdHkoJGRvbWFpbltzZWxmOjokZG9tYWluU2l0ZW1hcFByZWZpeF0pID8gJGh0dHAgOiAkZG9tYWluW3NlbGY6OiRkb21haW5TaXRlbWFwUHJlZml4XTsK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>184</text>
       </register>
     </registers>
     <search>
@@ -661,7 +662,6 @@
         <entry>saveOver</entry>
       </history-search>
       <history-cmd>
-        <entry>347</entry>
         <entry>271</entry>
         <entry>745</entry>
         <entry>135</entry>
@@ -681,6 +681,7 @@
         <entry>573</entry>
         <entry>427</entry>
         <entry>w</entry>
+        <entry>184</entry>
       </history-cmd>
       <history-expr />
       <history-input />
