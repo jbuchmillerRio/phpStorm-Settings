@@ -47,7 +47,7 @@
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/vendor/rioseo/rls-lib-hours/vendor/rioseo/rls-lib-history/src/HistoryInterface.php" timestamp="1485465295317">
         <mark key="[" line="13" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/SAML/RioClaimManager.php" timestamp="1496947207738">
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/SAML/RioClaimManager.php" timestamp="1498357839353">
         <mark key="[" line="78" column="25" />
         <mark key="]" line="79" column="43" />
         <mark key="^" line="79" column="43" />
@@ -197,11 +197,11 @@
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/DataTransfer/Processor/AbstractProcessor.php" timestamp="1494104146325">
         <mark key="[" line="75" column="64" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/SAML/BofAClaimManager.php" timestamp="1498349370678">
-        <mark key="[" line="2" column="37" />
-        <mark key="]" line="47" column="0" />
-        <mark key="^" line="48" column="103" />
-        <mark key="." line="47" column="0" />
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/SAML/BofAClaimManager.php" timestamp="1498357746118">
+        <mark key="[" line="27" column="4" />
+        <mark key="]" line="27" column="4" />
+        <mark key="^" line="17" column="33" />
+        <mark key="." line="27" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/public/js/rls/rls_mpt.js" timestamp="1496505787198">
         <mark key="[" line="39" column="0" />
@@ -388,7 +388,7 @@
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/module/Services/config/module.config.php" timestamp="1496702945364">
         <mark key="[" line="9" column="40" />
       </file>
-      <file name="/PHP Console" timestamp="1498349558617">
+      <file name="/PHP Console" timestamp="1498357923671">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/vendor/rioseo/rls-lib-hours/tests/HoursManagerTest.php" timestamp="1486842714786">
@@ -425,7 +425,7 @@
       <file name="$USER_HOME$/Documents/Rio/rls-lib-datastore/Gruntfile.js" timestamp="1483922260074">
         <mark key="[" line="5" column="52" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498349522374">
+      <file name="/Dummy.txt" timestamp="1498357631586">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/public/js/rls/rls_location.js" timestamp="1491511974644">
@@ -586,11 +586,11 @@
       <jump line="65" column="28" filename="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/LiveData/LiveDataHistoryManager.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgXExvZ2dlcjo6ZGVidWcoJHBhcmFtZXRlcnMpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>private</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>private</text>
       </register>
       <register name="/" type="4">
         <text>Active</text>
@@ -626,7 +626,7 @@
         <text encoding="base64">ICAgICAgICAkc2NoZW1hID0gZW1wdHkoJGRvbWFpbltzZWxmOjokZG9tYWluU2l0ZW1hcFByZWZpeF0pID8gJGh0dHAgOiAkZG9tYWluW3NlbGY6OiRkb21haW5TaXRlbWFwUHJlZml4XTsK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>49</text>
       </register>
     </registers>
     <search>
@@ -662,7 +662,6 @@
         <entry>Active</entry>
       </history-search>
       <history-cmd>
-        <entry>271</entry>
         <entry>745</entry>
         <entry>135</entry>
         <entry>174</entry>
@@ -682,6 +681,7 @@
         <entry>427</entry>
         <entry>184</entry>
         <entry>w</entry>
+        <entry>49</entry>
       </history-cmd>
       <history-expr />
       <history-input />
