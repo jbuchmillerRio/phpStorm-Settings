@@ -2,7 +2,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="57792874-d0f6-4019-a1a7-374fa44ad2f3" name="BofA SSO" url="http://bofadev.adfs.rioseo.com/">
-        <fileTransfer host="aws-useast1a-boa-sso-dev.cloud.rioseo.com" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/var/www/html/dev/jimmy-lbe" accessType="SFTP" keyPair="true">
+        <fileTransfer host="aws-useast1a-boa-sso-dev.cloud.rioseo.com" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/var/www/html/dev/jimmy" accessType="SFTP" keyPair="true">
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
