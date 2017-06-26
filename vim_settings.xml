@@ -122,7 +122,7 @@
       <file name="$USER_HOME$/Documents/rls-lbe/module/Services/src/Services/Controller/HoursController.php" timestamp="1496165313710">
         <mark key="[" line="394" column="46" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-cms/vendor/rioseo/rls-lib-user/src/SAML/SAMLManager.php" timestamp="1498485259545">
+      <file name="$USER_HOME$/Documents/Rio/rls-cms/vendor/rioseo/rls-lib-user/src/SAML/SAMLManager.php" timestamp="1498503608140">
         <mark key="'" line="68" column="4" />
         <mark key="[" line="134" column="49" />
       </file>
@@ -286,17 +286,20 @@
       <file name="$USER_HOME$/Documents/Rio/rls-cms/src/RLS/Controller/AuthController.php" timestamp="1495041373705">
         <mark key="[" line="145" column="65" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/module/Services/src/Services/Controller/ADFSController.php" timestamp="1498499793030">
-        <mark key="[" line="58" column="37" />
-        <mark key="]" line="51" column="0" />
-        <mark key="^" line="43" column="31" />
-        <mark key="." line="51" column="0" />
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/module/Services/src/Services/Controller/ADFSController.php" timestamp="1498503952438">
+        <mark key="[" line="58" column="38" />
+        <mark key="]" line="42" column="38" />
+        <mark key="^" line="42" column="38" />
+        <mark key="." line="42" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/public/rls_locationEditor.html" timestamp="1497914108806">
         <mark key="[" line="727" column="65" />
         <mark key="]" line="727" column="64" />
         <mark key="." line="727" column="64" />
         <mark key="^" line="727" column="64" />
+      </file>
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/vendor/onelogin/php-saml/lib/Saml2/Response.php" timestamp="1498503961308">
+        <mark key="'" line="95" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/DataTransfer/Processor/BofAAtm.php" timestamp="1486832011854">
         <mark key="[" line="435" column="96" />
@@ -511,7 +514,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="0" filename="$USER_HOME$/Documents/Rio/rls-cms/src/RLS/Manager/SAMLClaimsManagement/HallmarkClaimManager.php" />
       <jump line="7" column="17" filename="$USER_HOME$/Documents/Rio/rls-cms/src/RLS/Manager/SAMLClaimsManagement/HallmarkClaimManager.php" />
       <jump line="9" column="17" filename="$USER_HOME$/Documents/Rio/rls-cms/src/RLS/Manager/SAMLClaimsManagement/HallmarkClaimManager.php" />
       <jump line="90" column="7" filename="$USER_HOME$/Documents/Rio/rls-cms/src/RLS/Manager/SAMLClaimsManagement/HallmarkClaimManager.php" />
@@ -611,6 +613,7 @@
       <jump line="68" column="4" filename="$USER_HOME$/Documents/Rio/rls-cms/vendor/rioseo/rls-lib-user/src/SAML/SAMLManager.php" />
       <jump line="116" column="34" filename="$USER_HOME$/Documents/Rio/rls-lbe/module/Services/Module.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Rio/rls-lbe/module/Services/Module.php" />
+      <jump line="95" column="41" filename="$USER_HOME$/Documents/Rio/rls-lbe/vendor/onelogin/php-saml/lib/Saml2/Response.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -620,7 +623,7 @@
         <text>$data</text>
       </register>
       <register name="/" type="4">
-        <text>meta</text>
+        <text>loadXML</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkbG9nZ2VyLT5kZWJ1ZyhwcmludF9yKCRkYXRhWydTQU1MUmVzcG9uc2UnXSwgdHJ1ZSkpOwo=</text>
@@ -657,9 +660,9 @@
       </register>
     </registers>
     <search>
-      <last-search>meta</last-search>
+      <last-search>loadXML</last-search>
       <last-offset />
-      <last-pattern>meta</last-pattern>
+      <last-pattern>loadXML</last-pattern>
       <last-replace>other_one\.</last-replace>
       <last-substitute>otherone\.</last-substitute>
       <last-dir>1</last-dir>
@@ -667,7 +670,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ContainerInterface</entry>
         <entry>124</entry>
         <entry>APPLICATION</entry>
         <entry>var</entry>
@@ -687,6 +689,7 @@
         <entry>Active</entry>
         <entry>cms</entry>
         <entry>meta</entry>
+        <entry>loadXML</entry>
       </history-search>
       <history-cmd>
         <entry>135</entry>
