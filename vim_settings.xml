@@ -41,11 +41,11 @@
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/scripts/migration/migrate_hours.php" timestamp="1487697057609">
         <mark key="[" line="87" column="88" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/vendor/rioseo/rls-lib-user/src/SAML/SAMLManager.php" timestamp="1498515265987">
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/vendor/rioseo/rls-lib-user/src/SAML/SAMLManager.php" timestamp="1498579208351">
         <mark key="[" line="120" column="0" />
-        <mark key="]" line="120" column="62" />
+        <mark key="]" line="120" column="64" />
+        <mark key="^" line="116" column="60" />
         <mark key="." line="120" column="0" />
-        <mark key="^" line="122" column="58" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/scripts/async_email_export_all.php" timestamp="1494104258688">
         <mark key="[" line="51" column="55" />
@@ -110,10 +110,13 @@
         <mark key="^" line="21" column="6" />
         <mark key="." line="21" column="6" />
       </file>
+      <file name="$USER_HOME$/Downloads/Metadata File_Dev Environment_SSO_2017_10364_Ben.xml" timestamp="1498579000303">
+        <mark key="[" line="64" column="237" />
+      </file>
       <file name="$USER_HOME$/Documents/Rio/rls-cms/vendor/rioseo/rls-lib-history/src/HistoryManager.php" timestamp="1484844559769">
         <mark key="[" line="85" column="36" />
       </file>
-      <file name="/Clipboard.txt" timestamp="1492553344545">
+      <file name="/Clipboard.txt" timestamp="1498579133463">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lib-hours/tests/HoursHistoryTest.php" timestamp="1496354878208">
@@ -428,8 +431,11 @@
       <file name="/PHP Console" timestamp="1498433545207">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-cms/src/RLS/Controller/ADFSController.php" timestamp="1498489538259">
+      <file name="$USER_HOME$/Documents/Rio/rls-cms/src/RLS/Controller/ADFSController.php" timestamp="1498579674280">
         <mark key="[" line="10" column="10" />
+        <mark key="]" line="19" column="6" />
+        <mark key="^" line="19" column="6" />
+        <mark key="." line="19" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/vendor/rioseo/rls-lib-hours/tests/HoursManagerTest.php" timestamp="1486842714786">
         <mark key="[" line="18" column="37" />
@@ -628,7 +634,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBcTG9nZ2VyOjpkZWJ1ZygndXNpbmcgRmFrZSBib2R5IG1heWJlIHlvdSBjb3VsZCBmaXgnKTsK</text>
+        <text encoding="base64">ICAgICAgICBcTG9nZ2VyOjpkZWJ1ZygiLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSIpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>$data</text>
@@ -637,37 +643,37 @@
         <text>=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBcTG9nZ2VyOjpkZWJ1ZygndXNpbmcgRmFrZSBib2R5IG1heWJlIHlvdSBjb3VsZCBmaXgnKTsK</text>
+        <text encoding="base64">ICAgICAgICBcTG9nZ2VyOjpkZWJ1ZygiLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBcTG9nZ2VyOjpkZWJ1ZygndXNpbmcgRmFrZSBib2R5IG1heWJlIHlvdSBjb3VsZCBmaXgnKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkbG9nZ2VyLT5kZWJ1ZyhbJ1NBTUxSZXNwb25zZSddKTsK</text>
+        <text encoding="base64">ICAgICAgICBcTG9nZ2VyOjpkZWJ1ZygndXNpbmcgRmFrZSBib2R5IG1heWJlIHlvdSBjb3VsZCBmaXgnKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBcTG9nZ2VyOjpkZWJ1ZygndXNpbmcgRmFrZSBib2R5IG1heWJlIHlvdSBjb3VsZCBmaXgnKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkbG9nZ2VyLT5kZWJ1ZyhwcmludF9yKCRyZXF1ZXN0LHRydWUpKTsK</text>
+        <text encoding="base64">ICAgICAgICBcTG9nZ2VyOjpkZWJ1ZygndXNpbmcgRmFrZSBib2R5IG1heWJlIHlvdSBjb3VsZCBmaXgnKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkbG9nZ2VyLT5kZWJ1ZygicmVxdWVzdCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBcTG9nZ2VyOjpkZWJ1ZygndXNpbmcgRmFrZSBib2R5IG1heWJlIHlvdSBjb3VsZCBmaXgnKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHVzZXIgPSBuZXcgVXNlcigpOwo=</text>
+        <text encoding="base64">ICAgICAgICBcTG9nZ2VyOjpkZWJ1ZygndXNpbmcgRmFrZSBib2R5IG1heWJlIHlvdSBjb3VsZCBmaXgnKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoZW1wKQo=</text>
+        <text encoding="base64">ICAgICAgICBcTG9nZ2VyOjpkZWJ1ZygndXNpbmcgRmFrZSBib2R5IG1heWJlIHlvdSBjb3VsZCBmaXgnKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIHNlbGY6OkFUVFJJQlVURVMK</text>
+        <text encoding="base64">ICAgICAgICBcTG9nZ2VyOjpkZWJ1ZygndXNpbmcgRmFrZSBib2R5IG1heWJlIHlvdSBjb3VsZCBmaXgnKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkY29udGVudCA9ICRyZXF1ZXN0LT5nZXRDb250ZW50KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBcTG9nZ2VyOjpkZWJ1ZygiLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tIik7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>43</text>
       </register>
     </registers>
     <search>
@@ -703,7 +709,6 @@
         <entry>=</entry>
       </history-search>
       <history-cmd>
-        <entry>135</entry>
         <entry>174</entry>
         <entry>570</entry>
         <entry>807</entry>
@@ -723,6 +728,7 @@
         <entry>49</entry>
         <entry>104</entry>
         <entry>w</entry>
+        <entry>43</entry>
       </history-cmd>
       <history-expr />
       <history-input />
