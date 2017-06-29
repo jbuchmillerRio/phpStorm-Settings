@@ -56,7 +56,7 @@
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/vendor/rioseo/rls-lib-hours/vendor/rioseo/rls-lib-history/src/HistoryInterface.php" timestamp="1485465295317">
         <mark key="[" line="13" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/SAML/RioClaimManager.php" timestamp="1498681961934">
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/SAML/RioClaimManager.php" timestamp="1498696541003">
         <mark key="[" line="122" column="25" />
         <mark key="]" line="125" column="41" />
         <mark key="." line="125" column="41" />
@@ -169,11 +169,10 @@
       <file name="/a.sql" timestamp="1497635177400">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/module/Application/Module.php" timestamp="1498690606812">
-        <mark key="[" line="233" column="0" />
-        <mark key="]" line="233" column="189" />
-        <mark key="." line="233" column="45" />
-        <mark key="^" line="233" column="45" />
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/module/Application/Module.php" timestamp="1498697402827">
+        <mark key="[" line="232" column="0" />
+        <mark key="]" line="232" column="0" />
+        <mark key="." line="232" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/module/Services/src/Services/Controller/ContactController.php" timestamp="1493396953550">
         <mark key="[" line="76" column="0" />
@@ -191,8 +190,8 @@
         <mark key="^" line="428" column="0" />
         <mark key="." line="434" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1497644156387">
-        <mark key="[" line="0" column="29" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1498696544749">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/SAML/HallmarkClaimManager.php" timestamp="1493604004489">
         <mark key="[" line="152" column="4" />
@@ -439,7 +438,7 @@
         <mark key="." line="10" column="36" />
         <mark key="^" line="10" column="36" />
       </file>
-      <file name="/PHP Console" timestamp="1498691017266">
+      <file name="/PHP Console" timestamp="1498696312870">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-cms/src/RLS/Controller/ADFSController.php" timestamp="1498579674280">
@@ -472,7 +471,7 @@
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/vendor/zendframework/zendframework/library/Zend/View/Helper/Navigation.php" timestamp="1494639855655">
         <mark key="[" line="196" column="28" />
       </file>
-      <file name="/dummy.sql" timestamp="1498167918799">
+      <file name="/dummy.sql" timestamp="1498696516537">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.php" timestamp="1489970184289">
@@ -481,7 +480,7 @@
       <file name="$USER_HOME$/Documents/Rio/rls-lib-datastore/Gruntfile.js" timestamp="1483922260074">
         <mark key="[" line="5" column="52" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498687317533">
+      <file name="/Dummy.txt" timestamp="1498697424326">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/public/js/rls/rls_location.js" timestamp="1491511974644">
@@ -648,7 +647,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBcTG9nZ2VyOjpkZWJ1ZyggICAgX19MSU5FX18uICIgICAgIiAuX19MSU5FX18gLiAiICAgIiAuICAgX19MSU5FX18uICIgICAgIiAuX19MSU5FX18gLiAiICAgIiAgIC4gX19MSU5FX18uICIgICAgIiAuX19MSU5FX18gLiAiICAgIi5fX0xJTkVfXy4gIiAgICAiIC5fX0xJTkVfXyAuICIgICAiKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>&quot;RETURNING FIELDS&quot;);</text>
@@ -660,31 +659,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBcTG9nZ2VyOjpkZWJ1ZyggICAgX19DTEFTU19fLiAiICAgICIgLl9fTElORV9fIC4gIiAgICIgLiAgIF9fTElORV9fLiAiICAgICIgLl9fTElORV9fIC4gIiAgICIgICAuIF9fTElORV9fLiAiICAgICIgLl9fTElORV9fIC4gIiAgICIuX19MSU5FX18uICIgICAgIiAuX19MSU5FX18gLiAiICAgIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBcTG9nZ2VyOjpkZWJ1ZyggICAgX19MSU5FX18uICIgICAgIiAuX19MSU5FX18gLiAiICAgIiAuICAgX19MSU5FX18uICIgICAgIiAuX19MSU5FX18gLiAiICAgIiAgIC4gX19MSU5FX18uICIgICAgIiAuX19MSU5FX18gLiAiICAgIi5fX0xJTkVfXy4gIiAgICAiIC5fX0xJTkVfXyAuICIgICAiKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBcTG9nZ2VyOjpkZWJ1ZyggICAgX19MSU5FX18uICIgICAgIiAuX19MSU5FX18gLiAiICAgIiAuICAgX19MSU5FX18uICIgICAgIiAuX19MSU5FX18gLiAiICAgIiAgIC4gX19MSU5FX18uICIgICAgIiAuX19MSU5FX18gLiAiICAgIi5fX0xJTkVfXy4gIiAgICAiIC5fX0xJTkVfXyAuICIgICAiKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBcTG9nZ2VyOjpkZWJ1ZyggICAgX19MSU5FX18uICIgICAgIiAuX19MSU5FX18gLiAiICAgIiAuICAgX19MSU5FX18uICIgICAgIiAuX19MSU5FX18gLiAiICAgIiAgIC4gX19MSU5FX18uICIgICAgIiAuX19MSU5FX18gLiAiICAgIi5fX0xJTkVfXy4gIiAgICAiIC5fX0xJTkVfXyAuICIgICAiKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgXExvZ2dlcjo6ZGVidWcoICAgIF9fTElORV9fLiAiICAgICIgLl9fTElORV9fIC4gIiAgICIgLiAgIF9fTElORV9fLiAiICAgICIgLl9fTElORV9fIC4gIiAgICIgICAuIF9fTElORV9fLiAiICAgICIgLl9fTElORV9fIC4gIiAgICIuX19MSU5FX18uICIgICAgIiAuX19MSU5FX18gLiAiICAgIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBcTG9nZ2VyOjpkZWJ1ZyggICAgX19DTEFTU19fLiAiICAgICIgLl9fTElORV9fIC4gIiAgICIgLiAgIF9fTElORV9fLiAiICAgICIgLl9fTElORV9fIC4gIiAgICIgICAuIF9fTElORV9fLiAiICAgICIgLl9fTElORV9fIC4gIiAgICIuX19MSU5FX18uICIgICAgIiAuX19MSU5FX18gLiAiICAgIik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFxMb2dnZXI6OmRlYnVnKCAgICBfX0xJTkVfXy4gIiAgICAiIC5fX0xJTkVfXyAuICIgICAiIC4gICBfX0xJTkVfXy4gIiAgICAiIC5fX0xJTkVfXyAuICIgICAiICAgLiBfX0xJTkVfXy4gIiAgICAiIC5fX0xJTkVfXyAuICIgICAiLl9fTElORV9fLiAiICAgICIgLl9fTElORV9fIC4gIiAgICIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBcTG9nZ2VyOjpkZWJ1ZyggICAgX19MSU5FX18uICIgICAgIiAuX19MSU5FX18gLiAiICAgIiAuICAgX19MSU5FX18uICIgICAgIiAuX19MSU5FX18gLiAiICAgIiAgIC4gX19MSU5FX18uICIgICAgIiAuX19MSU5FX18gLiAiICAgIi5fX0xJTkVfXy4gIiAgICAiIC5fX0xJTkVfXyAuICIgICAiKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgXExvZ2dlcjo6ZGVidWcoICAgIF9fTElORV9fLiAiICAgICIgLl9fTElORV9fIC4gIiAgICIgLiAgIF9fTElORV9fLiAiICAgICIgLl9fTElORV9fIC4gIiAgICIgICAuIF9fTElORV9fLiAiICAgICIgLl9fTElORV9fIC4gIiAgICIuX19MSU5FX18uICIgICAgIiAuX19MSU5FX18gLiAiICAgIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBcTG9nZ2VyOjpkZWJ1ZyggICAgX19MSU5FX18uICIgICAgIiAuX19MSU5FX18gLiAiICAgIiAuICAgX19MSU5FX18uICIgICAgIiAuX19MSU5FX18gLiAiICAgIiAgIC4gX19MSU5FX18uICIgICAgIiAuX19MSU5FX18gLiAiICAgIi5fX0xJTkVfXy4gIiAgICAiIC5fX0xJTkVfXyAuICIgICAiKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgXExvZ2dlcjo6ZGVidWcoICAgIF9fTElORV9fLiAiICAgICIgLl9fTElORV9fIC4gIiAgICIgLiAgIF9fTElORV9fLiAiICAgICIgLl9fTElORV9fIC4gIiAgICIgICAuIF9fTElORV9fLiAiICAgICIgLl9fTElORV9fIC4gIiAgICIuX19MSU5FX18uICIgICAgIiAuX19MSU5FX18gLiAiICAgIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBcTG9nZ2VyOjpkZWJ1ZyggICAgX19MSU5FX18uICIgICAgIiAuX19MSU5FX18gLiAiICAgIiAuICAgX19MSU5FX18uICIgICAgIiAuX19MSU5FX18gLiAiICAgIiAgIC4gX19MSU5FX18uICIgICAgIiAuX19MSU5FX18gLiAiICAgIi5fX0xJTkVfXy4gIiAgICAiIC5fX0xJTkVfXyAuICIgICAiKTsK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgXExvZ2dlcjo6ZGVidWcoICAgIF9fTElORV9fLiAiICAgICIgLl9fTElORV9fIC4gIiAgICIgLiAgIF9fTElORV9fLiAiICAgICIgLl9fTElORV9fIC4gIiAgICIgICAuIF9fTElORV9fLiAiICAgICIgLl9fTElORV9fIC4gIiAgICIuX19MSU5FX18uICIgICAgIiAuX19MSU5FX18gLiAiICAgIik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgXExvZ2dlcjo6ZGVidWcoICAgIF9fTElORV9fLiAiICAgICIgLl9fTElORV9fIC4gIiAgICIgLiAgIF9fTElORV9fLiAiICAgICIgLl9fTElORV9fIC4gIiAgICIgICAuIF9fTElORV9fLiAiICAgICIgLl9fTElORV9fIC4gIiAgICIuX19MSU5FX18uICIgICAgIiAuX19MSU5FX18gLiAiICAgIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFxMb2dnZXI6OmRlYnVnKCAgICBfX0xJTkVfXy4gIiAgICAiIC5fX0xJTkVfXyAuICIgICAiIC4gICBfX0xJTkVfXy4gIiAgICAiIC5fX0xJTkVfXyAuICIgICAiICAgLiBfX0xJTkVfXy4gIiAgICAiIC5fX0xJTkVfXyAuICIgICAiLl9fTElORV9fLiAiICAgICIgLl9fTElORV9fIC4gIiAgICIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
