@@ -6,6 +6,7 @@
       <file name="$USER_HOME$/Documents/Rio/rls-lib-user/tests/AbstractUserManager.php" timestamp="1491846333743">
         <mark key="[" line="11" column="24" />
       </file>
+      <file name="$USER_HOME$/Documents/Rio/rls-lib-user/src/Model/UserRole.php" timestamp="1498775386518" />
       <file name="/a.dummy" timestamp="1495648298350">
         <mark key="[" line="0" column="0" />
       </file>
@@ -126,6 +127,7 @@
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/SAML/HallmarkClaimManager.php" timestamp="1493604004489">
         <mark key="[" line="152" column="4" />
       </file>
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/vendor/rioseo/rls-lib-rbac/src/Runtime/PermissionStorage.php" timestamp="1498776338392" />
       <file name="$USER_HOME$/Documents/Rio/rls-cms/vendor/rioseo/rls-lib-images/composer.json" timestamp="1487094431278">
         <mark key="[" line="22" column="39" />
       </file>
@@ -136,7 +138,7 @@
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/LocationApiManager.php" timestamp="1497631469620">
         <mark key="[" line="213" column="32" />
       </file>
-      <file name="/fragment.php" timestamp="1498767841866">
+      <file name="/fragment.php" timestamp="1498776050749">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/public/js/rls/rls_feeds.js" timestamp="1490149484432">
@@ -268,7 +270,7 @@
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/ActiveDirectory/HallmarkClaimManager.php" timestamp="1488576219617">
         <mark key="[" line="2" column="13" />
       </file>
-      <file name="/PHP Console" timestamp="1498773829530">
+      <file name="/PHP Console" timestamp="1498775865547">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/vendor/rioseo/rls-lib-hours/tests/HoursManagerTest.php" timestamp="1486842714786">
@@ -283,6 +285,9 @@
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/module/Services/src/Services/Controller/SAMLController.php" timestamp="1498750569520" />
       <file name="$USER_HOME$/Documents/Rio/rls-lib-user/tests/SAML/ClaimManagerAbstract.php" timestamp="1491239519591">
         <mark key="[" line="11" column="25" />
+      </file>
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Model/User.php" timestamp="1498775363698">
+        <mark key="[" line="37" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-cms/src/RLS/Controller/APIController.php" timestamp="1493152285833">
         <mark key="[" line="59" column="19" />
@@ -299,8 +304,13 @@
       <file name="$USER_HOME$/Documents/Rio/rls-lib-datastore/Gruntfile.js" timestamp="1483922260074">
         <mark key="[" line="5" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-cms/src/RLS/Middleware/Auth.php" timestamp="1498773926771" />
-      <file name="/Dummy.txt" timestamp="1498767385295">
+      <file name="$USER_HOME$/Documents/Rio/rls-cms/src/RLS/Middleware/Auth.php" timestamp="1498776245103">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="^" line="53" column="21" />
+        <mark key="." line="53" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1498776398191">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/public/js/rls/rls_location.js" timestamp="1491511974644">
@@ -433,7 +443,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">JHN0dWZmICAgPSBOZXcgVXNlcigpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>7</text>
@@ -445,22 +455,22 @@
         <text>$_SESSION[SAMLManager::SAML_SESSION]</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">JHN0dWZmICAgPSBOZXcgVXNlcigpOwo=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0KCiAgICAgICAgJHJvdXRlcyA9IGdldFVybFBhdGgoKTsKICAgICAgICAvL2NoZWNrIGZvciBzcGVjaWFsIGNhc2VzIHdoZW4gcm91dGUgaXMgYSBqc29uIG9yIHhtbAogICAgICAgICRsYXN0UG9zID0gMDsgLy90aGUgcG9zaXRpb24gb2YgdGhlIGxhc3QgJy4nCiAgICAgICAgJHBvcyA9IHN0cnBvcygkcm91dGVzWydjb250cm9sbGVyJ10sICcuJywgKCRsYXN0UG9zKzEpKTsKICAgICAgICB3aGlsZSgkcG9zKSB7CiAgICAgICAgICAgICRsYXN0UG9zID0gJHBvczsKICAgICAgICAgICAgJHBvcyA9IHN0cnBvcygkcm91dGVzWydjb250cm9sbGVyJ10sICcuJywgKCRsYXN0UG9zKzEpKTsKICAgICAgICB9CiAgICAgICAgJGVuZCA9IHN1YnN0cigkcm91dGVzWydjb250cm9sbGVyJ10sICRsYXN0UG9zKTsKCiAgICAgICAgaWYgKCRlbmQgPT0gJy5qc29uLycgfHwgJGVuZCA9PSAnLnhtbC8nKSB7CiAgICAgICAgICAgIC8vcmVtb3ZlIHRoZSBsYXN0IHNlZ21lbnQgb2YgdGhlIHJvdXRlCiAgICAgICAgICAgICRwYXJ0cyA9IGV4cGxvZGUoJy8nLCB0cmltKCRyb3V0ZXNbJ2NvbnRyb2xsZXInXSwgJy8nKSk7CiAgICAgICAgICAgIGFycmF5X3BvcCgkcGFydHMpOwogICAgICAgICAgICAkcm91dGVzWydjb250cm9sbGVyJ10gPSAnLycgLiBqb2luKCcvJywgJHBhcnRzKSAuICcvJzsKICAgICAgICB9CgogICAgICAgIC8vY2hlY2sgcGVybWlzc2lvbgogICAgICAgICRhcHAgPSAkZS0+Z2V0QXBwbGljYXRpb24oKTsKICAgICAgICAkc20gPSAkYXBwLT5nZXRTZXJ2aWNlTWFuYWdlcigpOwogICAgICAgICRjb250YWluZXIgPSBcQ29udGFpbmVyOjpnZXRJbnN0YW5jZSgpOwoKICAgICAgICAvKiBAdmFyIFVzZXJNYW5hZ2VyICR1c2VyTWFuYWdlciAqLwogICAgICAgICR1c2VyTWFuYWdlciA9ICRzbS0+Z2V0KFVzZXJNYW5hZ2VyOjpjbGFzcyk7CiAgICAgICAgLyogQHZhciBVc2VyICR1c2VyICovCiAgICAgICAgJHVzZXIgPSAkdXNlck1hbmFnZXItPmdldFVzZXIoZ2V0U2Vzc2lvbigndWlkJywgLTEpKTsKICAgICAgICBpZiAoJHVzZXIgIT0gbnVsbCAmJiAhZW1wdHkoJF9TRVNTSU9OW1NBTUxNYW5hZ2VyOjpTQU1MX1NFU1NJT05dKSAmJiAkX1NFU1NJT05bU0FNTE1hbmFnZXI6OlNBTUxfU0VTU0lPTl0gPT0gdHJ1ZQogICAgICAgICAgICAmJiAhZW1wdHkoJHVzZXItPmdldEFjdGl2ZVJvbGUoKSkKICAgICAgICApIHsKICAgICAgICAgICAgLyogQHZhciBPdmVyc2VlciAkb3ZlcnNlZXIgKi8KICAgICAgICAgICAgJG92ZXJzZWVyID0gJGNvbnRhaW5lci0+Z2V0KCdvdmVyc2VlcicpOwogICAgICAgICAgICAkYSA9ICRvdmVyc2Vlci0+aGFzUGVybWlzc2lvbihzdHJ0b2xvd2VyKCRyb3V0ZXNbJ2NvbnRyb2xsZXInXSksICR1c2VyKTsKICAgICAgICAgICAgJGIgPSAkb3ZlcnNlZXItPmhhc1Blcm1pc3Npb24oc3RydG9sb3dlcigkcm91dGVzWydhY3Rpb24nXSksICR1c2VyKTsKICAgICAgICAgICAgaWYgKCEkYSAmJiAhJGIpIHsKICAgICAgICAgICAgICAgIC8qIEB2YXIgUmVzcG9uc2UgJHJlc3BvbnNlICovCiAgICAgICAgICAgICAgICAkcmVzcG9uc2UgPSAkZS0+Z2V0UmVzcG9uc2UoKTsKICAgICAgICAgICAgICAgIC8vY2hlY2sgaWYgYWpheCByZXF1ZXN0CiAgICAgICAgICAgICAgICBpZiAoJGUtPmdldFJlcXVlc3QoKS0+aXNYbWxIdHRwUmVxdWVzdCgpKSB7CiAgICAgICAgICAgICAgICAgICAgJHJlc3BvbnNlLT5zZXRTdGF0dXNDb2RlKDQwMyk7CiAgICAgICAgICAgICAgICAgICAgJHJlc3BvbnNlLT5zZW5kSGVhZGVycygpOwogICAgICAgICAgICAgICAgICAgIGV4aXQ7CiAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgICRlcnJvciA9ICcvYXBwbGljYXRpb24vaW5kZXgvZXJyb3InOwogICAgICAgICAgICAgICAgICAgICRyZXNwb25zZS0+c2V0U3RhdHVzQ29kZSg0MDMpOwogICAgICAgICAgICAgICAgICAgICRyZXNwb25zZS0+Z2V0SGVhZGVycygpLT5hZGRIZWFkZXJMaW5lKCdMb2NhdGlvbicsICRlcnJvcik7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9Cj4+Pj4+Pj4gUkxTLTMzODYgc3R1ZmY=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAka2V5ID0gX19DTEFTU19fIC4gJzonIC4gX19GVU5DVElPTl9fIC4gJ18nIC4gaW1wbG9kZSgnLCcsICRkaWRzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAka2V5ID0gX19DTEFTU19fIC4gJzonIC4gX19GVU5DVElPTl9fIC4gJ18nIC4gaW1wbG9kZSgnLCcsICRkaWRzKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBcTG9nZ2VyOjpkZWJ1ZygnLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0nKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBcTG9nZ2VyOjpkZWJ1ZygnLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0nKTsK</text>
