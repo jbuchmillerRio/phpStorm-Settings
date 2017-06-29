@@ -51,7 +51,7 @@
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/vendor/rioseo/rls-lib-hours/vendor/rioseo/rls-lib-history/src/HistoryInterface.php" timestamp="1485465295317">
         <mark key="[" line="13" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/SAML/RioClaimManager.php" timestamp="1498750957150">
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/SAML/RioClaimManager.php" timestamp="1498758601824">
         <mark key="[" line="116" column="26" />
         <mark key="]" line="112" column="7" />
         <mark key="^" line="112" column="7" />
@@ -137,6 +137,7 @@
       <file name="$USER_HOME$/Documents/rls-lbe/module/Services/src/Services/Controller/HoursController.php" timestamp="1496165313710">
         <mark key="[" line="394" column="46" />
       </file>
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/DomainManager.php" timestamp="1498758141781" />
       <file name="$USER_HOME$/Documents/Rio/rls-lib-user/src/Exception/SAMLExeception.php" timestamp="1493073101916">
         <mark key="[" line="2" column="22" />
       </file>
@@ -174,14 +175,14 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/module/Services/Module.php" timestamp="1498756108322">
-        <mark key="'" line="429" column="45" />
+        <mark key="'" line="430" column="45" />
         <mark key="[" line="420" column="49" />
         <mark key="]" line="420" column="50" />
         <mark key="^" line="420" column="50" />
         <mark key="." line="420" column="50" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1498749881489">
-        <mark key="[" line="0" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1498758872120">
+        <mark key="[" line="0" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/SAML/HallmarkClaimManager.php" timestamp="1493604004489">
         <mark key="[" line="152" column="4" />
@@ -305,11 +306,11 @@
         <mark key="[" line="70" column="55" />
       </file>
       <file name="/SAMLController.php" timestamp="1498750561966" />
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/DB.php" timestamp="1498683211840">
-        <mark key="[" line="179" column="11" />
-        <mark key="]" line="179" column="0" />
-        <mark key="^" line="179" column="13" />
-        <mark key="." line="179" column="0" />
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/DB.php" timestamp="1498759038967">
+        <mark key="[" line="360" column="0" />
+        <mark key="]" line="360" column="64" />
+        <mark key="^" line="360" column="64" />
+        <mark key="." line="360" column="64" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/public/js/rls/rls_live_data_field/rls_live_data_definition_controller.js" timestamp="1496352811259">
         <mark key="[" line="41" column="58" />
@@ -383,16 +384,16 @@
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/scripts/build/async_uploads_publish.php" timestamp="1494105158131">
         <mark key="[" line="41" column="71" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/module/Services/src/Services/Controller/DomainController.php" timestamp="1498683418991">
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/module/Services/src/Services/Controller/DomainController.php" timestamp="1498758165317">
         <mark key="[" line="64" column="22" />
         <mark key="]" line="64" column="27" />
         <mark key="^" line="64" column="27" />
         <mark key="." line="64" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/SAML/UserRoleManager.php" timestamp="1498749361193">
-        <mark key="[" line="51" column="18" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/SAML/UserRoleManager.php" timestamp="1498758101616">
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
       </file>
       <file name="/var/www/html/dev/rls-lbe/scripts/create_elastic_index.php" timestamp="1485376092714">
         <mark key="[" line="65" column="60" />
@@ -409,7 +410,7 @@
         <mark key="." line="10" column="36" />
         <mark key="^" line="10" column="36" />
       </file>
-      <file name="/PHP Console" timestamp="1498756026583">
+      <file name="/PHP Console" timestamp="1498758635358">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-cms/src/RLS/Controller/ADFSController.php" timestamp="1498579674280">
@@ -437,7 +438,7 @@
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/vendor/zendframework/zendframework/library/Zend/View/Helper/Navigation.php" timestamp="1494639855655">
         <mark key="[" line="196" column="28" />
       </file>
-      <file name="/dummy.sql" timestamp="1498749857469">
+      <file name="/dummy.sql" timestamp="1498758779846">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.php" timestamp="1489970184289">
@@ -446,7 +447,7 @@
       <file name="$USER_HOME$/Documents/Rio/rls-lib-datastore/Gruntfile.js" timestamp="1483922260074">
         <mark key="[" line="5" column="52" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498751540949">
+      <file name="/Dummy.txt" timestamp="1498759240597">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/public/js/rls/rls_location.js" timestamp="1491511974644">
@@ -603,7 +604,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAka2V5ID0gX19DTEFTU19fIC4gJzonIC4gX19GVU5DVElPTl9fIC4gJ18nIC4gaW1wbG9kZSgnLCcsICRkaWRzKTsK</text>
       </register>
       <register name="-" type="4">
         <text>&quot;RETURNING FIELDS&quot;);</text>
@@ -615,10 +616,10 @@
         <text>$_SESSION[SAMLManager::SAML_SESSION]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAka2V5ID0gX19DTEFTU19fIC4gJzonIC4gX19GVU5DVElPTl9fIC4gJ18nIC4gaW1wbG9kZSgnLCcsICRkaWRzKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBcTG9nZ2VyOjpkZWJ1ZygnLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0nKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBcTG9nZ2VyOjpkZWJ1ZygnLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0nKTsK</text>
@@ -630,10 +631,10 @@
         <text encoding="base64">ICAgICAgICBcTG9nZ2VyOjpkZWJ1ZygnLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0nKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBcTG9nZ2VyOjpkZWJ1ZygkcmVzdWx0KTsK</text>
+        <text encoding="base64">ICAgICAgICBcTG9nZ2VyOjpkZWJ1ZygnLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0nKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBcTG9nZ2VyOjpkZWJ1ZygnLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0nKTsK</text>
+        <text encoding="base64">ICAgICAgICBcTG9nZ2VyOjpkZWJ1ZygkcmVzdWx0KTsK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBcTG9nZ2VyOjpkZWJ1ZygnLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0nKTsK</text>
@@ -678,7 +679,6 @@
         <entry>403</entry>
       </history-search>
       <history-cmd>
-        <entry>570</entry>
         <entry>807</entry>
         <entry>46</entry>
         <entry>402</entry>
@@ -697,6 +697,7 @@
         <entry>43</entry>
         <entry>2441</entry>
         <entry>67</entry>
+        <entry>362</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
