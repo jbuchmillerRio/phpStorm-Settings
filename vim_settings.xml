@@ -41,6 +41,11 @@
         <mark key="^" line="432" column="23" />
         <mark key="." line="432" column="23" />
       </file>
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/module/Services/src/Services/Controller/RollupReportController.php" timestamp="1498845193968">
+        <mark key="[" line="139" column="0" />
+        <mark key="]" line="139" column="0" />
+        <mark key="." line="139" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/scripts/migration/migrate_hours.php" timestamp="1487697057609">
         <mark key="[" line="87" column="88" />
       </file>
@@ -61,6 +66,12 @@
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/vhosts/bofa.dashboard.conf" timestamp="1494718609097">
         <mark key="[" line="3" column="51" />
+      </file>
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Service/LocationFilterService.php" timestamp="1498846197627">
+        <mark key="[" line="325" column="0" />
+        <mark key="]" line="325" column="0" />
+        <mark key="^" line="344" column="7" />
+        <mark key="." line="325" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-cms/src/RLS/Controller/HoursController.php" timestamp="1497541098105">
         <mark key="[" line="158" column="90" />
@@ -90,6 +101,11 @@
         <mark key="]" line="46" column="80" />
         <mark key="^" line="46" column="80" />
         <mark key="." line="46" column="80" />
+      </file>
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/module/Services/src/Services/Controller/ReportsController.php" timestamp="1498846184282">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lib-user/src/Exception/SAMLAuthException.php" timestamp="1494110070228">
         <mark key="[" line="7" column="23" />
@@ -132,6 +148,12 @@
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/scripts/apple_maps_submission.php" timestamp="1494640632258">
         <mark key="[" line="59" column="44" />
+      </file>
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/module/Services/src/Services/Controller/FilterController.php" timestamp="1498846764718">
+        <mark key="[" line="33" column="32" />
+        <mark key="]" line="36" column="63" />
+        <mark key="^" line="36" column="63" />
+        <mark key="." line="36" column="63" />
       </file>
       <file name="$USER_HOME$/Documents/rls-lbe/module/Services/src/Services/Controller/HoursController.php" timestamp="1496165313710">
         <mark key="[" line="394" column="46" />
@@ -315,6 +337,12 @@
         <mark key="." line="66" column="47" />
         <mark key="^" line="66" column="47" />
       </file>
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/LocationManager.php" timestamp="1498845284432">
+        <mark key="[" line="84" column="23" />
+        <mark key="]" line="84" column="47" />
+        <mark key="." line="84" column="47" />
+        <mark key="^" line="84" column="47" />
+      </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/scripts/gmb_attributes_updater.php" timestamp="1494104306742">
         <mark key="[" line="70" column="55" />
       </file>
@@ -458,6 +486,12 @@
         <mark key="]" line="57" column="6" />
         <mark key="^" line="57" column="6" />
         <mark key="." line="57" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/ProfileManager.php" timestamp="1498846804210">
+        <mark key="[" line="65" column="20" />
+        <mark key="]" line="63" column="25" />
+        <mark key="^" line="63" column="25" />
+        <mark key="." line="63" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-cms/src/RLS/Controller/APIController.php" timestamp="1493152285833">
         <mark key="[" line="59" column="19" />
@@ -629,46 +663,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvL1RPRE8gSklNTVkgSVMgVEhJUyBPSz8gRU5ECg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgXExvZ2dlcjo6ZGVidWcoIi0tLS0tLS0tLS0tLS0tLS0tLSIpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JHRoaXMtPmdldFBlcm1pc3Npb25zKCRzdWJqZWN0LCAkcmVzb3VyY2UsICRwYXJhbXMp</text>
+        <text encoding="base64">XFRMU19EQjo6Z2V0SW5zdGFuY2UoKS0+Z2V0UmVhZERiKCk7</text>
       </register>
       <register name="/" type="4">
         <text>403</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvL1RPRE8gSklNTVkgSVMgVEhJUyBPSz8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRyZXN1bHQgPSBcVExTX0RCOjpwcmVwYXJlZFF1ZXJ5KCR0aGlzLT5kYiwgJHF1ZXJ5LCAkcHJvZmlsZVF1ZXJ5LT5nZXRRdWVyeVBhcmFtcygpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvL1RPRE8gSklNTVkgSVMgVEhJUyBPSz8gRU5ECg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgXExvZ2dlcjo6ZGVidWcoIi0tLS0tLS0tLS0tLS0tLS0tLSIpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvL1RPRE8gSklNTVkgSVMgVEhJUyBPSz8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgXExvZ2dlcjo6ZGVidWcoIi0tLS0tLS0tLS0tLS0tLS0tLSIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgXExvZ2dlcjo6ZGVidWcoJHByb2ZpbGVRdWVyeS0+Z2V0UXVlcnlQYXJhbXMoKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgXExvZ2dlcjo6ZGVidWcoIi0tLS0tLS0tLS0tLS0tLS0tLSIpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gICAgICB9Cg==</text>
+        <text encoding="base64">XExvZ2dlcjo6ZGVidWcoJHF1ZXJ5KTsK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gICAgIGlmIChlbXB0eSgkaW50ZXJuYWxSb2xlc1skdmFsdWVbJ2RpZCddXSkpIHsKICAgICAgICAgICAgLy8gICAgICAgICAkaW50ZXJuYWxSb2xlc1skdmFsdWVbJ2RpZCddXSA9IFtdOwogICAgICAgICAgICAvLyAgICAgfQogICAgICAgICAgICAvLyAgICAgZm9yZWFjaCAoZXhwbG9kZSgnLCcsICR2YWx1ZVsncm9sZXMnXSkgYXMgJHJvbGUpIHs=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRyZXN1bHQgPSBcVExTX0RCOjpwcmVwYXJlZFF1ZXJ5KCR0aGlzLT5kYiwgJHF1ZXJ5LCAkcHJvZmlsZVF1ZXJ5LT5nZXRRdWVyeVBhcmFtcygpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIFJMU1xMaWJcVXNlclxNb2RlbFxVc2VyOwo=</text>
+        <text encoding="base64">ICAgICAgICBcTG9nZ2VyOjpkZWJ1ZyhkZWJ1Z19iYWNrdHJhY2UoKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">JHN0dWZmICAgPSBOZXcgVXNlcigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyRkYiA9IFxUTFNfREI6OmdldEluc3RhbmNlKCktPmdldFJlYWREYigkdGhpcy0+ZGlkKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkY29udGFpbmVyID0gXENvbnRhaW5lcjo6Z2V0SW5zdGFuY2UoKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>114</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -704,8 +738,6 @@
         <entry>403</entry>
       </history-search>
       <history-cmd>
-        <entry>402</entry>
-        <entry>589</entry>
         <entry>660</entry>
         <entry>222</entry>
         <entry>274</entry>
@@ -722,8 +754,10 @@
         <entry>67</entry>
         <entry>362</entry>
         <entry>271</entry>
-        <entry>w</entry>
+        <entry>489</entry>
+        <entry>342</entry>
         <entry>114</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
