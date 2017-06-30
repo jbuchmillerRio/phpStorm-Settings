@@ -151,7 +151,7 @@
       <file name="/a.sql" timestamp="1497635177400">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/module/Application/Module.php" timestamp="1498773346726">
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/module/Application/Module.php" timestamp="1498835599921">
         <mark key="[" line="193" column="65" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/module/Services/src/Services/Controller/ContactController.php" timestamp="1493396953550">
@@ -186,7 +186,7 @@
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/LocationApiManager.php" timestamp="1497631469620">
         <mark key="[" line="213" column="32" />
       </file>
-      <file name="/fragment.php" timestamp="1498834320092">
+      <file name="/fragment.php" timestamp="1498835446753">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/public/js/rls/rls_feeds.js" timestamp="1490149484432">
@@ -276,7 +276,12 @@
         <mark key="^" line="184" column="29" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/vendor/rioseo/rls-lib-rbac/src/Overseer.php" timestamp="1498834243351" />
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/vendor/rioseo/rls-lib-rbac/src/Overseer.php" timestamp="1498836082234">
+        <mark key="[" line="164" column="79" />
+        <mark key="]" line="165" column="58" />
+        <mark key="^" line="165" column="58" />
+        <mark key="." line="165" column="58" />
+      </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/public/rls_locationEditor.html" timestamp="1497914108806">
         <mark key="[" line="727" column="65" />
         <mark key="]" line="727" column="64" />
@@ -391,7 +396,7 @@
         <mark key="." line="10" column="36" />
         <mark key="^" line="10" column="36" />
       </file>
-      <file name="/PHP Console" timestamp="1498835230064">
+      <file name="/PHP Console" timestamp="1498836088450">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-cms/src/RLS/Controller/ADFSController.php" timestamp="1498579674280">
@@ -440,7 +445,7 @@
         <mark key="^" line="53" column="21" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498776398191">
+      <file name="/Dummy.txt" timestamp="1498835245571">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/public/js/rls/rls_location.js" timestamp="1491511974644">
@@ -584,11 +589,11 @@
       <jump line="430" column="45" filename="$USER_HOME$/Documents/Rio/rls-lbe/module/Services/Module.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">JHN0dWZmICAgPSBOZXcgVXNlcigpOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">JHRoaXMtPmdldFBlcm1pc3Npb25zKCRzdWJqZWN0LCAkcmVzb3VyY2UsICRwYXJhbXMp</text>
       </register>
       <register name="-" type="4">
-        <text>7</text>
+        <text encoding="base64">JHRoaXMtPmdldFBlcm1pc3Npb25zKCRzdWJqZWN0LCAkcmVzb3VyY2UsICRwYXJhbXMp</text>
       </register>
       <register name="/" type="4">
         <text>403</text>
