@@ -152,7 +152,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/module/Application/Module.php" timestamp="1498835599921">
-        <mark key="[" line="193" column="65" />
+        <mark key="[" line="206" column="65" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/module/Services/src/Services/Controller/ContactController.php" timestamp="1493396953550">
         <mark key="[" line="76" column="0" />
@@ -169,7 +169,7 @@
         <mark key="." line="428" column="83" />
         <mark key="^" line="428" column="83" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1498834763854">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1498838847027">
         <mark key="[" line="0" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/SAML/HallmarkClaimManager.php" timestamp="1493604004489">
@@ -261,6 +261,12 @@
         <mark key="^" line="127" column="25" />
         <mark key="." line="127" column="25" />
       </file>
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/Rbac/AssignmentManager.php" timestamp="1498838631752">
+        <mark key="[" line="47" column="55" />
+        <mark key="]" line="49" column="86" />
+        <mark key="^" line="49" column="86" />
+        <mark key="." line="49" column="86" />
+      </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lib-history/src/Document/BaseDocument.php" timestamp="1482337742651">
         <mark key="[" line="2" column="32" />
       </file>
@@ -276,7 +282,7 @@
         <mark key="^" line="184" column="29" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/vendor/rioseo/rls-lib-rbac/src/Overseer.php" timestamp="1498836082234">
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/vendor/rioseo/rls-lib-rbac/src/Overseer.php" timestamp="1498838246477">
         <mark key="[" line="164" column="79" />
         <mark key="]" line="165" column="58" />
         <mark key="^" line="165" column="58" />
@@ -396,7 +402,7 @@
         <mark key="." line="10" column="36" />
         <mark key="^" line="10" column="36" />
       </file>
-      <file name="/PHP Console" timestamp="1498836088450">
+      <file name="/PHP Console" timestamp="1498838907234">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-cms/src/RLS/Controller/ADFSController.php" timestamp="1498579674280">
@@ -430,7 +436,7 @@
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/vendor/zendframework/zendframework/library/Zend/View/Helper/Navigation.php" timestamp="1494639855655">
         <mark key="[" line="196" column="28" />
       </file>
-      <file name="/dummy.sql" timestamp="1498834757126">
+      <file name="/dummy.sql" timestamp="1498838767260">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.php" timestamp="1489970184289">
