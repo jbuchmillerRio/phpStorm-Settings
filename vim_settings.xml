@@ -84,11 +84,10 @@
         <mark key="[" line="28" column="51" />
       </file>
       <file name="/UserController.php" timestamp="1498839563776" />
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/module/Services/src/Services/Controller/ConfigurationController.php" timestamp="1498840200409">
-        <mark key="[" line="35" column="31" />
-        <mark key="]" line="35" column="35" />
-        <mark key="." line="35" column="35" />
-        <mark key="^" line="35" column="35" />
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/module/Services/src/Services/Controller/ConfigurationController.php" timestamp="1498842015875">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/module/Services/src/Services/Controller/CountryController.php" timestamp="1498682995995">
         <mark key="[" line="46" column="80" />
@@ -425,6 +424,11 @@
         <mark key="^" line="64" column="27" />
         <mark key="." line="64" column="27" />
       </file>
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/SAML/UserRoleManager.php" timestamp="1498758101616">
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
+      </file>
       <file name="/var/www/html/dev/rls-lbe/scripts/create_elastic_index.php" timestamp="1485376092714">
         <mark key="[" line="65" column="60" />
       </file>
@@ -440,7 +444,7 @@
         <mark key="." line="10" column="36" />
         <mark key="^" line="10" column="36" />
       </file>
-      <file name="/PHP Console" timestamp="1498840479606">
+      <file name="/PHP Console" timestamp="1498842009535">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-cms/src/RLS/Controller/ADFSController.php" timestamp="1498579674280">
@@ -489,7 +493,7 @@
         <mark key="^" line="53" column="21" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498840118690">
+      <file name="/Dummy.txt" timestamp="1498841943474">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/public/js/rls/rls_location.js" timestamp="1491511974644">
@@ -639,7 +643,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL1RPRE8gSklNTVkgSVMgVEhJUyBPSz8gRU5ECg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">JHRoaXMtPmdldFBlcm1pc3Npb25zKCRzdWJqZWN0LCAkcmVzb3VyY2UsICRwYXJhbXMp</text>
@@ -651,28 +655,28 @@
         <text encoding="base64">ICAgICAgICAvL1RPRE8gSklNTVkgSVMgVEhJUyBPSz8K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL1RPRE8gSklNTVkgSVMgVEhJUyBPSz8gRU5ECg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL1RPRE8gSklNTVkgSVMgVEhJUyBPSz8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gICAgICB9Cg==</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gICAgIGlmIChlbXB0eSgkaW50ZXJuYWxSb2xlc1skdmFsdWVbJ2RpZCddXSkpIHsKICAgICAgICAgICAgLy8gICAgICAgICAkaW50ZXJuYWxSb2xlc1skdmFsdWVbJ2RpZCddXSA9IFtdOwogICAgICAgICAgICAvLyAgICAgfQogICAgICAgICAgICAvLyAgICAgZm9yZWFjaCAoZXhwbG9kZSgnLCcsICR2YWx1ZVsncm9sZXMnXSkgYXMgJHJvbGUpIHs=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">dXNlIFJMU1xMaWJcVXNlclxNb2RlbFxVc2VyOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">JHN0dWZmICAgPSBOZXcgVXNlcigpOwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0KCiAgICAgICAgJHJvdXRlcyA9IGdldFVybFBhdGgoKTsKICAgICAgICAvL2NoZWNrIGZvciBzcGVjaWFsIGNhc2VzIHdoZW4gcm91dGUgaXMgYSBqc29uIG9yIHhtbAogICAgICAgICRsYXN0UG9zID0gMDsgLy90aGUgcG9zaXRpb24gb2YgdGhlIGxhc3QgJy4nCiAgICAgICAgJHBvcyA9IHN0cnBvcygkcm91dGVzWydjb250cm9sbGVyJ10sICcuJywgKCRsYXN0UG9zKzEpKTsKICAgICAgICB3aGlsZSgkcG9zKSB7CiAgICAgICAgICAgICRsYXN0UG9zID0gJHBvczsKICAgICAgICAgICAgJHBvcyA9IHN0cnBvcygkcm91dGVzWydjb250cm9sbGVyJ10sICcuJywgKCRsYXN0UG9zKzEpKTsKICAgICAgICB9CiAgICAgICAgJGVuZCA9IHN1YnN0cigkcm91dGVzWydjb250cm9sbGVyJ10sICRsYXN0UG9zKTsKCiAgICAgICAgaWYgKCRlbmQgPT0gJy5qc29uLycgfHwgJGVuZCA9PSAnLnhtbC8nKSB7CiAgICAgICAgICAgIC8vcmVtb3ZlIHRoZSBsYXN0IHNlZ21lbnQgb2YgdGhlIHJvdXRlCiAgICAgICAgICAgICRwYXJ0cyA9IGV4cGxvZGUoJy8nLCB0cmltKCRyb3V0ZXNbJ2NvbnRyb2xsZXInXSwgJy8nKSk7CiAgICAgICAgICAgIGFycmF5X3BvcCgkcGFydHMpOwogICAgICAgICAgICAkcm91dGVzWydjb250cm9sbGVyJ10gPSAnLycgLiBqb2luKCcvJywgJHBhcnRzKSAuICcvJzsKICAgICAgICB9CgogICAgICAgIC8vY2hlY2sgcGVybWlzc2lvbgogICAgICAgICRhcHAgPSAkZS0+Z2V0QXBwbGljYXRpb24oKTsKICAgICAgICAkc20gPSAkYXBwLT5nZXRTZXJ2aWNlTWFuYWdlcigpOwogICAgICAgICRjb250YWluZXIgPSBcQ29udGFpbmVyOjpnZXRJbnN0YW5jZSgpOwoKICAgICAgICAvKiBAdmFyIFVzZXJNYW5hZ2VyICR1c2VyTWFuYWdlciAqLwogICAgICAgICR1c2VyTWFuYWdlciA9ICRzbS0+Z2V0KFVzZXJNYW5hZ2VyOjpjbGFzcyk7CiAgICAgICAgLyogQHZhciBVc2VyICR1c2VyICovCiAgICAgICAgJHVzZXIgPSAkdXNlck1hbmFnZXItPmdldFVzZXIoZ2V0U2Vzc2lvbigndWlkJywgLTEpKTsKICAgICAgICBpZiAoJHVzZXIgIT0gbnVsbCAmJiAhZW1wdHkoJF9TRVNTSU9OW1NBTUxNYW5hZ2VyOjpTQU1MX1NFU1NJT05dKSAmJiAkX1NFU1NJT05bU0FNTE1hbmFnZXI6OlNBTUxfU0VTU0lPTl0gPT0gdHJ1ZQogICAgICAgICAgICAmJiAhZW1wdHkoJHVzZXItPmdldEFjdGl2ZVJvbGUoKSkKICAgICAgICApIHsKICAgICAgICAgICAgLyogQHZhciBPdmVyc2VlciAkb3ZlcnNlZXIgKi8KICAgICAgICAgICAgJG92ZXJzZWVyID0gJGNvbnRhaW5lci0+Z2V0KCdvdmVyc2VlcicpOwogICAgICAgICAgICAkYSA9ICRvdmVyc2Vlci0+aGFzUGVybWlzc2lvbihzdHJ0b2xvd2VyKCRyb3V0ZXNbJ2NvbnRyb2xsZXInXSksICR1c2VyKTsKICAgICAgICAgICAgJGIgPSAkb3ZlcnNlZXItPmhhc1Blcm1pc3Npb24oc3RydG9sb3dlcigkcm91dGVzWydhY3Rpb24nXSksICR1c2VyKTsKICAgICAgICAgICAgaWYgKCEkYSAmJiAhJGIpIHsKICAgICAgICAgICAgICAgIC8qIEB2YXIgUmVzcG9uc2UgJHJlc3BvbnNlICovCiAgICAgICAgICAgICAgICAkcmVzcG9uc2UgPSAkZS0+Z2V0UmVzcG9uc2UoKTsKICAgICAgICAgICAgICAgIC8vY2hlY2sgaWYgYWpheCByZXF1ZXN0CiAgICAgICAgICAgICAgICBpZiAoJGUtPmdldFJlcXVlc3QoKS0+aXNYbWxIdHRwUmVxdWVzdCgpKSB7CiAgICAgICAgICAgICAgICAgICAgJHJlc3BvbnNlLT5zZXRTdGF0dXNDb2RlKDQwMyk7CiAgICAgICAgICAgICAgICAgICAgJHJlc3BvbnNlLT5zZW5kSGVhZGVycygpOwogICAgICAgICAgICAgICAgICAgIGV4aXQ7CiAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgICRlcnJvciA9ICcvYXBwbGljYXRpb24vaW5kZXgvZXJyb3InOwogICAgICAgICAgICAgICAgICAgICRyZXNwb25zZS0+c2V0U3RhdHVzQ29kZSg0MDMpOwogICAgICAgICAgICAgICAgICAgICRyZXNwb25zZS0+Z2V0SGVhZGVycygpLT5hZGRIZWFkZXJMaW5lKCdMb2NhdGlvbicsICRlcnJvcik7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9Cj4+Pj4+Pj4gUkxTLTMzODYgc3R1ZmY=</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gICAgICB9Cg==</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gICAgIGlmIChlbXB0eSgkaW50ZXJuYWxSb2xlc1skdmFsdWVbJ2RpZCddXSkpIHsKICAgICAgICAgICAgLy8gICAgICAgICAkaW50ZXJuYWxSb2xlc1skdmFsdWVbJ2RpZCddXSA9IFtdOwogICAgICAgICAgICAvLyAgICAgfQogICAgICAgICAgICAvLyAgICAgZm9yZWFjaCAoZXhwbG9kZSgnLCcsICR2YWx1ZVsncm9sZXMnXSkgYXMgJHJvbGUpIHs=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">dXNlIFJMU1xMaWJcVXNlclxNb2RlbFxVc2VyOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">JHN0dWZmICAgPSBOZXcgVXNlcigpOwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -714,7 +718,6 @@
         <entry>403</entry>
       </history-search>
       <history-cmd>
-        <entry>807</entry>
         <entry>46</entry>
         <entry>402</entry>
         <entry>589</entry>
@@ -733,6 +736,7 @@
         <entry>2441</entry>
         <entry>67</entry>
         <entry>362</entry>
+        <entry>271</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
