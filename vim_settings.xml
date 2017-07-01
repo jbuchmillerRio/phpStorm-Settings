@@ -193,11 +193,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.cvsignore" timestamp="1494261037903">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/module/Services/Module.php" timestamp="1498853978278">
-        <mark key="[" line="57" column="99" />
-        <mark key="]" line="139" column="68" />
-        <mark key="." line="139" column="68" />
-        <mark key="^" line="139" column="68" />
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/module/Services/Module.php" timestamp="1498926612704">
+        <mark key="[" line="217" column="93" />
+        <mark key="]" line="217" column="56" />
+        <mark key="." line="217" column="56" />
+        <mark key="^" line="217" column="56" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1498840350966">
         <mark key="[" line="0" column="0" />
@@ -666,7 +666,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkZGlkID0gZ2V0U2Vzc2lvbignZGlkJyk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">XFRMU19EQjo6Z2V0SW5zdGFuY2UoKS0+Z2V0UmVhZERiKCk7</text>
+        <text>$did = getSession('did');</text>
       </register>
       <register name="/" type="4">
         <text>403</text>
@@ -678,28 +678,28 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkZGlkID0gZ2V0U2Vzc2lvbignZGlkJyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkY29udGFpbmVyID0gXENvbnRhaW5lcjo6Z2V0SW5zdGFuY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkZGlkID0gZ2V0U2Vzc2lvbignZGlkJyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkZGlkID0gZ2V0U2Vzc2lvbignZGlkJyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkZGlkID0gZ2V0U2Vzc2lvbignZGlkJyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkZGlkID0gZ2V0U2Vzc2lvbignZGlkJyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBcTG9nZ2VyOjpkZWJ1ZyhkZWJ1Z19iYWNrdHJhY2UoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkZGlkID0gZ2V0U2Vzc2lvbignZGlkJyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkZGlkID0gZ2V0U2Vzc2lvbignZGlkJyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkY29udGFpbmVyID0gXENvbnRhaW5lcjo6Z2V0SW5zdGFuY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkZGlkID0gZ2V0U2Vzc2lvbignZGlkJyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgXExvZ2dlcjo6ZGVidWcoIi0tLS0tLS0tLS0tLS0tLS0tLSIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkZGlkID0gZ2V0U2Vzc2lvbignZGlkJyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
