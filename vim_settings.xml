@@ -58,7 +58,7 @@
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/vendor/rioseo/rls-lib-hours/vendor/rioseo/rls-lib-history/src/HistoryInterface.php" timestamp="1485465295317">
         <mark key="[" line="13" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/SAML/RioClaimManager.php" timestamp="1499015323670">
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/SAML/RioClaimManager.php" timestamp="1499274322575">
         <mark key="[" line="119" column="23" />
         <mark key="]" line="119" column="23" />
         <mark key="^" line="119" column="23" />
@@ -232,11 +232,11 @@
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/DataTransfer/Processor/AbstractProcessor.php" timestamp="1494104146325">
         <mark key="[" line="75" column="64" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/SAML/BofAClaimManager.php" timestamp="1499271623285">
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
-        <mark key="^" line="59" column="0" />
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/SAML/BofAClaimManager.php" timestamp="1499274342612">
+        <mark key="[" line="18" column="33" />
+        <mark key="]" line="18" column="53" />
+        <mark key="." line="18" column="53" />
+        <mark key="^" line="18" column="53" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/public/js/rls/rls_mpt.js" timestamp="1496505787198">
         <mark key="[" line="39" column="0" />
@@ -666,14 +666,14 @@
       <jump line="430" column="45" filename="$USER_HOME$/Documents/Rio/rls-lbe/module/Services/Module.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly9sYWtzamRmbGtqCg==</text>
+      <register name="&quot;" type="4">
+        <text>ManagerInterface</text>
       </register>
       <register name="-" type="4">
-        <text>$did = getSession('did');</text>
+        <text>ManagerInterface</text>
       </register>
       <register name="/" type="4">
-        <text>403</text>
+        <text>managerInterface</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICRyZXN1bHQgPSBcVExTX0RCOjpwcmVwYXJlZFF1ZXJ5KCR0aGlzLT5kYiwgJHF1ZXJ5LCAkcHJvZmlsZVF1ZXJ5LT5nZXRRdWVyeVBhcmFtcygpKTsK</text>
@@ -710,9 +710,9 @@
       </register>
     </registers>
     <search>
-      <last-search>403</last-search>
+      <last-search>managerInterface</last-search>
       <last-offset />
-      <last-pattern>403</last-pattern>
+      <last-pattern>managerInterface</last-pattern>
       <last-replace>other_one\.</last-replace>
       <last-substitute>otherone\.</last-substitute>
       <last-dir>1</last-dir>
@@ -720,7 +720,6 @@
     </search>
     <history>
       <history-search>
-        <entry>var</entry>
         <entry>html</entry>
         <entry encoding="base64">JHRoaXMtPmRpZCA9IA==</entry>
         <entry>initializeUser</entry>
@@ -740,6 +739,7 @@
         <entry>loadXML</entry>
         <entry>=</entry>
         <entry>403</entry>
+        <entry>managerInterface</entry>
       </history-search>
       <history-cmd>
         <entry>274</entry>
@@ -751,7 +751,6 @@
         <entry>184</entry>
         <entry>49</entry>
         <entry>104</entry>
-        <entry>43</entry>
         <entry>2441</entry>
         <entry>67</entry>
         <entry>362</entry>
@@ -761,6 +760,7 @@
         <entry>114</entry>
         <entry>93</entry>
         <entry>w2</entry>
+        <entry>43</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
