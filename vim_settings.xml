@@ -49,11 +49,11 @@
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/scripts/migration/migrate_hours.php" timestamp="1487697057609">
         <mark key="[" line="87" column="88" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/vendor/rioseo/rls-lib-user/src/SAML/SAMLManager.php" timestamp="1499361292854">
-        <mark key="[" line="158" column="57" />
-        <mark key="]" line="158" column="54" />
-        <mark key="^" line="158" column="54" />
-        <mark key="." line="158" column="54" />
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/vendor/rioseo/rls-lib-user/src/SAML/SAMLManager.php" timestamp="1499375164465">
+        <mark key="[" line="122" column="9" />
+        <mark key="]" line="120" column="9" />
+        <mark key="^" line="120" column="9" />
+        <mark key="." line="120" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/scripts/async_email_export_all.php" timestamp="1494104258688">
         <mark key="[" line="51" column="55" />
@@ -316,11 +316,11 @@
       <file name="$USER_HOME$/Documents/Rio/rls-cms/src/RLS/Controller/AuthController.php" timestamp="1495041373705">
         <mark key="[" line="145" column="65" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/module/Services/src/Services/Controller/ADFSController.php" timestamp="1499357025033">
-        <mark key="[" line="71" column="8" />
-        <mark key="]" line="45" column="0" />
-        <mark key="^" line="184" column="29" />
-        <mark key="." line="45" column="0" />
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/module/Services/src/Services/Controller/ADFSController.php" timestamp="1499373067557">
+        <mark key="[" line="68" column="54" />
+        <mark key="]" line="68" column="62" />
+        <mark key="^" line="68" column="62" />
+        <mark key="." line="68" column="62" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/vendor/rioseo/rls-lib-rbac/src/Overseer.php" timestamp="1498838246477">
         <mark key="[" line="164" column="79" />
@@ -468,7 +468,7 @@
         <mark key="." line="10" column="36" />
         <mark key="^" line="10" column="36" />
       </file>
-      <file name="/PHP Console" timestamp="1499015370848">
+      <file name="/PHP Console" timestamp="1499375128756">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-cms/src/RLS/Controller/ADFSController.php" timestamp="1498579674280">
@@ -485,6 +485,9 @@
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-cms/vendor/rioseo/rls-lib-user/tests/SAML/SAMLManagerTest.php" timestamp="1493072685511">
         <mark key="[" line="275" column="17" />
+      </file>
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/module/Services/src/Services/Controller/SAMLController.php" timestamp="1499375054776">
+        <mark key="[" line="15" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lib-user/tests/SAML/ClaimManagerAbstract.php" timestamp="1491239519591">
         <mark key="[" line="11" column="25" />
@@ -676,8 +679,8 @@
       <jump line="430" column="45" filename="$USER_HOME$/Documents/Rio/rls-lbe/module/Services/Module.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>\OneLogin_Saml2_Utils::loadXML();</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICdTQU1MIGFzc2VydGlvbiBmYWlsZWQ6IHNhbWwgcmVzcG9uc2UgaW52YWxpZCc7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>\OneLogin_Saml2_Utils::loadXML();</text>
@@ -689,31 +692,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICRyZXN1bHQgPSBcVExTX0RCOjpwcmVwYXJlZFF1ZXJ5KCR0aGlzLT5kYiwgJHF1ZXJ5LCAkcHJvZmlsZVF1ZXJ5LT5nZXRRdWVyeVBhcmFtcygpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICdTQU1MIGFzc2VydGlvbiBmYWlsZWQ6IHNhbWwgcmVzcG9uc2UgaW52YWxpZCc7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly9sYWtzamRmbGtqCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly9hbHNrZGpmCg==</text>
+        <text encoding="base64">ICAgICAgICAvL3JldHVybiAkdGhpcy0+c2VuZE91dHB1dCgkcmVzdWx0LCAndGV4dC9odG1sJyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly9zdHVmbHNrZGpmCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">JGF0dHJpYnV0ZXMgPSBhcnJheSgKICAgICAgICAgICAgJ0VtYWlsJyA9PiBhcnJheSgnYmVuamFtaW4uaW5ncmFtQGJhbmtvZmFtZXJpY2EuY29tJyksCiAgICAgICAgICAgICdSb2xlIE5hbWUnID0+IGFycmF5KCdpcHJvc3BlY3Rsb2NhdG9ydG9vbC5sb2NhdG9yY21zdG9vbHVzZXJzJyksCiAgICAgICAgICAgICdOYW1lIElEJyA9PiBhcnJheSgnSW5ncmFtLCBCZW5qYW1pbiBXLicpCiAgICAgICAgKTs=</text>
+      <register name="5" type="2">
+        <text encoding="base64">Ly9sYWtzamRmbGtqCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Ly9hbHNrZGpmCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkZGlkID0gZ2V0U2Vzc2lvbignZGlkJyk7Cg==</text>
+        <text encoding="base64">Ly9zdHVmbHNrZGpmCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkZGlkID0gZ2V0U2Vzc2lvbignZGlkJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkZGlkID0gZ2V0U2Vzc2lvbignZGlkJyk7Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">JGF0dHJpYnV0ZXMgPSBhcnJheSgKICAgICAgICAgICAgJ0VtYWlsJyA9PiBhcnJheSgnYmVuamFtaW4uaW5ncmFtQGJhbmtvZmFtZXJpY2EuY29tJyksCiAgICAgICAgICAgICdSb2xlIE5hbWUnID0+IGFycmF5KCdpcHJvc3BlY3Rsb2NhdG9ydG9vbC5sb2NhdG9yY21zdG9vbHVzZXJzJyksCiAgICAgICAgICAgICdOYW1lIElEJyA9PiBhcnJheSgnSW5ncmFtLCBCZW5qYW1pbiBXLicpCiAgICAgICAgKTs=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
