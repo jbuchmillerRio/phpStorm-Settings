@@ -235,10 +235,10 @@
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/DataTransfer/Processor/AbstractProcessor.php" timestamp="1494104146325">
         <mark key="[" line="75" column="64" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/SAML/BofAClaimManager.php" timestamp="1499274342612">
-        <mark key="[" line="18" column="33" />
-        <mark key="]" line="18" column="53" />
-        <mark key="." line="18" column="53" />
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/SAML/BofAClaimManager.php" timestamp="1499380721939">
+        <mark key="[" line="18" column="23" />
+        <mark key="]" line="18" column="23" />
+        <mark key="." line="18" column="23" />
         <mark key="^" line="18" column="53" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/public/js/rls/rls_mpt.js" timestamp="1496505787198">
@@ -525,8 +525,8 @@
         <mark key="^" line="53" column="21" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499380002178">
-        <mark key="[" line="0" column="9" />
+      <file name="/Dummy.txt" timestamp="1499380757333">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
@@ -682,10 +682,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Finished fixing after rebase with develop.</text>
+        <text>implements</text>
       </register>
       <register name="-" type="4">
-        <text>Finished fixing after rebase with develop.</text>
+        <text>implements</text>
       </register>
       <register name="/" type="4">
         <text>managerInterface</text>
