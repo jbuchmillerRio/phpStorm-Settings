@@ -49,11 +49,11 @@
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/scripts/migration/migrate_hours.php" timestamp="1487697057609">
         <mark key="[" line="87" column="88" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/vendor/rioseo/rls-lib-user/src/SAML/SAMLManager.php" timestamp="1499355532788">
-        <mark key="[" line="147" column="36" />
-        <mark key="]" line="115" column="7" />
-        <mark key="^" line="115" column="7" />
-        <mark key="." line="115" column="7" />
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/vendor/rioseo/rls-lib-user/src/SAML/SAMLManager.php" timestamp="1499359858130">
+        <mark key="[" line="158" column="57" />
+        <mark key="]" line="158" column="54" />
+        <mark key="^" line="158" column="54" />
+        <mark key="." line="158" column="54" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/scripts/async_email_export_all.php" timestamp="1494104258688">
         <mark key="[" line="51" column="55" />
@@ -334,6 +334,7 @@
         <mark key="." line="727" column="64" />
         <mark key="^" line="727" column="64" />
       </file>
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/vendor/onelogin/php-saml/lib/Saml2/Response.php" timestamp="1499359755552" />
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/DataTransfer/Processor/BofAAtm.php" timestamp="1486832011854">
         <mark key="[" line="435" column="96" />
       </file>
@@ -675,11 +676,11 @@
       <jump line="430" column="45" filename="$USER_HOME$/Documents/Rio/rls-lbe/module/Services/Module.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>\OneLogin_Saml2_Utils::loadXML();</text>
       </register>
       <register name="-" type="4">
-        <text>ManagerInterface</text>
+        <text>\OneLogin_Saml2_Utils::loadXML();</text>
       </register>
       <register name="/" type="4">
         <text>managerInterface</text>
