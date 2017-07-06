@@ -49,8 +49,11 @@
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/scripts/migration/migrate_hours.php" timestamp="1487697057609">
         <mark key="[" line="87" column="88" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/vendor/rioseo/rls-lib-user/src/SAML/SAMLManager.php" timestamp="1499015297039">
-        <mark key="[" line="146" column="36" />
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/vendor/rioseo/rls-lib-user/src/SAML/SAMLManager.php" timestamp="1499355532788">
+        <mark key="[" line="147" column="36" />
+        <mark key="]" line="115" column="7" />
+        <mark key="^" line="115" column="7" />
+        <mark key="." line="115" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/scripts/async_email_export_all.php" timestamp="1494104258688">
         <mark key="[" line="51" column="55" />
@@ -545,6 +548,12 @@
       <file name="$USER_HOME$/Documents/Rio/docker-rls/apache/proc/settings.php" timestamp="1494367704348">
         <mark key="[" line="52" column="13" />
       </file>
+      <file name="$USER_HOME$/Documents/Rio/rls-lib-user/src/SAML/SAMLManager.php" timestamp="1499355521760">
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="115" column="0" />
+        <mark key="^" line="115" column="7" />
+        <mark key="." line="115" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/public/rls_domainEditor.html" timestamp="1496505414175">
         <mark key="[" line="543" column="54" />
         <mark key="]" line="543" column="59" />
@@ -666,8 +675,8 @@
       <jump line="430" column="45" filename="$USER_HOME$/Documents/Rio/rls-lbe/module/Services/Module.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ManagerInterface</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>ManagerInterface</text>
@@ -679,22 +688,22 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICRyZXN1bHQgPSBcVExTX0RCOjpwcmVwYXJlZFF1ZXJ5KCR0aGlzLT5kYiwgJHF1ZXJ5LCAkcHJvZmlsZVF1ZXJ5LT5nZXRRdWVyeVBhcmFtcygpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly9sYWtzamRmbGtqCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Ly9hbHNrZGpmCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Ly9zdHVmbHNrZGpmCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">JGF0dHJpYnV0ZXMgPSBhcnJheSgKICAgICAgICAgICAgJ0VtYWlsJyA9PiBhcnJheSgnYmVuamFtaW4uaW5ncmFtQGJhbmtvZmFtZXJpY2EuY29tJyksCiAgICAgICAgICAgICdSb2xlIE5hbWUnID0+IGFycmF5KCdpcHJvc3BlY3Rsb2NhdG9ydG9vbC5sb2NhdG9yY21zdG9vbHVzZXJzJyksCiAgICAgICAgICAgICdOYW1lIElEJyA9PiBhcnJheSgnSW5ncmFtLCBCZW5qYW1pbiBXLicpCiAgICAgICAgKTs=</text>
+      <register name="2" type="2">
+        <text encoding="base64">Ly9sYWtzamRmbGtqCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkZGlkID0gZ2V0U2Vzc2lvbignZGlkJyk7Cg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">Ly9hbHNrZGpmCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Ly9zdHVmbHNrZGpmCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">JGF0dHJpYnV0ZXMgPSBhcnJheSgKICAgICAgICAgICAgJ0VtYWlsJyA9PiBhcnJheSgnYmVuamFtaW4uaW5ncmFtQGJhbmtvZmFtZXJpY2EuY29tJyksCiAgICAgICAgICAgICdSb2xlIE5hbWUnID0+IGFycmF5KCdpcHJvc3BlY3Rsb2NhdG9ydG9vbC5sb2NhdG9yY21zdG9vbHVzZXJzJyksCiAgICAgICAgICAgICdOYW1lIElEJyA9PiBhcnJheSgnSW5ncmFtLCBCZW5qYW1pbiBXLicpCiAgICAgICAgKTs=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkZGlkID0gZ2V0U2Vzc2lvbignZGlkJyk7Cg==</text>
