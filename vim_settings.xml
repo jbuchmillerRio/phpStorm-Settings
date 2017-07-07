@@ -49,10 +49,11 @@
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/scripts/migration/migrate_hours.php" timestamp="1487697057609">
         <mark key="[" line="87" column="88" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/vendor/rioseo/rls-lib-user/src/SAML/SAMLManager.php" timestamp="1499443089708">
-        <mark key="[" line="119" column="0" />
-        <mark key="]" line="119" column="0" />
-        <mark key="." line="119" column="0" />
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/vendor/rioseo/rls-lib-user/src/SAML/SAMLManager.php" timestamp="1499452585167">
+        <mark key="[" line="191" column="0" />
+        <mark key="]" line="191" column="0" />
+        <mark key="." line="191" column="0" />
+        <mark key="^" line="192" column="56" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/scripts/async_email_export_all.php" timestamp="1494104258688">
         <mark key="[" line="51" column="55" />
@@ -681,7 +682,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkbWFuYWdlci0+bG9nb3V0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gICRwYXJhbWV0ZXJzICAgID0gWydTQU1MUmVxdWVzdCcgPT4gJHNhbWxSZXF1ZXN0XTsK</text>
       </register>
       <register name="-" type="4">
         <text>d</text>
@@ -693,25 +694,25 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICRyZXN1bHQgPSBcVExTX0RCOjpwcmVwYXJlZFF1ZXJ5KCR0aGlzLT5kYiwgJHF1ZXJ5LCAkcHJvZmlsZVF1ZXJ5LT5nZXRRdWVyeVBhcmFtcygpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkbWFuYWdlci0+bG9nb3V0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gICRwYXJhbWV0ZXJzICAgID0gWydTQU1MUmVxdWVzdCcgPT4gJHNhbWxSZXF1ZXN0XTsK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAkbWFuYWdlci0+bG9nb3V0KCk7Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">L30K</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">LyAgICAgICAgaWYoZW1wdHkoJGRhdGEtPnRvQXJyYXkoKSkpIHsKLy8gICAgICAgICAgICAkbG9nZ2VyLT53YXJuaW5nKCJObyBTQU1MIHJlcXVlc3Qgc2VudCAiIC4gcHJpbnRfcigkcmVxdWVzdCx0cnVlKSk7Ci8vICAgICAgICAgICAgcmV0dXJuICR0aGlzLT5zZW5kT3V0cHV0KCdObyBTQU1MIHJlcXVlc3Qgc2VudC4nLCAndGV4dC9odG1sJyk7Ci8vICAgICAgICA=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBpZihlbXB0eSgkZGF0YSkpewo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
