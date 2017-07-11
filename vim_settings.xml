@@ -21,11 +21,6 @@
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/vendor/rioseo/rls-lib-hours/vendor/rioseo/rls-lib-history/composer.json" timestamp="1484178277847">
         <mark key="[" line="39" column="57" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0d038304-9170-416f-a634-b570ce79034f/console.sql" timestamp="1497458747422">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lib-user/tests/fixture/settingsTestFixtureNox509certIDPFile.php" timestamp="1494005642888">
         <mark key="[" line="36" column="23" />
       </file>
@@ -98,21 +93,11 @@
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/scripts/async_foursquare.php" timestamp="1494104271495">
         <mark key="[" line="28" column="51" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/module/Services/src/Services/Controller/ConfigurationController.php" timestamp="1498842015875">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/module/Services/src/Services/Controller/CountryController.php" timestamp="1498682995995">
         <mark key="[" line="46" column="80" />
         <mark key="]" line="46" column="80" />
         <mark key="^" line="46" column="80" />
         <mark key="." line="46" column="80" />
-      </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/module/Services/src/Services/Controller/ReportsController.php" timestamp="1498846184282">
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lib-user/src/Exception/SAMLAuthException.php" timestamp="1494110070228">
         <mark key="[" line="7" column="23" />
@@ -364,11 +349,6 @@
         <mark key="." line="42" column="41" />
         <mark key="^" line="42" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/public/js/rls/rls_live_data_field/rls_live_data_field_controller.js" timestamp="1497914218432">
-        <mark key="[" line="512" column="0" />
-        <mark key="]" line="512" column="0" />
-        <mark key="." line="512" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lib-user/tests/Mocks/UserManagerMock.php" timestamp="1491847670772">
         <mark key="[" line="14" column="17" />
       </file>
@@ -389,11 +369,6 @@
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-cms/src/RLS/Manager/HoursManager.php" timestamp="1487349362876">
         <mark key="[" line="100" column="4" />
-      </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/scripts/async_email_export_feeds.php" timestamp="1497892788743">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/config/dependencies.php" timestamp="1498834000147">
         <mark key="[" line="116" column="109" />
@@ -418,6 +393,12 @@
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-rsm-ui/app/locations/locationsController.js" timestamp="1488994405750">
         <mark key="[" line="417" column="46" />
+      </file>
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/public/rls_adminTools.html" timestamp="1499795048177">
+        <mark key="'" line="50" column="56" />
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="107" column="0" />
+        <mark key="." line="107" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lib-history/src/Document/DynamicFieldDocument.php" timestamp="1482347903718">
         <mark key="[" line="9" column="13" />
@@ -448,11 +429,6 @@
         <mark key="]" line="64" column="27" />
         <mark key="^" line="64" column="27" />
         <mark key="." line="64" column="27" />
-      </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/SAML/UserRoleManager.php" timestamp="1498758101616">
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
       </file>
       <file name="/var/www/html/dev/rls-lbe/scripts/create_elastic_index.php" timestamp="1485376092714">
         <mark key="[" line="65" column="60" />
@@ -526,10 +502,10 @@
         <mark key="^" line="53" column="21" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499792495398">
+      <file name="/Dummy.txt" timestamp="1499795068750">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="9" />
-        <mark key="." line="0" column="9" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/public/js/rls/rls_location.js" timestamp="1491511974644">
         <mark key="[" line="909" column="15" />
@@ -567,11 +543,6 @@
         <mark key="^" line="543" column="59" />
         <mark key="." line="543" column="59" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/ExportManager.php" timestamp="1497914052087">
-        <mark key="[" line="1032" column="0" />
-        <mark key="]" line="1032" column="0" />
-        <mark key="." line="1032" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/vendor/rioseo/rls-lib-hours/src/HoursSetManager.php" timestamp="1487788942910">
         <mark key="[" line="68" column="45" />
       </file>
@@ -580,7 +551,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="41" filename="$USER_HOME$/Documents/Rio/rls-cms/src/RLS/Manager/SAMLClaimsManagement/HallmarkClaimManager.php" />
       <jump line="61" column="19" filename="$USER_HOME$/Documents/Rio/rls-cms/src/RLS/Manager/SAMLClaimsManagement/HallmarkClaimManager.php" />
       <jump line="62" column="19" filename="$USER_HOME$/Documents/Rio/rls-cms/src/RLS/Manager/SAMLClaimsManagement/HallmarkClaimManager.php" />
       <jump line="91" column="19" filename="$USER_HOME$/Documents/Rio/rls-cms/src/RLS/Manager/SAMLClaimsManagement/HallmarkClaimManager.php" />
@@ -680,55 +650,56 @@
       <jump line="435" column="20" filename="$USER_HOME$/Documents/Rio/rls-lbe/module/Services/Module.php" />
       <jump line="436" column="45" filename="$USER_HOME$/Documents/Rio/rls-lbe/module/Services/Module.php" />
       <jump line="430" column="45" filename="$USER_HOME$/Documents/Rio/rls-lbe/module/Services/Module.php" />
+      <jump line="50" column="56" filename="$USER_HOME$/Documents/Rio/rls-lbe/public/rls_adminTools.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLy8gICRwYXJhbWV0ZXJzICAgID0gWydTQU1MUmVxdWVzdCcgPT4gJHNhbWxSZXF1ZXN0XTsK</text>
+      <register name="&quot;" type="4">
+        <text>RLS-3386 Finished fixing after rebase with develop.</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>RLS-3386 Finished fixing after rebase with develop.</text>
       </register>
       <register name="/" type="4">
-        <text>managerInterface</text>
+        <text>map</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICRyZXN1bHQgPSBcVExTX0RCOjpwcmVwYXJlZFF1ZXJ5KCR0aGlzLT5kYiwgJHF1ZXJ5LCAkcHJvZmlsZVF1ZXJ5LT5nZXRRdWVyeVBhcmFtcygpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLy8gICRwYXJhbWV0ZXJzICAgID0gWydTQU1MUmVxdWVzdCcgPT4gJHNhbWxSZXF1ZXN0XTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkbWFuYWdlci0+bG9nb3V0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGxpIGlkPSJtdHAiIG9uY2xpY2s9InJsc19hZG1pbi5leGVjdXRlVGFiKCdtdHAnKTsiPk1hcCBQYXJhbWV0ZXIgVGVtcGxhdGVzPC9saT4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">L30K</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">LyAgICAgICAgaWYoZW1wdHkoJGRhdGEtPnRvQXJyYXkoKSkpIHsKLy8gICAgICAgICAgICAkbG9nZ2VyLT53YXJuaW5nKCJObyBTQU1MIHJlcXVlc3Qgc2VudCAiIC4gcHJpbnRfcigkcmVxdWVzdCx0cnVlKSk7Ci8vICAgICAgICAgICAgcmV0dXJuICR0aGlzLT5zZW5kT3V0cHV0KCdObyBTQU1MIHJlcXVlc3Qgc2VudC4nLCAndGV4dC9odG1sJyk7Ci8vICAgICAgICA=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBpZD0ibXRwQ29udGFpbmVyIiBjbGFzcz0iY29tX3BvcnRsZXRDb250YWluZXIiIHN0eWxlPSJjbGVhcjogYm90aDsgcGFkZGluZy10b3A6NXB4OyI+CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb21fcG9ydGxldFRpdGxlQmFyX2RlZmF1bHQiPgogICAgICAgICAgICAgICAgICAgIDxkaXYgaWQ9Ik10cENvbnRhaW5lci10aXRsZSIgY2xhc3M9ImNvbV9wb3J0bGV0VGl0bGVfZGVmYXVsdCI+TWFwIFBhcmFtZXRlciBUZW1wbGF0ZXM8L2Rpdj4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgPGRpdiBpZD0ibXRwUG9ydGxldENvbnRlbnQiIGNsYXNzPSJjb21fcG9ydGxldENvbnRlbnQiPgogICAgICAgICAgICAgICAgICAgIDxkaXYgaWQ9Im10cFNjcm9sbENvbnRlbnQiIHN0eWxlPSJvdmVyZmxvdzphdXRvOyI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxmb3JtIGlkPSJtYXBfcGFyYW1ldGVyX3RlbXBsYXRlcyIgbWV0aG9kPSJwb3N0Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxhYmVsIGZvcj0icGFyYW1zSWQiPlBhcmFtZXRlcnM6PC9sYWJlbD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c2VsZWN0IGlkPSJwYXJhbXNJZCIgY2xhc3M9Im10cGZvcm0iIG5hbWU9InBhcmFtc0lkIiA+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxvcHRpb24gdmFsdWU9IiI+TmV3IDwvb3B0aW9uPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvc2VsZWN0PiA8YnIgLz4KCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxhYmVsIGZvcj0ibmFtZSI+VGVtcGxhdGUgTmFtZTo8L2xhYmVsPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbnB1dCBjbGFzcz0ibXRwZm9ybSIgdHlwZT0idGV4dCIgbmFtZT0ibmFtZSIgaWQ9Im5hbWUiLz48YnIgLz4KCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxhYmVsIGZvcj0ibGV2ZWwiPkxldmVsOjwvbGFiZWw+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHNlbGVjdCBpZD0ibGV2ZWwiIG5hbWU9ImxldmVsIiBjbGFzcz0ibXRwZm9ybSIgPjwvc2VsZWN0PjxiciAvPgoKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bGFiZWwgZm9yPSJzdGF0dXMiPkFjdGl2ZTo8L2xhYmVsPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbnB1dCB0eXBlPSJjaGVja2JveCIgbmFtZT0ic3RhdHVzIiBpZD0ic3RhdHVzIiB2YWx1ZT0iYWN0aXZlIj48YnIgLz4KCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxhYmVsIGZvcj0ianNvbiI+SnNvbiBQYXJhbWV0ZXJzOjwvbGFiZWw+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHRleHRhcmVhIHJvd3M9IjMwIiBjb2xzPSI1MCIgaWQ9Impzb24iIG5hbWU9Impzb24iIGNsYXNzPSJtdHBmb3JtIiA+IDwvdGV4dGFyZWE+PGJyIC8+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgc3R5bGU9InRleHQtYWxpZ246IHJpZ2h0O2NsZWFyOiBib3RoOyBwYWRkaW5nLXJpZ2h0OjVweDtwYWRkaW5nLWJvdHRvbToxMHB4OyI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGJ1dHRvbiAgbmFtZT0ibXRwRGVsZXRlIiB0eXBlPSJidXR0b24iIGNsYXNzPSJjb21fYnV0dG9uIiBpZD0ibXRwRGVsZXRlIiB2YWx1ZT0iZGVsZXRlIj5EZWxldGUgUGFyYW1zPC9idXR0b24+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGJ1dHRvbiAgbmFtZT0ibXRwU3VibWl0IiB0eXBlPSJidXR0b24iIGNsYXNzPSJjb21fYnV0dG9uIiBpZD0ibXRwU3VibWl0IiB2YWx1ZT0ic2F2ZSI+U2F2ZSBQYXJhbXM8L2J1dHRvbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YnV0dG9uICBuYW1lPSJtdHBSZXZlcnQiIHR5cGU9ImJ1dHRvbiIgY2xhc3M9ImNvbV9idXR0b24iIGlkPSJtdHBSZXZlcnQiIHZhbHVlPSJzYXZlIj5SZXZlcnQgQ2hhbmdlczwvYnV0dG9uPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvZm9ybT4KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDwvZGl2PgoKICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gICRwYXJhbWV0ZXJzICAgID0gWydTQU1MUmVxdWVzdCcgPT4gJHNhbWxSZXF1ZXN0XTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZihlbXB0eSgkZGF0YSkpewo=</text>
+        <text encoding="base64">ICAgICAgICAkbWFuYWdlci0+bG9nb3V0KCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
+        <text encoding="base64">L30K</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">LyAgICAgICAgaWYoZW1wdHkoJGRhdGEtPnRvQXJyYXkoKSkpIHsKLy8gICAgICAgICAgICAkbG9nZ2VyLT53YXJuaW5nKCJObyBTQU1MIHJlcXVlc3Qgc2VudCAiIC4gcHJpbnRfcigkcmVxdWVzdCx0cnVlKSk7Ci8vICAgICAgICAgICAgcmV0dXJuICR0aGlzLT5zZW5kT3V0cHV0KCdObyBTQU1MIHJlcXVlc3Qgc2VudC4nLCAndGV4dC9odG1sJyk7Ci8vICAgICAgICA=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>managerInterface</last-search>
+      <last-search>map</last-search>
       <last-offset />
-      <last-pattern>managerInterface</last-pattern>
+      <last-pattern>map</last-pattern>
       <last-replace>other_one\.</last-replace>
       <last-substitute>otherone\.</last-substitute>
       <last-dir>1</last-dir>
@@ -736,7 +707,6 @@
     </search>
     <history>
       <history-search>
-        <entry>html</entry>
         <entry encoding="base64">JHRoaXMtPmRpZCA9IA==</entry>
         <entry>initializeUser</entry>
         <entry>domainManger</entry>
@@ -756,6 +726,7 @@
         <entry>=</entry>
         <entry>403</entry>
         <entry>managerInterface</entry>
+        <entry>map</entry>
       </history-search>
       <history-cmd>
         <entry>1168</entry>
