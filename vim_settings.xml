@@ -45,11 +45,11 @@
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/scripts/migration/migrate_hours.php" timestamp="1487697057609">
         <mark key="[" line="87" column="88" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/vendor/rioseo/rls-lib-user/src/SAML/SAMLManager.php" timestamp="1499810184247">
-        <mark key="[" line="123" column="69" />
-        <mark key="]" line="126" column="95" />
-        <mark key="." line="126" column="95" />
-        <mark key="^" line="126" column="95" />
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/vendor/rioseo/rls-lib-user/src/SAML/SAMLManager.php" timestamp="1499812905514">
+        <mark key="[" line="126" column="69" />
+        <mark key="]" line="126" column="67" />
+        <mark key="." line="126" column="67" />
+        <mark key="^" line="126" column="67" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/scripts/async_email_export_all.php" timestamp="1494104258688">
         <mark key="[" line="51" column="55" />
@@ -654,11 +654,11 @@
       <jump line="50" column="56" filename="$USER_HOME$/Documents/Rio/rls-lbe/public/rls_adminTools.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBcTG9nZ2VyOjpkZWJ1ZygnLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLScpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>iiiiiiiiiiiiiiiiiiiiiiiiiii</text>
       </register>
       <register name="-" type="4">
-        <text>RLS-3386 Finished fixing after rebase with develop.</text>
+        <text>iiiiiiiiiiiiiiiiiiiiiiiiiii</text>
       </register>
       <register name="/" type="4">
         <text>map</text>
