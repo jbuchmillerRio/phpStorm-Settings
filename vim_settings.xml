@@ -262,6 +262,7 @@
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/PostBuild/PageCache/Varnish.php" timestamp="1494104184106">
         <mark key="[" line="15" column="42" />
       </file>
+      <file name="$USER_HOME$/Documents/Rio/client_lib/module/Api/Manager/ClientGeoManager.php" timestamp="1499895381432" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/78e1825a-b6ed-4d38-a10a-3105fa8b490f/console.sql" timestamp="1493594681919">
         <mark key="[" line="3" column="0" />
       </file>
@@ -431,12 +432,6 @@
       <file name="$USER_HOME$/Documents/Rio/rls-rsm-ui/app/locations/locationsController.js" timestamp="1488994405750">
         <mark key="[" line="417" column="46" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/public/rls_adminTools.html" timestamp="1499795048177">
-        <mark key="'" line="50" column="56" />
-        <mark key="[" line="107" column="0" />
-        <mark key="]" line="107" column="0" />
-        <mark key="." line="107" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lib-history/src/Document/DynamicFieldDocument.php" timestamp="1482347903718">
         <mark key="[" line="9" column="13" />
       </file>
@@ -545,7 +540,7 @@
         <mark key="^" line="53" column="21" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499893063664">
+      <file name="/Dummy.txt" timestamp="1499895362156">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
