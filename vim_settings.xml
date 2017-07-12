@@ -338,7 +338,11 @@
         <mark key="." line="66" column="47" />
         <mark key="^" line="66" column="47" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/module/Services/src/Services/Controller/ProfileController.php" timestamp="1498846933450" />
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/module/Services/src/Services/Controller/ProfileController.php" timestamp="1499886342944">
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="85" />
+        <mark key="." line="84" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/LocationManager.php" timestamp="1498853167059">
         <mark key="[" line="82" column="9" />
         <mark key="]" line="83" column="6" />
@@ -669,7 +673,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVzcG9uc2UgPSAkdGhpcy0+Z2V0UmVzcG9uc2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICBcTG9nZ2VyOjpkZWJ1ZygiLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSIpOwo=</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -678,34 +682,34 @@
         <text>map</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkbG9nZ2VyLT5kZWJ1ZygiLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0iKTsK</text>
+        <text encoding="base64">ICAgICAgICBcTG9nZ2VyOjpkZWJ1ZygiLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVzcG9uc2UgPSAkdGhpcy0+Z2V0UmVzcG9uc2UoKTsK</text>
+        <text encoding="base64">ICAgICAgIFxMb2dnZXI6OmRlYnVnKCRfKTsgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBcTG9nZ2VyOjpkZWJ1ZygkX1NFU1NJT04pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVzcG9uc2UtPmdldEhlYWRlcnMoKS0+YWRkSGVhZGVyTGluZSgnTG9jYXRpb24nLCAkdXJsKTsK</text>
+        <text encoding="base64">ICAgICAgICBcTG9nZ2VyOjpkZWJ1ZygkX1NFU1NJT04pOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVzcG9uc2UtPnNldFN0YXR1c0NvZGUoMzAyKTsK</text>
+        <text encoding="base64">ICAgICAgICBcTG9nZ2VyOjpkZWJ1ZygkX1NFU1NJT04pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHJlc3BvbnNlOwo=</text>
+        <text encoding="base64">ICAgICAgICAkcmVzcG9uc2UgPSAkdGhpcy0+Z2V0UmVzcG9uc2UoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRyZXNwb25zZS0+c2V0U3RhdHVzQ29kZSgzMDgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRyZXNwb25zZS0+c2V0U3RhdHVzQ29kZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAkcmVzcG9uc2UtPmdldEhlYWRlcnMoKS0+YWRkSGVhZGVyTGluZSgnTG9jYXRpb24nLCAkdXJsKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAkcmVuZGVyZXItPnJlbmRlcigkcmVxdWVzdCwgJHJlc3BvbnNlLT53aXRoU3RhdHVzKDMwOCksICRkYXRhKTsK</text>
+        <text encoding="base64">ICAgICAgICAkcmVzcG9uc2UtPnNldFN0YXR1c0NvZGUoMzAyKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHJlc3BvbnNlOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
