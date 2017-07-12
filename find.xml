@@ -5,7 +5,7 @@
     <option name="searchOverloadedMethods" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
       <mask>controller.p</mask>
       <mask>controller.php</mask>
@@ -23,7 +23,6 @@
       <mask>*con</mask>
       <mask>*co</mask>
       <mask>*php</mask>
-      <mask>*</mask>
       <mask>*css</mask>
       <mask>*cs</mask>
       <mask>*c</mask>
@@ -32,11 +31,12 @@
       <mask>*.c</mask>
       <mask>-*.php</mask>
       <mask>*.ph</mask>
-      <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.</mask>
       <mask>*.p</mask>
       <mask>*.php</mask>
+      <mask>*</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
