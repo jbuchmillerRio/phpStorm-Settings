@@ -215,11 +215,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.cvsignore" timestamp="1494261037903">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/module/Services/Module.php" timestamp="1499964859340">
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/module/Services/Module.php" timestamp="1499965176770">
         <mark key="[" line="319" column="85" />
-        <mark key="]" line="319" column="37" />
-        <mark key="." line="319" column="37" />
-        <mark key="^" line="319" column="37" />
+        <mark key="]" line="332" column="48" />
+        <mark key="." line="332" column="48" />
+        <mark key="^" line="332" column="48" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/vendor/zendframework/zendframework/library/Zend/Mvc/Controller/AbstractController.php" timestamp="1499879996345" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1498840350966">
