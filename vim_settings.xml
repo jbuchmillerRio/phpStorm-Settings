@@ -218,7 +218,7 @@
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/public/js/rls/rls_live_data_field/rls_live_data_definition_controller.js" timestamp="1496352811259">
         <mark key="[" line="41" column="58" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/composer.json" timestamp="1500056948681" />
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/composer.json" timestamp="1500057923759" />
       <file name="$USER_HOME$/Documents/Rio/rls-lib-user/tests/SAML/SAMLManagerTest.php" timestamp="1500054643971">
         <mark key="[" line="376" column="34" />
         <mark key="]" line="382" column="47" />
@@ -256,8 +256,11 @@
         <mark key="[" line="18" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Setup.php" timestamp="1499961245668" />
-      <file name="$USER_HOME$/Documents/Rio/rls-lib-user/src/SAML/AbstractClaimManager.php" timestamp="1500053581139">
+      <file name="$USER_HOME$/Documents/Rio/rls-lib-user/src/SAML/AbstractClaimManager.php" timestamp="1500057956407">
         <mark key="[" line="166" column="0" />
+        <mark key="]" line="175" column="27" />
+        <mark key="^" line="175" column="27" />
+        <mark key="." line="175" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-cms/vendor/rioseo/rls-lib-user/tests/SAML/SAMLManagerTest.php" timestamp="1493072685511">
         <mark key="[" line="275" column="17" />
@@ -341,7 +344,7 @@
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/scripts/migration/migrate_hours.php" timestamp="1487697057609">
         <mark key="[" line="87" column="88" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/SAML/RioClaimManager.php" timestamp="1500048241820">
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/SAML/RioClaimManager.php" timestamp="1500057940457">
         <mark key="[" line="163" column="53" />
         <mark key="]" line="115" column="40" />
         <mark key="^" line="115" column="40" />
