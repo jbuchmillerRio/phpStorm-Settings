@@ -68,9 +68,9 @@
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/scripts/migration/migrate_hours.php" timestamp="1487697057609">
         <mark key="[" line="87" column="88" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/vendor/rioseo/rls-lib-user/src/SAML/SAMLManager.php" timestamp="1500045219006">
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/vendor/rioseo/rls-lib-user/src/SAML/SAMLManager.php" timestamp="1500048144350">
         <mark key="'" line="136" column="17" />
-        <mark key="[" line="333" column="38" />
+        <mark key="[" line="116" column="4" />
         <mark key="]" line="146" column="0" />
         <mark key="." line="146" column="0" />
         <mark key="^" line="118" column="8856" />
@@ -81,11 +81,11 @@
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/vendor/rioseo/rls-lib-hours/vendor/rioseo/rls-lib-history/src/HistoryInterface.php" timestamp="1485465295317">
         <mark key="[" line="13" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/SAML/RioClaimManager.php" timestamp="1500045811833">
-        <mark key="[" line="163" column="74" />
-        <mark key="]" line="163" column="57" />
-        <mark key="^" line="163" column="57" />
-        <mark key="." line="163" column="57" />
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/SAML/RioClaimManager.php" timestamp="1500048241820">
+        <mark key="[" line="162" column="53" />
+        <mark key="]" line="115" column="40" />
+        <mark key="^" line="115" column="40" />
+        <mark key="." line="115" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/module/Services/src/Services/Controller/LiveDataDefinitionController.php" timestamp="1493766084451">
         <mark key="[" line="87" column="79" />
@@ -265,8 +265,8 @@
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/DataTransfer/Processor/AbstractProcessor.php" timestamp="1494104146325">
         <mark key="[" line="75" column="64" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/SAML/BofAClaimManager.php" timestamp="1499381565777">
-        <mark key="[" line="22" column="31" />
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/SAML/BofAClaimManager.php" timestamp="1500048263419">
+        <mark key="[" line="153" column="0" />
         <mark key="]" line="22" column="31" />
         <mark key="." line="22" column="31" />
         <mark key="^" line="22" column="31" />
@@ -592,7 +592,7 @@
       <file name="$USER_HOME$/Documents/Rio/docker-rls/apache/proc/settings.php" timestamp="1494367704348">
         <mark key="[" line="52" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lib-user/src/SAML/SAMLManager.php" timestamp="1500045703952">
+      <file name="$USER_HOME$/Documents/Rio/rls-lib-user/src/SAML/SAMLManager.php" timestamp="1500048140029">
         <mark key="[" line="195" column="0" />
         <mark key="]" line="195" column="0" />
         <mark key="." line="195" column="0" />
