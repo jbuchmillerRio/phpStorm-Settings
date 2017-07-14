@@ -252,7 +252,6 @@
       <file name="/fragment.php" timestamp="1498852770542">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-cms/src/RLS/Manager/SAMLClaimsManagement/RioClaimManager.php" timestamp="1499879012104" />
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/public/js/rls/rls_feeds.js" timestamp="1490149484432">
         <mark key="[" line="411" column="19" />
       </file>
@@ -395,10 +394,11 @@
         <mark key="]" line="512" column="0" />
         <mark key="." line="512" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lib-user/tests/SAML/SAMLManagerTest.php" timestamp="1500053881530">
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="102" column="0" />
-        <mark key="." line="102" column="0" />
+      <file name="$USER_HOME$/Documents/Rio/rls-lib-user/tests/SAML/SAMLManagerTest.php" timestamp="1500054643971">
+        <mark key="[" line="376" column="34" />
+        <mark key="]" line="382" column="47" />
+        <mark key="." line="382" column="47" />
+        <mark key="^" line="382" column="47" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lib-user/tests/Mocks/UserManagerMock.php" timestamp="1491847670772">
         <mark key="[" line="14" column="17" />
@@ -548,10 +548,10 @@
         <mark key="[" line="5" column="52" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-cms/src/RLS/Middleware/Auth.php" timestamp="1498852429765">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="^" line="53" column="21" />
-        <mark key="." line="53" column="0" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="^" line="52" column="21" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1500052517795">
         <mark key="[" line="0" column="0" />
@@ -761,7 +761,7 @@
         <text encoding="base64">CgovLyAgICAgICAgJGxvZ291dFJlcXVlc3QgPSBuZXcgXE9uZUxvZ2luX1NhbWwyX0xvZ291dFJlcXVlc3QoJHRoaXMtPnNldHRpbmdzKTsKLy8gICAgICAgICRzYW1sUmVxdWVzdCAgID0gJGxvZ291dFJlcXVlc3QtPmdldFJlcXVlc3QoKTsKLy8gICAgICAgICRwYXJhbWV0ZXJzICAgID0gWydTQU1MUmVxdWVzdCcgPT4gJHNhbWxSZXF1ZXN0XTs=</text>
       </register>
       <register name=":" type="4">
-        <text>109</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -797,7 +797,6 @@
         <entry>alert</entry>
       </history-search>
       <history-cmd>
-        <entry>573</entry>
         <entry>427</entry>
         <entry>184</entry>
         <entry>49</entry>
@@ -814,9 +813,10 @@
         <entry>122</entry>
         <entry>43</entry>
         <entry>118</entry>
-        <entry>w</entry>
         <entry>106</entry>
         <entry>109</entry>
+        <entry>384</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
