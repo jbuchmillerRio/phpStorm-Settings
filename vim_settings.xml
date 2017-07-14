@@ -540,7 +540,7 @@
         <mark key="^" line="53" column="21" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500048880122">
+      <file name="/Dummy.txt" timestamp="1500052235903">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -550,12 +550,6 @@
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/HoursManager.php" timestamp="1497539250247">
         <mark key="[" line="687" column="8" />
-      </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/vendor/rioseo/rls-lib-user/src/SAML/AbstractClaimManager.php" timestamp="1500045779402">
-        <mark key="[" line="176" column="74" />
-        <mark key="]" line="176" column="25" />
-        <mark key="^" line="176" column="25" />
-        <mark key="." line="176" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/tools/rls/elk/elastic/templates/feedslog.json" timestamp="1490230668312">
         <mark key="[" line="98" column="4" />
