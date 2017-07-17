@@ -191,10 +191,10 @@
       <file name="/dummy.sql" timestamp="1500073147935">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500310221317">
+      <file name="/Dummy.txt" timestamp="1500311158972">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="10" />
+        <mark key="." line="0" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/public/js/rls/rls_location.js" timestamp="1491511974644">
         <mark key="[" line="909" column="15" />
@@ -563,10 +563,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>inished fixing after rebase with bofa-uat</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>inished fixing after rebase with bofa-uat</text>
       </register>
       <register name="/" type="4">
         <text>logout</text>
