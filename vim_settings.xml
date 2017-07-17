@@ -12,18 +12,13 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_25.json" timestamp="1487442451400">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/module/Application/src/Application/Controller/LocationController.php" timestamp="1499974148627">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/vendor/rioseo/rls-lib-hours/vendor/rioseo/rls-lib-history/composer.json" timestamp="1484178277847">
         <mark key="[" line="39" column="57" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lib-user/tests/fixture/settingsTestFixtureNox509certIDPFile.php" timestamp="1494005642888">
         <mark key="[" line="36" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-cms/src/RLS/Manager/SAMLClaimsManagement/HallmarkClaimManager.php" timestamp="1500073514591" />
+      <file name="$USER_HOME$/Documents/Rio/rls-cms/src/RLS/Manager/SAMLClaimsManagement/HallmarkClaimManager.php" timestamp="1500318462923" />
       <file name="/bofa.dashboard.conf" timestamp="1500310404168" />
       <file name="$USER_HOME$/Documents/Rio/rls-lib-user/tests/Mock/UserMock.php" timestamp="1491845254400">
         <mark key="[" line="13" column="29" />
@@ -63,11 +58,6 @@
       <file name="$USER_HOME$/Documents/rls-lbe/module/Services/src/Services/Controller/HoursController.php" timestamp="1496165313710">
         <mark key="[" line="394" column="46" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-cms/vendor/rioseo/rls-lib-user/src/SAML/SAMLManager.php" timestamp="1500066984706">
-        <mark key="[" line="197" column="0" />
-        <mark key="]" line="197" column="0" />
-        <mark key="." line="197" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/vendor/zendframework/zendframework/library/Zend/View/Helper/Navigation/AbstractHelper.php" timestamp="1493767260316">
         <mark key="[" line="320" column="30" />
       </file>
@@ -105,11 +95,6 @@
       </file>
       <file name="$USER_HOME$/Documents/Rio/tools/rls/elk/elastic/templates/changelog.json" timestamp="1490022979355">
         <mark key="[" line="491" column="12" />
-      </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/module/Services/src/Services/Controller/ADFSController.php" timestamp="1500043110308">
-        <mark key="[" line="33" column="6" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-cms/vendor/rioseo/rls-lib-user/src/SAML/AbstractClaimManager.php" timestamp="1500067060266">
         <mark key="[" line="176" column="8" />
@@ -189,7 +174,7 @@
       <file name="/dummy.sql" timestamp="1500073147935">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500311158972">
+      <file name="/Dummy.txt" timestamp="1500316628360">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
@@ -211,11 +196,6 @@
       <file name="$USER_HOME$/Documents/Rio/docker-rls/apache/proc/settings.php" timestamp="1494367704348">
         <mark key="[" line="52" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/ExportManager.php" timestamp="1497914052087">
-        <mark key="[" line="1032" column="0" />
-        <mark key="]" line="1032" column="0" />
-        <mark key="." line="1032" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/vendor/rioseo/rls-lib-hours/src/HoursSetManager.php" timestamp="1487788942910">
         <mark key="[" line="68" column="45" />
       </file>
@@ -232,11 +212,6 @@
         <mark key="[" line="158" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/client_lib/public/js/rls.site.js" timestamp="1499898088214" />
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0d038304-9170-416f-a634-b570ce79034f/console.sql" timestamp="1497458747422">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Rio/rls-cms/src/RLS/Manager/UserManager.php" timestamp="1493152352176">
         <mark key="[" line="84" column="55" />
       </file>
@@ -248,11 +223,11 @@
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/scripts/migration/migrate_hours.php" timestamp="1487697057609">
         <mark key="[" line="87" column="88" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/SAML/RioClaimManager.php" timestamp="1500057940457">
-        <mark key="[" line="163" column="53" />
-        <mark key="]" line="115" column="40" />
-        <mark key="^" line="115" column="40" />
-        <mark key="." line="115" column="40" />
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/SAML/RioClaimManager.php" timestamp="1500318518543">
+        <mark key="[" line="80" column="41" />
+        <mark key="]" line="115" column="37" />
+        <mark key="^" line="115" column="37" />
+        <mark key="." line="115" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/vendor/zendframework/zendframework/library/Zend/Mvc/Controller/PluginManager.php" timestamp="1499879318155" />
       <file name="$USER_HOME$/Documents/Rio/rls-cms/src/RLS/Manager/ProfileManager.php" timestamp="1485359334284">
@@ -260,11 +235,6 @@
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/PostBuild/PageCache/CdnNetwork.php" timestamp="1494104168874">
         <mark key="[" line="17" column="43" />
-      </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/module/Services/src/Services/Controller/ReportsController.php" timestamp="1498846184282">
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lib-user/src/Exception/SAMLAuthException.php" timestamp="1494110070228">
         <mark key="[" line="7" column="23" />
@@ -371,7 +341,7 @@
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/scripts/gmb_attributes_updater.php" timestamp="1494104306742">
         <mark key="[" line="70" column="55" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/settings/riolocal.adfs.settings.php" timestamp="1500304577194">
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/settings/riolocal.adfs.settings.php" timestamp="1500316614549">
         <mark key="[" line="7" column="69" />
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
@@ -386,11 +356,6 @@
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/scripts/async_gmb_feed.php" timestamp="1494104278375">
         <mark key="[" line="39" column="51" />
-      </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/scripts/async_email_export_feeds.php" timestamp="1497892788743">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-cms/src/RLS/Manager/SpecialtyManager.php" timestamp="1485359345381">
         <mark key="[" line="200" column="57" />
@@ -412,11 +377,6 @@
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/vendor/rioseo/rls-lib-datastore/src/KafkaBackend.php" timestamp="1490032609115">
         <mark key="[" line="136" column="4" />
-      </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/SAML/UserRoleManager.php" timestamp="1498758101616">
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/ActiveDirectory/HallmarkClaimManager.php" timestamp="1488576219617">
         <mark key="[" line="2" column="13" />
@@ -561,10 +521,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>inished fixing after rebase with bofa-uat</text>
+        <text encoding="base64">ICAgLyoqCiAgICAgKiBDbGVhbiB1cCB0aGUgZGF0YSBhdHRyaWJ1dGVzCiAgICAgKiBAcGFyYW0gYXJyYXkgJGF0dHJpYnV0ZXMKICAgICAqIEByZXR1cm4gYXJyYXkKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIG5vcm1hbGl6ZUF0dHJpYnV0ZXMoYXJyYXkgJGF0dHJpYnV0ZXMpCiAgICB7CgogICAgICAgICRub3JtYWxpemVkID0gW107CiAgICAgICAgLy8gVGhlIGZvcm1hdCBmb3IgdGhlIG1hcHBpbmcgaXMgW25vcm1hbGl6ZWRLZXlOYW1lLCBDb2xsYXBzZVN1YkFycmF5SW50b1Npbmd1bGFyVmFsdWVdCiAgICAgICAgLy8gRm9yIGV4YW1wbGUsIGdyb3VwcyBpcyBhIGxpc3Qgb2YgaXRlbXMsIHNvIHdlIG5lZWQgdG8gbGVhdmUgdGhhdCBhcyBpcywgYnV0IGVtYWlsLCBmaXJzdCBuYW1lLCBldGMuCiAgICAgICAgLy8gaXMgbm90IGEgbGlzdCBldmVuIHRob3VnaCBpdCBpcyByZXR1cm5lZCBhcyBzdWNoLCB0aGVyZWZvcmUgd2Ugbm9ybWFsaXplIGl0IHRvIG1ha2UgdGhpbmdzIHNpbXBsZXIgdG8gYWNjZXNzCiAgICAgICAgLy8gRm9yIGl0ZW1zIG5vdCBtYXBwZWQKICAgICAgICAkc29hcFRvU2FuZU1hcHBpbmdzID0gWwogICAgICAgICAgICAnaHR0cDovL3NjaGVtYXMueG1sc29hcC5vcmcvd3MvMjAwNS8wNS9pZGVudGl0eS9jbGFpbXMvZW1haWxhZGRyZXNzJyA9PiBbJ2VtYWlsJywgdHJ1ZV0sCiAgICAgICAgICAgICdodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9naXZlbm5hbWUnID0+IFsnZ2l2ZW5uYW1lJywgdHJ1ZV0sCiAgICAgICAgICAgICdodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9zdXJuYW1lJyA9PiBbJ3N1cm5hbWUnLCB0cnVlXSwKICAgICAgICAgICAgJ2h0dHA6Ly9zY2hlbWFzLnhtbHNvYXAub3JnL3dzLzIwMDUvMDUvaWRlbnRpdHkvY2xhaW1zL3VwbicgPT4gWydlbWFpbCcsIHRydWVdLAogICAgICAgICAgICAnaHR0cHM6Ly9yZXRhaWxjb25uZWN0LmhhbGxtYXJrLmNvbS9BcHAvQ1NHL1VzZXJSb2xlJyA9PiBbJ2hhbGxtYXJrX3VzZXJfcm9sZScsIHRydWVdLAogICAgICAgICAgICAnaHR0cDovL3NjaGVtYXMubWljcm9zb2Z0LmNvbS93cy8yMDA4LzA2L2lkZW50aXR5L2NsYWltcy9yb2xlJyA9PiBbJ3JvbGVzJywgZmFsc2VdLAogICAgICAgICAgICAnaHR0cHM6Ly9yZXRhaWxjb25uZWN0LmhhbGxtYXJrLmNvbS9BY2NvdW50cycgPT4gWydhY2NvdW50cycsIGZhbHNlXSwKICAgICAgICAgICAgJ2h0dHA6Ly9zY2hlbWFzLnhtbHNvYXAub3JnL2NsYWltcy9Hcm91cCcgPT4gWydncm91cHMnLCBmYWxzZV0sCiAgICAgICAgXTsKCiAgICAgICAgJG5vcm1hbGl6ZWQgPSBbXTsKCiAgICAgICAgZm9yZWFjaCAoJGF0dHJpYnV0ZXMgYXMgJGtleSA9PiAkdmFsdWUpIHsKICAgICAgICAgICAgaWYgKCFpc3NldCgkdGhpcy0+bWFwcGluZ1ska2V5XSkpIHsKICAgICAgICAgICAgICAgIGNvbnRpbnVlOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGlmICgka2V5ID09PSBzZWxmOjpST0xFX0lEKSB7CiAgICAgICAgICAgICAgICAkbm9ybWFsaXplZFska2V5XSA9IGFycmF5X3ZhbHVlcygkdmFsdWUpOwogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgJG5vcm1hbGl6ZWRbJGtleV0gPSAkdmFsdWVbMF07CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgcmV0dXJuICRub3JtYWxpemVkOwogICAgfQ==</text>
       </register>
       <register name="-" type="4">
-        <text>inished fixing after rebase with bofa-uat</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>logout</text>
@@ -572,32 +532,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAvLyBAY29kZUNvdmVyYWdlSWdub3JlU3RhcnQK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBdKTsK</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgLyoqCiAgICAgKiBDbGVhbiB1cCB0aGUgZGF0YSBhdHRyaWJ1dGVzCiAgICAgKiBAcGFyYW0gYXJyYXkgJGF0dHJpYnV0ZXMKICAgICAqIEByZXR1cm4gYXJyYXkKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIG5vcm1hbGl6ZUF0dHJpYnV0ZXMoYXJyYXkgJGF0dHJpYnV0ZXMpCiAgICB7CgogICAgICAgICRub3JtYWxpemVkID0gW107CiAgICAgICAgLy8gVGhlIGZvcm1hdCBmb3IgdGhlIG1hcHBpbmcgaXMgW25vcm1hbGl6ZWRLZXlOYW1lLCBDb2xsYXBzZVN1YkFycmF5SW50b1Npbmd1bGFyVmFsdWVdCiAgICAgICAgLy8gRm9yIGV4YW1wbGUsIGdyb3VwcyBpcyBhIGxpc3Qgb2YgaXRlbXMsIHNvIHdlIG5lZWQgdG8gbGVhdmUgdGhhdCBhcyBpcywgYnV0IGVtYWlsLCBmaXJzdCBuYW1lLCBldGMuCiAgICAgICAgLy8gaXMgbm90IGEgbGlzdCBldmVuIHRob3VnaCBpdCBpcyByZXR1cm5lZCBhcyBzdWNoLCB0aGVyZWZvcmUgd2Ugbm9ybWFsaXplIGl0IHRvIG1ha2UgdGhpbmdzIHNpbXBsZXIgdG8gYWNjZXNzCiAgICAgICAgLy8gRm9yIGl0ZW1zIG5vdCBtYXBwZWQKICAgICAgICAkc29hcFRvU2FuZU1hcHBpbmdzID0gWwogICAgICAgICAgICAnaHR0cDovL3NjaGVtYXMueG1sc29hcC5vcmcvd3MvMjAwNS8wNS9pZGVudGl0eS9jbGFpbXMvZW1haWxhZGRyZXNzJyA9PiBbJ2VtYWlsJywgdHJ1ZV0sCiAgICAgICAgICAgICdodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9naXZlbm5hbWUnID0+IFsnZ2l2ZW5uYW1lJywgdHJ1ZV0sCiAgICAgICAgICAgICdodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9zdXJuYW1lJyA9PiBbJ3N1cm5hbWUnLCB0cnVlXSwKICAgICAgICAgICAgJ2h0dHA6Ly9zY2hlbWFzLnhtbHNvYXAub3JnL3dzLzIwMDUvMDUvaWRlbnRpdHkvY2xhaW1zL3VwbicgPT4gWydlbWFpbCcsIHRydWVdLAogICAgICAgICAgICAnaHR0cHM6Ly9yZXRhaWxjb25uZWN0LmhhbGxtYXJrLmNvbS9BcHAvQ1NHL1VzZXJSb2xlJyA9PiBbJ2hhbGxtYXJrX3VzZXJfcm9sZScsIHRydWVdLAogICAgICAgICAgICAnaHR0cDovL3NjaGVtYXMubWljcm9zb2Z0LmNvbS93cy8yMDA4LzA2L2lkZW50aXR5L2NsYWltcy9yb2xlJyA9PiBbJ3JvbGVzJywgZmFsc2VdLAogICAgICAgICAgICAnaHR0cHM6Ly9yZXRhaWxjb25uZWN0LmhhbGxtYXJrLmNvbS9BY2NvdW50cycgPT4gWydhY2NvdW50cycsIGZhbHNlXSwKICAgICAgICAgICAgJ2h0dHA6Ly9zY2hlbWFzLnhtbHNvYXAub3JnL2NsYWltcy9Hcm91cCcgPT4gWydncm91cHMnLCBmYWxzZV0sCiAgICAgICAgXTsKCiAgICAgICAgJG5vcm1hbGl6ZWQgPSBbXTsKCiAgICAgICAgZm9yZWFjaCAoJGF0dHJpYnV0ZXMgYXMgJGtleSA9PiAkdmFsdWUpIHsKICAgICAgICAgICAgaWYgKCFpc3NldCgkdGhpcy0+bWFwcGluZ1ska2V5XSkpIHsKICAgICAgICAgICAgICAgIGNvbnRpbnVlOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGlmICgka2V5ID09PSBzZWxmOjpST0xFX0lEKSB7CiAgICAgICAgICAgICAgICAkbm9ybWFsaXplZFska2V5XSA9IGFycmF5X3ZhbHVlcygkdmFsdWUpOwogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgJG5vcm1hbGl6ZWRbJGtleV0gPSAkdmFsdWVbMF07CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgcmV0dXJuICRub3JtYWxpemVkOwogICAgfQ==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3VzZXJuYW1lJyA9PiAndXNlcm5hbWUnCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgZnVuY3Rpb24gbm9ybWFsaXplQXR0cmlidXRlcyhhcnJheSAkYXR0cmlidXRlcykKICAgIHs=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3VpZCcgPT4gMTIzLAo=</text>
+        <text encoding="base64">ICAgICAgICBdKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3R5cGUnID0+IDEsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3VzZXJuYW1lJyA9PiAndXNlcm5hbWUnCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2VtYWlsJyA9PiAndGVzdEBlbWFpbC5jb20nLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3VpZCcgPT4gMTIzLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2FjdGl2ZScgPT4gdHJ1ZSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3R5cGUnID0+IDEsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkdXNlciA9IG5ldyBVc2VyTW9jayhbCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2VtYWlsJyA9PiAndGVzdEBlbWFpbC5jb20nLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyd1cmwnID0+ICdodHRwczovL2ZvcmVzdC5jb20vYWRmcy9scy9JZHBJbml0aWF0ZWRTaWdub24uYXNweCcsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2FjdGl2ZScgPT4gdHJ1ZSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICNTZXRFbnYgU0FNTF9DTEFJTV9NQU5BR0VSIFRMU1xNYW5hZ2VyXFNBTUxcUmlvQ2xhaW1NYW5hZ2VyCg==</text>
+        <text encoding="base64">ICAgICAgICAkdXNlciA9IG5ldyBVc2VyTW9jayhbCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
