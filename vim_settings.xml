@@ -9,6 +9,9 @@
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/scripts/build/run_scheduled_builds.php" timestamp="1494640689740">
         <mark key="[" line="36" column="67" />
       </file>
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/SAML/RiobofaClaimManager.php" timestamp="1500324968527">
+        <mark key="[" line="18" column="10" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_25.json" timestamp="1487442451400">
         <mark key="[" line="0" column="0" />
       </file>
@@ -45,7 +48,7 @@
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/scripts/async_foursquare.php" timestamp="1494104271495">
         <mark key="[" line="28" column="51" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/module/Services/src/Services/Controller/ConfigurationController.php" timestamp="1499973419863" />
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/module/Services/src/Services/Controller/ConfigurationController.php" timestamp="1500324427788" />
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/ActiveDirectory/ActiveDirectoryManager.php" timestamp="1488576210850">
         <mark key="[" line="2" column="12" />
       </file>
@@ -174,7 +177,7 @@
       <file name="/dummy.sql" timestamp="1500073147935">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500316628360">
+      <file name="/Dummy.txt" timestamp="1500324469050">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
@@ -406,7 +409,7 @@
       <file name="chrome-extension://ghbmhlgniedlklkpimlibbaoomlpacmk/jquery.ip.js" timestamp="1500056105768">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lib-user/src/SAML/SAMLManager.php" timestamp="1500310861873">
+      <file name="$USER_HOME$/Documents/Rio/rls-lib-user/src/SAML/SAMLManager.php" timestamp="1500324467669">
         <mark key="[" line="333" column="6" />
         <mark key="]" line="331" column="20" />
         <mark key="." line="331" column="20" />
