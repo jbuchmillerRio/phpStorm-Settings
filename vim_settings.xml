@@ -23,6 +23,7 @@
       <file name="$USER_HOME$/Documents/Rio/rls-lib-user/tests/fixture/settingsTestFixtureNox509certIDPFile.php" timestamp="1494005642888">
         <mark key="[" line="36" column="23" />
       </file>
+      <file name="$USER_HOME$/Documents/Rio/rls-cms/src/RLS/Manager/SAMLClaimsManagement/HallmarkClaimManager.php" timestamp="1500073514591" />
       <file name="$USER_HOME$/Documents/Rio/rls-lib-user/tests/Mock/UserMock.php" timestamp="1491845254400">
         <mark key="[" line="13" column="29" />
       </file>
@@ -32,6 +33,7 @@
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/vendor/rioseo/rls-lib-hours/vendor/rioseo/rls-lib-history/src/HistoryInterface.php" timestamp="1485465295317">
         <mark key="[" line="13" column="23" />
       </file>
+      <file name="$USER_HOME$/Documents/Rio/rls-cms/src/RLS/Controller/PlacesController.php" timestamp="1500073590741" />
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/module/Services/src/Services/Controller/LiveDataDefinitionController.php" timestamp="1493766084451">
         <mark key="[" line="87" column="79" />
       </file>
@@ -136,7 +138,7 @@
       <file name="$USER_HOME$/Documents/Rio/rls-cms/src/RLS/Manager/HoursManager.php" timestamp="1487349362876">
         <mark key="[" line="100" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-cms/src/RLS/Manager/PlacesManager.php" timestamp="1490909612842">
+      <file name="$USER_HOME$/Documents/Rio/rls-cms/src/RLS/Manager/PlacesManager.php" timestamp="1500073632411">
         <mark key="[" line="170" column="55" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/9c0da9b8-baa2-481b-beb7-9bd432b84e0b/console_3.sql" timestamp="1486577518593">
@@ -180,10 +182,10 @@
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/vendor/zendframework/zendframework/library/Zend/View/Helper/Navigation.php" timestamp="1494639855655">
         <mark key="[" line="196" column="28" />
       </file>
-      <file name="/dummy.sql" timestamp="1500073094048">
+      <file name="/dummy.sql" timestamp="1500073147935">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500067196870">
+      <file name="/Dummy.txt" timestamp="1500073632890">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -308,6 +310,7 @@
         <mark key="." line="254" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/vendor/zendframework/zendframework/library/Zend/Mvc/Controller/AbstractController.php" timestamp="1499879996345" />
+      <file name="$USER_HOME$/Documents/Rio/rls-cms/src/RLS/Controller/UserController.php" timestamp="1500073650199" />
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/SAML/HallmarkClaimManager.php" timestamp="1493604004489">
         <mark key="[" line="152" column="4" />
       </file>
@@ -424,6 +427,7 @@
       <file name="/JavaScript Console" timestamp="1500056099957">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Rio/rls-cms/src/RLS/Manager/UserRole/UserLocationManager.php" timestamp="1500073430724" />
       <file name="$USER_HOME$/Documents/Rio/rls-cms/src/RLS/Controller/APIController.php" timestamp="1493152285833">
         <mark key="[" line="59" column="19" />
       </file>
