@@ -203,11 +203,11 @@
         <mark key="^" line="47" column="30" />
         <mark key="." line="47" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/module/Services/src/Services/Controller/ADFSController.php" timestamp="1500413730084">
-        <mark key="[" line="44" column="16" />
-        <mark key="]" line="44" column="15" />
-        <mark key="." line="44" column="15" />
-        <mark key="^" line="44" column="15" />
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/module/Services/src/Services/Controller/ADFSController.php" timestamp="1500422121170">
+        <mark key="[" line="66" column="22" />
+        <mark key="]" line="66" column="23" />
+        <mark key="." line="66" column="23" />
+        <mark key="^" line="66" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/vendor/rioseo/rls-lib-rbac/src/Overseer.php" timestamp="1498838246477">
         <mark key="[" line="164" column="79" />
@@ -305,7 +305,7 @@
       <file name="/dummy.sql" timestamp="1500073147935">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500421350145">
+      <file name="/Dummy.txt" timestamp="1500422132160">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
@@ -362,7 +362,7 @@
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/scripts/migration/migrate_hours.php" timestamp="1487697057609">
         <mark key="[" line="87" column="88" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/SAML/RioClaimManager.php" timestamp="1500421072853">
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/SAML/RioClaimManager.php" timestamp="1500421500175">
         <mark key="[" line="104" column="89" />
         <mark key="]" line="116" column="37" />
         <mark key="^" line="116" column="37" />
@@ -596,7 +596,7 @@
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/ActiveDirectory/HallmarkClaimManager.php" timestamp="1488576219617">
         <mark key="[" line="2" column="13" />
       </file>
-      <file name="/PHP Console" timestamp="1500421039274">
+      <file name="/PHP Console" timestamp="1500421698455">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-cms/src/RLS/Controller/ADFSController.php" timestamp="1498579674280">
@@ -800,7 +800,7 @@
         <text encoding="base64">ICAgICAgICAkZGF0YSA9ICRkYXRhLT5nZXRBcnJheUNvcHkoKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq!</text>
       </register>
     </registers>
     <search>
@@ -836,7 +836,6 @@
         <entry>saml</entry>
       </history-search>
       <history-cmd>
-        <entry>104</entry>
         <entry>2441</entry>
         <entry>67</entry>
         <entry>362</entry>
@@ -856,6 +855,7 @@
         <entry>386</entry>
         <entry>55</entry>
         <entry>w</entry>
+        <entry>wq!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
