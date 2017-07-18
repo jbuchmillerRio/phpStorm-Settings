@@ -452,7 +452,12 @@
       <file name="$USER_HOME$/Documents/Rio/rls-lib-history/tests/test_get_changeset_fixture.json" timestamp="1493692523548">
         <mark key="[" line="20" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lib-user/src/SAML/ClaimMappingFactory.php" timestamp="1500332217784" />
+      <file name="$USER_HOME$/Documents/Rio/rls-lib-user/src/SAML/ClaimMappingFactory.php" timestamp="1500393019212">
+        <mark key="[" line="54" column="25" />
+        <mark key="]" line="58" column="33" />
+        <mark key="^" line="58" column="33" />
+        <mark key="." line="58" column="33" />
+      </file>
       <file name="$USER_HOME$/Documents/Rio/rls-cms/src/RLS/Exception/DoesNotExist.php" timestamp="1495643384528">
         <mark key="[" line="5" column="19" />
       </file>
@@ -802,7 +807,6 @@
         <entry>saml</entry>
       </history-search>
       <history-cmd>
-        <entry>49</entry>
         <entry>104</entry>
         <entry>2441</entry>
         <entry>67</entry>
@@ -821,6 +825,7 @@
         <entry>384</entry>
         <entry>355</entry>
         <entry>386</entry>
+        <entry>55</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
