@@ -84,7 +84,7 @@
         <mark key="[" line="7" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/scripts/async_foursquare.php" timestamp="1494104271495">
-        <mark key="[" line="28" column="51" />
+        <mark key="[" line="27" column="51" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/module/Services/src/Services/Controller/ConfigurationController.php" timestamp="1500401544443" />
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/module/Services/src/Services/Controller/CountryController.php" timestamp="1498682995995">
@@ -116,9 +116,6 @@
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/public/js/rls/rls_domain.js" timestamp="1496505464312">
         <mark key="[" line="20" column="55" />
-        <mark key="]" line="21" column="6" />
-        <mark key="^" line="21" column="6" />
-        <mark key="." line="21" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lib-hours/tests/HoursHistoryTest.php" timestamp="1496354878208">
         <mark key="[" line="316" column="56" />
@@ -146,7 +143,12 @@
       <file name="/a.sql" timestamp="1498844276486">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/module/Application/Module.php" timestamp="1500406744795" />
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/module/Application/Module.php" timestamp="1500486811517">
+        <mark key="[" line="136" column="41" />
+        <mark key="]" line="136" column="11" />
+        <mark key="." line="136" column="11" />
+        <mark key="^" line="136" column="11" />
+      </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/public/js/rls/rls_profilefields.js" timestamp="1499980814216">
         <mark key="[" line="32" column="38" />
       </file>
@@ -171,6 +173,7 @@
         <mark key="." line="39" column="0" />
         <mark key="^" line="24" column="29" />
       </file>
+      <file name="/com_main.js" timestamp="1500486913893" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/78e1825a-b6ed-4d38-a10a-3105fa8b490f/console.sql" timestamp="1500315457541" />
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Form/DomainFieldset.php" timestamp="1487282814131">
         <mark key="[" line="166" column="70" />
@@ -267,10 +270,10 @@
       <file name="$USER_HOME$/Documents/Rio/rls-rsm-ui/app/core/header.html" timestamp="1494632688213">
         <mark key="[" line="39" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/module/Services/config/module.config.php" timestamp="1500482858585">
-        <mark key="[" line="9" column="35" />
-        <mark key="]" line="9" column="50" />
-        <mark key="." line="9" column="50" />
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/module/Services/config/module.config.php" timestamp="1500486844634">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
         <mark key="^" line="9" column="50" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/vendor/rioseo/rls-lib-hours/tests/HoursManagerTest.php" timestamp="1486842714786">
@@ -311,10 +314,10 @@
       <file name="/dummy.sql" timestamp="1500073147935">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500485779157">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="10" />
-        <mark key="." line="0" column="10" />
+      <file name="/Dummy.txt" timestamp="1500487189338">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/public/js/rls/rls_location.js" timestamp="1491511974644">
         <mark key="[" line="909" column="15" />
@@ -585,6 +588,7 @@
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/config/dependencies.php" timestamp="1500414907194">
         <mark key="[" line="60" column="94" />
       </file>
+      <file name="/rls_admin.js" timestamp="1500486970617" />
       <file name="$USER_HOME$/Documents/Rio/rls-cms/src/RLS/Manager/SpecialtyManager.php" timestamp="1485359345381">
         <mark key="[" line="200" column="57" />
       </file>
@@ -668,7 +672,12 @@
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/HoursManager.php" timestamp="1497539250247">
         <mark key="[" line="687" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/UserManager.php" timestamp="1500407631811" />
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/UserManager.php" timestamp="1500486713553">
+        <mark key="[" line="269" column="48" />
+        <mark key="]" line="269" column="47" />
+        <mark key="." line="269" column="47" />
+        <mark key="^" line="269" column="47" />
+      </file>
       <file name="$USER_HOME$/Documents/Rio/tools/rls/elk/elastic/templates/feedslog.json" timestamp="1490230668312">
         <mark key="[" line="98" column="4" />
       </file>
@@ -686,12 +695,6 @@
         <mark key="]" line="99" column="0" />
         <mark key="." line="99" column="0" />
         <mark key="^" line="95" column="48" />
-      </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/public/rls_domainEditor.html" timestamp="1496505414175">
-        <mark key="[" line="543" column="54" />
-        <mark key="]" line="543" column="59" />
-        <mark key="^" line="543" column="59" />
-        <mark key="." line="543" column="59" />
       </file>
       <file name="/RioClaimManager.php" timestamp="1499807226082" />
       <file name="$USER_HOME$/Desktop/Metadata_IDP_SSO_2017_10364_11316_Dev.xml" timestamp="1496875975167">
@@ -801,11 +804,11 @@
       <jump line="183" column="10" filename="$USER_HOME$/Documents/Rio/rls-lib-user/src/SAML/AbstractClaimManager.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgLy8gdW5jb21tZW50IGZvciB0ZXN0aW5nIEJvZmEgdXNpbmcgdGhlIHJpb2xvY2FsIGxpa2UgQm9mQSBTU08gIFFBIGxvZ2luIGZyb20gc3NvcWEucmlvc2VvLmNvbQo=</text>
+      <register name="&quot;" type="4">
+        <text>Move test data to fixture file.</text>
       </register>
       <register name="-" type="4">
-        <text>OneLogin_Saml2_LogoutRequest</text>
+        <text>Move test data to fixture file.</text>
       </register>
       <register name="/" type="4">
         <text>saml</text>
@@ -813,14 +816,14 @@
       <register name="0" type="4">
         <text encoding="base64">ICAkdGhpcy0+bG9nZ2VyKCdTQU1MIGNvdWxkIG5vdCBmaW5kIFNBTUwgU0VUVElOR1MnKTsKICAgICAgICAgICAgdGhyb3cgbmV3IFNBTUxDb25maWd1cmF0aW9uRXhjZXB0aW9uKCJTQU1MIGNvdWxkIG5vdCBmaW5kIHNhbWwgU0VUVElORyAiKTs=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgLy8gdW5jb21tZW50IGZvciB0ZXN0aW5nIEJvZmEgdXNpbmcgdGhlIHJpb2xvY2FsIGxpa2UgQm9mQSBTU08gIFFBIGxvZ2luIGZyb20gc3NvcWEucmlvc2VvLmNvbQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgJ2F1dGgnID0+IGFycmF5KAogICAgICAgICAgICAgICAgJ3R5cGUnID0+ICdzZWdtZW50JywKICAgICAgICAgICAgICAgICdvcHRpb25zJyA9PiBhcnJheSgKICAgICAgICAgICAgICAgICAgICAncm91dGUnID0+ICcvYXV0aC9zc28vOmNvbnRyb2xsZXIvOmFjdGlvblsuanNvbl1bLnhtbF0nLAogICAgICAgICAgICAgICAgICAgICdjb25zdHJhaW50cycgPT4gYXJyYXkoCiAgICAgICAgICAgICAgICAgICAgICAgICdjb250cm9sbGVyJyA9PiAnW2EtekEtWl0rJywKICAgICAgICAgICAgICAgICAgICAgICAgJ2FjdGlvbicgPT4gJ1thLXpBLVpdW2EtekEtWjAtOV8tXSonCiAgICAgICAgICAgICAgICAgICAgKSwKICAgICAgICAgICAgICAgICAgICAnZGVmYXVsdHMnID0+IGFycmF5KAogICAgICAgICAgICAgICAgICAgICAgICAnX19OQU1FU1BBQ0VfXycgPT4gJ1NlcnZpY2VzXENvbnRyb2xsZXInLAogICAgICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgKSw=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkbG9nb3V0UmVxdWVzdCA9IG5ldyBcT25lTG9naW5fU2FtbDJfTG9nb3V0UmVxdWVzdCgkdGhpcy0+c2V0dGluZ3MpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICgkY29udHJvbGxlck5hbWUgIT0gJ3NhbWwnIHx8ICFpbl9hcnJheSgkYWN0aW9uTmFtZSwgJGFsbG93ZWRTQU1MQWN0aW9ucykpICYmCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkc2FtbFJlcXVlc3QgICA9ICRsb2dvdXRSZXF1ZXN0LT5nZXRSZXF1ZXN0KCk7Cg==</text>
+        <text encoding="base64">ICAgLy8gdW5jb21tZW50IGZvciB0ZXN0aW5nIEJvZmEgdXNpbmcgdGhlIHJpb2xvY2FsIGxpa2UgQm9mQSBTU08gIFFBIGxvZ2luIGZyb20gc3NvcWEucmlvc2VvLmNvbQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAkbG9nb3V0UmVxdWVzdCA9IG5ldyBcT25lTG9naW5fU2FtbDJfTG9nb3V0UmVxdWVzdCgkdGhpcy0+c2V0dGluZ3MpOwo=</text>
