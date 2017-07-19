@@ -305,8 +305,8 @@
       <file name="/dummy.sql" timestamp="1500073147935">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500482702960">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1500482752244">
+        <mark key="[" line="0" column="10" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
@@ -761,10 +761,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHJldHVybiBudWxsfHN0cmluZwogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0TG9nb3V0VXJsKCkKICAgIHsKICAgICAgICAkaWRwRGF0YSAgICAgICA9ICR0aGlzLT5zZXR0aW5ncy0+Z2V0SWRQRGF0YSgpOwogICAgICAgICRzbG9VcmwgICAgICAgID0gJGlkcERhdGFbJ3NpbmdsZUxvZ291dFNlcnZpY2UnXVsndXJsJ107CiAgICAgICAgJGxvZ291dFJlcXVlc3QgPSBuZXcgXE9uZUxvZ2luX1NhbWwyX0xvZ291dFJlcXVlc3QoJHRoaXMtPnNldHRpbmdzKTsKICAgICAgICAkc2FtbFJlcXVlc3QgICA9ICRsb2dvdXRSZXF1ZXN0LT5nZXRSZXF1ZXN0KCk7CiAgICAgICAgJHVybCAgICAgICAgICAgPSBcT25lTG9naW5fU2FtbDJfVXRpbHM6OnJlZGlyZWN0KCRzbG9VcmwsIFtdLCB0cnVlKTsKICAgICAgICByZXR1cm4gJHVybDsKICAgIH0=</text>
+        <text>inished fixing after rebase with bofa-ua</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Z2V0UG9zdCgpLT5nZXQoKTs=</text>
+        <text>inished fixing after rebase with bofa-ua</text>
       </register>
       <register name="/" type="4">
         <text>saml</text>
