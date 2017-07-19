@@ -208,7 +208,7 @@
         <mark key="^" line="47" column="30" />
         <mark key="." line="47" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/module/Services/src/Services/Controller/ADFSController.php" timestamp="1500484191264">
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/module/Services/src/Services/Controller/ADFSController.php" timestamp="1500485641675">
         <mark key="[" line="47" column="7" />
         <mark key="]" line="46" column="72" />
         <mark key="." line="46" column="72" />
@@ -311,7 +311,7 @@
       <file name="/dummy.sql" timestamp="1500073147935">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500484200128">
+      <file name="/Dummy.txt" timestamp="1500485779157">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
@@ -629,6 +629,11 @@
         <mark key="]" line="66" column="0" />
         <mark key="." line="66" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/tests/fixtures/testSAMLTokenForBofA.txt" timestamp="1500485725595">
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/ActiveDirectory/HallmarkClaimManager.php" timestamp="1488576219617">
         <mark key="[" line="2" column="13" />
       </file>
@@ -797,7 +802,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkbG9nb3V0UmVxdWVzdCA9IG5ldyBcT25lTG9naW5fU2FtbDJfTG9nb3V0UmVxdWVzdCgkdGhpcy0+c2V0dGluZ3MpOwo=</text>
+        <text encoding="base64">ICAgLy8gdW5jb21tZW50IGZvciB0ZXN0aW5nIEJvZmEgdXNpbmcgdGhlIHJpb2xvY2FsIGxpa2UgQm9mQSBTU08gIFFBIGxvZ2luIGZyb20gc3NvcWEucmlvc2VvLmNvbQo=</text>
       </register>
       <register name="-" type="4">
         <text>OneLogin_Saml2_LogoutRequest</text>
@@ -809,31 +814,31 @@
         <text encoding="base64">ICAkdGhpcy0+bG9nZ2VyKCdTQU1MIGNvdWxkIG5vdCBmaW5kIFNBTUwgU0VUVElOR1MnKTsKICAgICAgICAgICAgdGhyb3cgbmV3IFNBTUxDb25maWd1cmF0aW9uRXhjZXB0aW9uKCJTQU1MIGNvdWxkIG5vdCBmaW5kIHNhbWwgU0VUVElORyAiKTs=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkbG9nb3V0UmVxdWVzdCA9IG5ldyBcT25lTG9naW5fU2FtbDJfTG9nb3V0UmVxdWVzdCgkdGhpcy0+c2V0dGluZ3MpOwo=</text>
+        <text encoding="base64">ICAgLy8gdW5jb21tZW50IGZvciB0ZXN0aW5nIEJvZmEgdXNpbmcgdGhlIHJpb2xvY2FsIGxpa2UgQm9mQSBTU08gIFFBIGxvZ2luIGZyb20gc3NvcWEucmlvc2VvLmNvbQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkc2FtbFJlcXVlc3QgICA9ICRsb2dvdXRSZXF1ZXN0LT5nZXRSZXF1ZXN0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkbG9nb3V0UmVxdWVzdCA9IG5ldyBcT25lTG9naW5fU2FtbDJfTG9nb3V0UmVxdWVzdCgkdGhpcy0+c2V0dGluZ3MpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkbG9nb3V0UmVxdWVzdCA9IG5ldyBcT25lTG9naW5fU2FtbDJfTG9nb3V0UmVxdWVzdCgkdGhpcy0+c2V0dGluZ3MpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkc2FtbFJlcXVlc3QgICA9ICRsb2dvdXRSZXF1ZXN0LT5nZXRSZXF1ZXN0KCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkc2FtbFJlcXVlc3QgICA9ICRsb2dvdXRSZXF1ZXN0LT5nZXRSZXF1ZXN0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkbG9nb3V0UmVxdWVzdCA9IG5ldyBcT25lTG9naW5fU2FtbDJfTG9nb3V0UmVxdWVzdCgkdGhpcy0+c2V0dGluZ3MpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkbG9nb3V0UmVxdWVzdCA9IG5ldyBcT25lTG9naW5fU2FtbDJfTG9nb3V0UmVxdWVzdCgkdGhpcy0+c2V0dGluZ3MpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkc2FtbFJlcXVlc3QgICA9ICRsb2dvdXRSZXF1ZXN0LT5nZXRSZXF1ZXN0KCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkc2FtbFJlcXVlc3QgICA9ICRsb2dvdXRSZXF1ZXN0LT5nZXRSZXF1ZXN0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkbG9nb3V0UmVxdWVzdCA9IG5ldyBcT25lTG9naW5fU2FtbDJfTG9nb3V0UmVxdWVzdCgkdGhpcy0+c2V0dGluZ3MpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkbG9nb3V0UmVxdWVzdCA9IG5ldyBcT25lTG9naW5fU2FtbDJfTG9nb3V0UmVxdWVzdCgkdGhpcy0+c2V0dGluZ3MpOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAkc2FtbFJlcXVlc3QgICA9ICRsb2dvdXRSZXF1ZXN0LT5nZXRSZXF1ZXN0KCk7Cg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAkbG9nb3V0UmVxdWVzdCA9IG5ldyBcT25lTG9naW5fU2FtbDJfTG9nb3V0UmVxdWVzdCgkdGhpcy0+c2V0dGluZ3MpOwo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAkc2FtbFJlcXVlc3QgICA9ICRsb2dvdXRSZXF1ZXN0LT5nZXRSZXF1ZXN0KCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
