@@ -140,11 +140,11 @@
       <file name="/a.sql" timestamp="1498844276486">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/module/Application/Module.php" timestamp="1500566706620">
-        <mark key="[" line="136" column="41" />
-        <mark key="]" line="136" column="11" />
-        <mark key="." line="136" column="11" />
-        <mark key="^" line="136" column="11" />
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/module/Application/Module.php" timestamp="1500568725443">
+        <mark key="[" line="72" column="57" />
+        <mark key="]" line="72" column="56" />
+        <mark key="." line="72" column="56" />
+        <mark key="^" line="72" column="56" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/public/js/rls/rls_profilefields.js" timestamp="1499980814216">
         <mark key="[" line="32" column="38" />
@@ -208,7 +208,7 @@
         <mark key="^" line="47" column="30" />
         <mark key="." line="47" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/module/Services/src/Services/Controller/ADFSController.php" timestamp="1500566789308">
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/module/Services/src/Services/Controller/ADFSController.php" timestamp="1500568758648">
         <mark key="[" line="77" column="45" />
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
@@ -262,11 +262,11 @@
       <file name="$USER_HOME$/Documents/Rio/rls-rsm-ui/app/core/header.html" timestamp="1494632688213">
         <mark key="[" line="39" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/module/Services/config/module.config.php" timestamp="1500565130889">
-        <mark key="[" line="69" column="13" />
-        <mark key="]" line="60" column="40" />
-        <mark key="." line="60" column="40" />
-        <mark key="^" line="60" column="40" />
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/module/Services/config/module.config.php" timestamp="1500568607437">
+        <mark key="[" line="60" column="41" />
+        <mark key="]" line="60" column="41" />
+        <mark key="." line="60" column="41" />
+        <mark key="^" line="60" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/vendor/rioseo/rls-lib-hours/tests/HoursManagerTest.php" timestamp="1486842714786">
         <mark key="[" line="18" column="37" />
