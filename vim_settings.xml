@@ -809,7 +809,7 @@
         <text encoding="base64">ICAgICAgICAkcmVxdWVzdC0+Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>43</text>
       </register>
     </registers>
     <search>
@@ -852,7 +852,6 @@
         <entry>93</entry>
         <entry>w2</entry>
         <entry>122</entry>
-        <entry>43</entry>
         <entry>118</entry>
         <entry>106</entry>
         <entry>109</entry>
@@ -865,6 +864,7 @@
         <entry>349</entry>
         <entry>218</entry>
         <entry>w</entry>
+        <entry>43</entry>
       </history-cmd>
       <history-expr />
       <history-input />
