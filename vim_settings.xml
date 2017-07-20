@@ -140,11 +140,11 @@
       <file name="/a.sql" timestamp="1498844276486">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/module/Application/Module.php" timestamp="1500568725443">
-        <mark key="[" line="72" column="57" />
-        <mark key="]" line="72" column="56" />
-        <mark key="." line="72" column="56" />
-        <mark key="^" line="72" column="56" />
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/module/Application/Module.php" timestamp="1500569992303">
+        <mark key="[" line="79" column="75" />
+        <mark key="]" line="79" column="89" />
+        <mark key="." line="79" column="89" />
+        <mark key="^" line="79" column="89" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/public/js/rls/rls_profilefields.js" timestamp="1499980814216">
         <mark key="[" line="32" column="38" />
@@ -208,11 +208,11 @@
         <mark key="^" line="47" column="30" />
         <mark key="." line="47" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/module/Services/src/Services/Controller/ADFSController.php" timestamp="1500568758648">
-        <mark key="[" line="77" column="45" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
-        <mark key="^" line="51" column="94" />
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/module/Services/src/Services/Controller/ADFSController.php" timestamp="1500569791144">
+        <mark key="[" line="78" column="7" />
+        <mark key="]" line="79" column="0" />
+        <mark key="." line="79" column="0" />
+        <mark key="^" line="80" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/vendor/rioseo/rls-lib-rbac/src/Overseer.php" timestamp="1498838246477">
         <mark key="[" line="164" column="79" />
@@ -262,8 +262,8 @@
       <file name="$USER_HOME$/Documents/Rio/rls-rsm-ui/app/core/header.html" timestamp="1494632688213">
         <mark key="[" line="39" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/module/Services/config/module.config.php" timestamp="1500568607437">
-        <mark key="[" line="60" column="41" />
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/module/Services/config/module.config.php" timestamp="1500569532756">
+        <mark key="[" line="73" column="73" />
         <mark key="]" line="60" column="41" />
         <mark key="." line="60" column="41" />
         <mark key="^" line="60" column="41" />
@@ -790,7 +790,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAkdGhpcy0+c2VuZE91dHB1dCgnTm8gU0FNTCByZXNwb25zZS4gUGxlYXNlIGxvZ2luIGFnYWluLicsICd0ZXh0L2h0bWwnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICgkY29udHJvbGxlck5hbWUgIT0gJ2FkZnMnIHx8ICFpbl9hcnJheSgkYWN0aW9uTmFtZSwgJGFsbG93ZWRTQU1MQWN0aW9ucykpCg==</text>
       </register>
       <register name="-" type="4">
         <text>Move test data to fixture file.</text>
@@ -798,26 +798,26 @@
       <register name="/" type="4">
         <text>saml</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAkdGhpcy0+bG9nZ2VyKCdTQU1MIGNvdWxkIG5vdCBmaW5kIFNBTUwgU0VUVElOR1MnKTsKICAgICAgICAgICAgdGhyb3cgbmV3IFNBTUxDb25maWd1cmF0aW9uRXhjZXB0aW9uKCJTQU1MIGNvdWxkIG5vdCBmaW5kIHNhbWwgU0VUVElORyAiKTs=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICgkY29udHJvbGxlck5hbWUgIT0gJ2FkZnMnIHx8ICFpbl9hcnJheSgkYWN0aW9uTmFtZSwgJGFsbG93ZWRTQU1MQWN0aW9ucykpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAkdGhpcy0+c2VuZE91dHB1dCgnTm8gU0FNTCByZXNwb25zZS4gUGxlYXNlIGxvZ2luIGFnYWluLicsICd0ZXh0L2h0bWwnKTsK</text>
+        <text encoding="base64">ICAgICAgICAkcmVxdWVzdC0+Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgJ2F1dGgnID0+IGFycmF5KAogICAgICAgICAgICAgICAgJ3R5cGUnID0+ICdzZWdtZW50JywKICAgICAgICAgICAgICAgICdvcHRpb25zJyA9PiBhcnJheSgKICAgICAgICAgICAgICAgICAgICAncm91dGUnID0+ICcvYXV0aC9zc28vOmNvbnRyb2xsZXIvOmFjdGlvblsuanNvbl1bLnhtbF0nLAogICAgICAgICAgICAgICAgICAgICdjb25zdHJhaW50cycgPT4gYXJyYXkoCiAgICAgICAgICAgICAgICAgICAgICAgICdjb250cm9sbGVyJyA9PiAnW2EtekEtWl0rJywKICAgICAgICAgICAgICAgICAgICAgICAgJ2FjdGlvbicgPT4gJ1thLXpBLVpdW2EtekEtWjAtOV8tXSonCiAgICAgICAgICAgICAgICAgICAgKSwKICAgICAgICAgICAgICAgICAgICAnZGVmYXVsdHMnID0+IGFycmF5KAogICAgICAgICAgICAgICAgICAgICAgICAnX19OQU1FU1BBQ0VfXycgPT4gJ1NlcnZpY2VzXENvbnRyb2xsZXInLAogICAgICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgKSw=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAkcmVxdWVzdCA9ICR0aGlzLT5nZXRSZXF1ZXN0KCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICgkY29udHJvbGxlck5hbWUgIT0gJ3NhbWwnIHx8ICFpbl9hcnJheSgkYWN0aW9uTmFtZSwgJGFsbG93ZWRTQU1MQWN0aW9ucykpICYmCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAkdGhpcy0+c2VuZE91dHB1dCgnTm8gU0FNTCByZXNwb25zZS4gUGxlYXNlIGxvZ2luIGFnYWluLicsICd0ZXh0L2h0bWwnKTsK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgLy8gdW5jb21tZW50IGZvciB0ZXN0aW5nIEJvZmEgdXNpbmcgdGhlIHJpb2xvY2FsIGxpa2UgQm9mQSBTU08gIFFBIGxvZ2luIGZyb20gc3NvcWEucmlvc2VvLmNvbQo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgJ2F1dGgnID0+IGFycmF5KAogICAgICAgICAgICAgICAgJ3R5cGUnID0+ICdzZWdtZW50JywKICAgICAgICAgICAgICAgICdvcHRpb25zJyA9PiBhcnJheSgKICAgICAgICAgICAgICAgICAgICAncm91dGUnID0+ICcvYXV0aC9zc28vOmNvbnRyb2xsZXIvOmFjdGlvblsuanNvbl1bLnhtbF0nLAogICAgICAgICAgICAgICAgICAgICdjb25zdHJhaW50cycgPT4gYXJyYXkoCiAgICAgICAgICAgICAgICAgICAgICAgICdjb250cm9sbGVyJyA9PiAnW2EtekEtWl0rJywKICAgICAgICAgICAgICAgICAgICAgICAgJ2FjdGlvbicgPT4gJ1thLXpBLVpdW2EtekEtWjAtOV8tXSonCiAgICAgICAgICAgICAgICAgICAgKSwKICAgICAgICAgICAgICAgICAgICAnZGVmYXVsdHMnID0+IGFycmF5KAogICAgICAgICAgICAgICAgICAgICAgICAnX19OQU1FU1BBQ0VfXycgPT4gJ1NlcnZpY2VzXENvbnRyb2xsZXInLAogICAgICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgKSw=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkbG9nb3V0UmVxdWVzdCA9IG5ldyBcT25lTG9naW5fU2FtbDJfTG9nb3V0UmVxdWVzdCgkdGhpcy0+c2V0dGluZ3MpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICgkY29udHJvbGxlck5hbWUgIT0gJ3NhbWwnIHx8ICFpbl9hcnJheSgkYWN0aW9uTmFtZSwgJGFsbG93ZWRTQU1MQWN0aW9ucykpICYmCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkc2FtbFJlcXVlc3QgICA9ICRsb2dvdXRSZXF1ZXN0LT5nZXRSZXF1ZXN0KCk7Cg==</text>
+        <text encoding="base64">ICAgLy8gdW5jb21tZW50IGZvciB0ZXN0aW5nIEJvZmEgdXNpbmcgdGhlIHJpb2xvY2FsIGxpa2UgQm9mQSBTU08gIFFBIGxvZ2luIGZyb20gc3NvcWEucmlvc2VvLmNvbQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAkbG9nb3V0UmVxdWVzdCA9IG5ldyBcT25lTG9naW5fU2FtbDJfTG9nb3V0UmVxdWVzdCgkdGhpcy0+c2V0dGluZ3MpOwo=</text>
