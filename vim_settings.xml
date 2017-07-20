@@ -365,11 +365,11 @@
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/scripts/gbcrm.php" timestamp="1494104295718">
         <mark key="[" line="22" column="51" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/module/Services/src/Services/Controller/ADFSController.php" timestamp="1500577173712">
-        <mark key="[" line="78" column="49" />
-        <mark key="]" line="78" column="50" />
-        <mark key="." line="78" column="50" />
-        <mark key="^" line="78" column="50" />
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/module/Services/src/Services/Controller/ADFSController.php" timestamp="1500578873245">
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
+        <mark key="^" line="81" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/vendor/rioseo/rls-lib-rbac/src/Overseer.php" timestamp="1498838246477">
         <mark key="[" line="164" column="79" />
@@ -642,11 +642,11 @@
       <file name="$USER_HOME$/Documents/Rio/docker-rls/apache/proc/settings.php" timestamp="1494367704348">
         <mark key="[" line="52" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lib-user/src/SAML/SAMLManager.php" timestamp="1500577592672">
-        <mark key="[" line="115" column="64" />
-        <mark key="]" line="115" column="64" />
-        <mark key="." line="115" column="64" />
-        <mark key="^" line="115" column="64" />
+      <file name="$USER_HOME$/Documents/Rio/rls-lib-user/src/SAML/SAMLManager.php" timestamp="1500578611057">
+        <mark key="[" line="151" column="25" />
+        <mark key="]" line="151" column="25" />
+        <mark key="." line="151" column="25" />
+        <mark key="^" line="151" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/ExportManager.php" timestamp="1497914052087">
         <mark key="[" line="1032" column="0" />
@@ -770,7 +770,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmxvZ2dlci0+ZGVidWcoIlNBTUw6IHNhbWwgUmVzcG9uc2U6ICIgLiBwcmludF9yKCRzYW1sUmVzcG9uc2UsIHRydWUpKTsK</text>
+        <text encoding="base64">ICAgICAgICAvL3JldHVybiAkdGhpcy0+c2VuZE91dHB1dCgnVGhlcmUgd2FzIGFuIGVycm9yIGxvZ2dpbmcgaW4gJyAuICRyZXF1ZXN0LCAndGV4dC9odG1sJyk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IC4gKTs=</text>
@@ -782,31 +782,31 @@
         <text>. print_r($samlResponse, true));</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmxvZ2dlci0+ZGVidWcoIlNBTUw6IHNhbWwgUmVzcG9uc2U6ICIgLiBwcmludF9yKCRzYW1sUmVzcG9uc2UsIHRydWUpKTsK</text>
+        <text encoding="base64">ICAgICAgICAvL3JldHVybiAkdGhpcy0+c2VuZE91dHB1dCgnVGhlcmUgd2FzIGFuIGVycm9yIGxvZ2dpbmcgaW4gJyAuICRyZXF1ZXN0LCAndGV4dC9odG1sJyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRzY3JpcHQgPScnOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmxvZ2dlci0+ZGVidWcoIlNBTUw6IHNhbWwgUmVzcG9uc2U6ICIgLiBwcmludF9yKCRzYW1sUmVzcG9uc2UsIHRydWUpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRzY3JpcHQgPScnOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzd2l0Y2goJCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBzd2l0Y2goJCkK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">IAo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICAgICAgICAgICAnZXJyb3InID0+IGFycmF5KAogICAgICAgICAgICAgICAgJ3R5cGUnID0+ICdzZWdtZW50JywKICAgICAgICAgICAgICAgICdvcHRpb25zJyA9PiBhcnJheSgKICAgICAgICAgICAgICAgICAgICAncm91dGUnID0+ICcvaW5kZXhlcnJvcicsCiAgICAgICAgICAgICAgICAgICAgJ2NvbnN0cmFpbnRzJyA9PiBhcnJheSgKICAgICAgICAgICAgICAgICAgICAgICAgJ2NvbnRyb2xsZXInID0+ICdbYS16QS1aXSsnLAogICAgICAgICAgICAgICAgICAgICAgICAnYWN0aW9uJyA9PiAnW2EtekEtWl1bYS16QS1aMC05Xy1dKicKICAgICAgICAgICAgICAgICAgICApLAogICAgICAgICAgICAgICAgICAgICdkZWZhdWx0cycgPT4gYXJyYXkoCiAgICAgICAgICAgICAgICAgICAgICAgICdfX05BTUVTUEFDRV9fJyA9PiAnQXBwbGljYXRpb25cQ29udHJvbGxlcicsCiAgICAgICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgKQogICAgICAgICAgICApLA==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVxdWVzdC0+Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVxdWVzdCA9ICR0aGlzLT5nZXRSZXF1ZXN0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkcmVxdWVzdC0+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -845,7 +845,6 @@
         <entry>saml</entry>
       </history-search>
       <history-cmd>
-        <entry>362</entry>
         <entry>271</entry>
         <entry>489</entry>
         <entry>342</entry>
@@ -864,6 +863,7 @@
         <entry>wq!</entry>
         <entry>100</entry>
         <entry>349</entry>
+        <entry>218</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
