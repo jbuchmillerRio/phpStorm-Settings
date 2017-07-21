@@ -184,6 +184,12 @@
       <file name="$USER_HOME$/Documents/rls-lbe/module/Services/src/Services/Controller/HoursController.php" timestamp="1496165313710">
         <mark key="[" line="394" column="46" />
       </file>
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/DomainManager.php" timestamp="1500652067138">
+        <mark key="[" line="77" column="65" />
+        <mark key="]" line="77" column="80" />
+        <mark key="^" line="77" column="80" />
+        <mark key="." line="77" column="80" />
+      </file>
       <file name="$USER_HOME$/Documents/Rio/rls-cms/vendor/rioseo/rls-lib-user/src/SAML/SAMLManager.php" timestamp="1500066984706">
         <mark key="[" line="197" column="0" />
         <mark key="]" line="197" column="0" />
@@ -348,11 +354,11 @@
       <file name="$USER_HOME$/Documents/Rio/tools/rls/elk/elastic/templates/changelog.json" timestamp="1490022979355">
         <mark key="[" line="491" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/MessageManager.php" timestamp="1497651734339">
-        <mark key="[" line="121" column="0" />
-        <mark key="]" line="127" column="25" />
-        <mark key="^" line="127" column="25" />
-        <mark key="." line="127" column="25" />
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/MessageManager.php" timestamp="1500652298898">
+        <mark key="[" line="469" column="37" />
+        <mark key="]" line="472" column="59" />
+        <mark key="^" line="472" column="59" />
+        <mark key="." line="472" column="59" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/Rbac/AssignmentManager.php" timestamp="1498840466697">
         <mark key="[" line="47" column="59" />
@@ -404,11 +410,11 @@
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/DataTransfer/Processor/BofAAtm.php" timestamp="1486832011854">
         <mark key="[" line="435" column="96" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/LocationManager.php" timestamp="1498853167059">
-        <mark key="[" line="82" column="9" />
-        <mark key="]" line="83" column="6" />
-        <mark key="." line="83" column="6" />
-        <mark key="^" line="83" column="6" />
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/LocationManager.php" timestamp="1500652208475">
+        <mark key="[" line="78" column="21" />
+        <mark key="]" line="78" column="17" />
+        <mark key="." line="78" column="17" />
+        <mark key="^" line="78" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/scripts/gmb_attributes_updater.php" timestamp="1494104306742">
         <mark key="[" line="70" column="55" />
@@ -532,6 +538,12 @@
       <file name="$USER_HOME$/Documents/Rio/rls-rsm-ui/app/core/header.html" timestamp="1494632688213">
         <mark key="[" line="39" column="27" />
       </file>
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/tests/lbe/lib/TLS/Manager/DataTransfer/Processor/BofABulkNotificationTest.php" timestamp="1500652792902">
+        <mark key="[" line="144" column="0" />
+        <mark key="]" line="114" column="26" />
+        <mark key="^" line="114" column="26" />
+        <mark key="." line="114" column="26" />
+      </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/ActiveDirectory/HallmarkClaimManager.php" timestamp="1488576219617">
         <mark key="[" line="2" column="13" />
       </file>
@@ -594,7 +606,7 @@
       <file name="$USER_HOME$/Documents/Rio/rls-lib-datastore/Gruntfile.js" timestamp="1483922260074">
         <mark key="[" line="5" column="52" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500651825258">
+      <file name="/Dummy.txt" timestamp="1500652871464">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
@@ -650,10 +662,11 @@
         <mark key="." line="151" column="25" />
         <mark key="^" line="151" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/ExportManager.php" timestamp="1497914052087">
-        <mark key="[" line="1032" column="0" />
-        <mark key="]" line="1032" column="0" />
-        <mark key="." line="1032" column="0" />
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/ExportManager.php" timestamp="1500652220765">
+        <mark key="[" line="1042" column="57" />
+        <mark key="]" line="1042" column="65" />
+        <mark key="." line="1042" column="65" />
+        <mark key="^" line="1042" column="65" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/vendor/rioseo/rls-lib-hours/src/HoursSetManager.php" timestamp="1487788942910">
         <mark key="[" line="68" column="45" />
@@ -772,52 +785,52 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvL3JldHVybiAkdGhpcy0+c2VuZE91dHB1dCgnVGhlcmUgd2FzIGFuIGVycm9yIGxvZ2dpbmcgaW4gJyAuICRyZXF1ZXN0LCAndGV4dC9odG1sJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkXENvbnRhaW5lcjo6Z2V0SW5zdGFuY2UoKTsK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IC4gKTs=</text>
       </register>
       <register name="/" type="4">
-        <text>saml</text>
+        <text>container</text>
       </register>
       <register name="0" type="4">
         <text>. print_r($samlResponse, true));</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvL3JldHVybiAkdGhpcy0+c2VuZE91dHB1dCgnVGhlcmUgd2FzIGFuIGVycm9yIGxvZ2dpbmcgaW4gJyAuICRyZXF1ZXN0LCAndGV4dC9odG1sJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkXENvbnRhaW5lcjo6Z2V0SW5zdGFuY2UoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmxvZ2dlci0+ZGVidWcoIlNBTUw6IHNhbWwgUmVzcG9uc2U6ICIgLiBwcmludF9yKCRzYW1sUmVzcG9uc2UsIHRydWUpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRzY3JpcHQgPScnOwo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmRiICA9ICRjb250YWluZXItPmdldCgncGRvJyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzd2l0Y2goJCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGNvbnRhaW5lciA9IFxDb250YWluZXI6OmdldEluc3RhbmNlKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZW1wdHkoJGRiKSkgewo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICAgICAnZXJyb3InID0+IGFycmF5KAogICAgICAgICAgICAgICAgJ3R5cGUnID0+ICdzZWdtZW50JywKICAgICAgICAgICAgICAgICdvcHRpb25zJyA9PiBhcnJheSgKICAgICAgICAgICAgICAgICAgICAncm91dGUnID0+ICcvaW5kZXhlcnJvcicsCiAgICAgICAgICAgICAgICAgICAgJ2NvbnN0cmFpbnRzJyA9PiBhcnJheSgKICAgICAgICAgICAgICAgICAgICAgICAgJ2NvbnRyb2xsZXInID0+ICdbYS16QS1aXSsnLAogICAgICAgICAgICAgICAgICAgICAgICAnYWN0aW9uJyA9PiAnW2EtekEtWl1bYS16QS1aMC05Xy1dKicKICAgICAgICAgICAgICAgICAgICApLAogICAgICAgICAgICAgICAgICAgICdkZWZhdWx0cycgPT4gYXJyYXkoCiAgICAgICAgICAgICAgICAgICAgICAgICdfX05BTUVTUEFDRV9fJyA9PiAnQXBwbGljYXRpb25cQ29udHJvbGxlcicsCiAgICAgICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgKQogICAgICAgICAgICApLA==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAvL3JldHVybiAkdGhpcy0+c2VuZE91dHB1dCgnVGhlcmUgd2FzIGFuIGVycm9yIGxvZ2dpbmcgaW4gJyAuICRyZXF1ZXN0LCAndGV4dC9odG1sJyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVxdWVzdC0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmxvZ2dlci0+ZGVidWcoIlNBTUw6IHNhbWwgUmVzcG9uc2U6ICIgLiBwcmludF9yKCRzYW1sUmVzcG9uc2UsIHRydWUpKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>43</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>saml</last-search>
+      <last-search>container</last-search>
       <last-offset />
-      <last-pattern>saml</last-pattern>
+      <last-pattern>container</last-pattern>
       <last-replace>other_one\.</last-replace>
       <last-substitute>otherone\.</last-substitute>
       <last-dir>1</last-dir>
@@ -825,7 +838,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Session</entry>
         <entry>rls-lib-user</entry>
         <entry>user</entry>
         <entry>clity</entry>
@@ -845,9 +857,9 @@
         <entry>logout</entry>
         <entry>samlManager</entry>
         <entry>saml</entry>
+        <entry>container</entry>
       </history-search>
       <history-cmd>
-        <entry>271</entry>
         <entry>489</entry>
         <entry>342</entry>
         <entry>114</entry>
@@ -865,8 +877,9 @@
         <entry>100</entry>
         <entry>349</entry>
         <entry>218</entry>
-        <entry>w</entry>
         <entry>43</entry>
+        <entry>77</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
