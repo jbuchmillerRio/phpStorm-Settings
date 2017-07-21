@@ -91,7 +91,7 @@
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/module/Services/src/Services/Controller/LiveDataDefinitionController.php" timestamp="1493766084451">
         <mark key="[" line="87" column="79" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/config/application.config.php" timestamp="1500421342726">
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/config/application.config.php" timestamp="1500657640473">
         <mark key="[" line="6" column="27" />
         <mark key="]" line="6" column="26" />
         <mark key="^" line="6" column="26" />
@@ -164,6 +164,11 @@
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-cms/src/RLS/Exception/NotDeletedException.php" timestamp="1495654313764">
         <mark key="[" line="4" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/settings/riolocalbofa.adfs.settings.php" timestamp="1500657961233">
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/public/js/rls/rls_domain.js" timestamp="1496505464312">
         <mark key="[" line="20" column="55" />
@@ -433,10 +438,11 @@
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/scripts/gmb_attributes_updater.php" timestamp="1494104306742">
         <mark key="[" line="70" column="55" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/settings/riolocal.adfs.settings.php" timestamp="1500316614549">
-        <mark key="[" line="7" column="69" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/settings/riolocal.adfs.settings.php" timestamp="1500658467344">
+        <mark key="[" line="33" column="52" />
+        <mark key="]" line="33" column="65" />
+        <mark key="." line="33" column="65" />
+        <mark key="^" line="33" column="65" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/module/Application/src/Application/Controller/IndexController.php" timestamp="1500577252262">
         <mark key="[" line="70" column="58" />
@@ -583,7 +589,7 @@
       <file name="/JavaScript Console" timestamp="1500401040355">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/settings/bofa.adfs.settings.php" timestamp="1500305700341">
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/settings/bofa.adfs.settings.php" timestamp="1500657582195">
         <mark key="[" line="4" column="62" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
@@ -799,11 +805,11 @@
       <jump line="183" column="10" filename="$USER_HOME$/Documents/Rio/rls-lib-user/src/SAML/AbstractClaimManager.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBpZiB0aGUgdXNlciB3YW50cyB0byBieXBhc3Mgc2FtbCB0aGV5IHVzZSB0aGlzIHNpbXBsZSBjb29raWUK</text>
+      <register name="&quot;" type="4">
+        <text>.txt</text>
       </register>
       <register name="-" type="4">
-        <text>RioClaimManager</text>
+        <text>.txt</text>
       </register>
       <register name="/" type="4">
         <text>container</text>
@@ -812,42 +818,31 @@
         <text>. print_r($samlResponse, true));</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBpZiB0aGUgdXNlciB3YW50cyB0byBieXBhc3Mgc2FtbCB0aGV5IHVzZSB0aGlzIHNpbXBsZSBjb29raWUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqCg==</text>
+        <text encoding="base64">PD9waHAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4gbnVsbHxzdHJpbmcK</text>
+        <text encoding="base64">ICAgICAgICAvLyBpZiB0aGUgdXNlciB3YW50cyB0byBieXBhc3Mgc2FtbCB0aGV5IHVzZSB0aGlzIHNpbXBsZSBjb29raWUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8qKgo=</text>
+        <text encoding="base64">ICAgICAqCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkZGlkICAgPSBnZXRTZXNzaW9uKCdkaWQnKTsK</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4gbnVsbHxzdHJpbmcK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qKgo=</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAkZGlkICAgPSBnZXRTZXNzaW9uKCdkaWQnKTsK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>use Aura\Sql\ExtendedPdo;
-use Interop\Container\ContainerInterface;
-use Monolog\Logger;
-use RKA\ZsmSlimContainer\Container;
-use RLS\Lib\User\SAML\AbstractClaimManager;
-use RLS\Lib\User\SAML\SAMLManager;
-use RLS\Manager\ManagerInterface;
-use RLS\Lib\User\Model\UserRole;
-use RLS\Manager\PlacesManager;
-use RLS\Manager\UserManager;
-use RLS\Session;
-use TLS\Model\User;</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICAvLyB0aGUgbmFtZSBvZiB0aGUgZ3JvdXBzIHZhcmlhYmxlIGJlaW5nIHNlbnQgYmVjYXVzZSBpdCdzIGFuIGFycmF5LgogICAgY29uc3QgUk9MRV9JRCA9ICdSb2xlIE5hbWUnOwoKICAgIC8qKgogICAgICogQHZhciBhcnJheQogICAgICovCiAgICBwcm90ZWN0ZWQgJG1hcHBpbmcgPSBbJ05hbWUgSUQnID0+IDEsICdFbWFpbCcgPT4gMSwgc2VsZjo6Uk9MRV9JRCA9PiAxXTsKCiAgICAvKioKICAgICAqIEB2YXIgQ29udGFpbmVyCiAgICAgKi8KICAgIHByb3RlY3RlZCAkY29udGFpbmVyOwoKICAgIC8qKgogICAgICogQHZhciBMb2dnZXIKICAgICAqLwogICAgcHJvdGVjdGVkICRsb2dnZXI7CgogICAgLyoqCiAgICAgKiBAdmFyIFxPbmVMb2dpbl9TYW1sMl9TZXR0aW5ncwogICAgICovCiAgICBwcm90ZWN0ZWQgJHNldHRpbmdzOwoKICAgIC8qKgogICAgICogUmlvUm9sZU1hcHBlciBjb25zdHJ1Y3Rvci4KICAgICAqCiAgICAgKiBAcGFyYW0gQ29udGFpbmVySW50ZXJmYWNlICRjb250YWluZXIKICAgICAqIEBwYXJhbSBhcnJheSAkb3B0aW9ucwogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gX19jb25zdHJ1Y3QoQ29udGFpbmVySW50ZXJmYWNlICRjb250YWluZXIsIGFycmF5ICRvcHRpb25zID0gbnVsbCkKICAgIHsKICAgICAgICAkdGhpcy0+Y29udGFpbmVyID0gJGNvbnRhaW5lcjsKICAgICAgICAkdGhpcy0+bG9nZ2VyICAgID0gJGNvbnRhaW5lci0+Z2V0KCdsb2dnZXInKTsKICAgIH0KCiAgICAvKioKICAgICAqIEBwYXJhbSBhcnJheSAkYXR0cmlidXRlcwogICAgICogQHJldHVybiBhcnJheQogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gbm9ybWFsaXplQXR0cmlidXRlcyhhcnJheSAkYXR0cmlidXRlcykKICAgIHsKICAgICAgICAkbm9ybWFsaXplZCA9IFtdOwoKICAgICAgICBmb3JlYWNoICgkYXR0cmlidXRlcyBhcyAka2V5ID0+ICR2YWx1ZSkgewogICAgICAgICAgICBpZiAoIWlzc2V0KCR0aGlzLT5tYXBwaW5nWyRrZXldKSkgewogICAgICAgICAgICAgICAgY29udGludWU7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgaWYgKCRrZXkgPT09IHNlbGY6OlJPTEVfSUQpIHsKICAgICAgICAgICAgICAgICRub3JtYWxpemVkWyRrZXldID0gYXJyYXlfdmFsdWVzKCR2YWx1ZSk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAkbm9ybWFsaXplZFska2V5XSA9ICR2YWx1ZVswXTsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICByZXR1cm4gJG5vcm1hbGl6ZWQ7CiAgICB9CgogICAgLyoqCiAgICAgKiBAcGFyYW0gYXJyYXkgJHJhd0F0dHJpYnV0ZXMKICAgICAqIEBwYXJhbSBpbnRlZ2VyICRkb21haW5JZAogICAgICogQHJldHVybiBVc2VyUm9sZQogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gbWFwKGFycmF5ICRyYXdBdHRyaWJ1dGVzLCAkZG9tYWluSWQgPSBudWxsKQogICAgewogICAgICAgICR0aGlzLT5sb2dnZXItPmRlYnVnKCJTQU1MIHJhdyBhdHRyaWJ1dGVzIiwgJHJhd0F0dHJpYnV0ZXMpOwogICAgICAgICRhdHRyaWJ1dGVzID0gJHRoaXMtPm5vcm1hbGl6ZUF0dHJpYnV0ZXMoJHJhd0F0dHJpYnV0ZXMpOwogICAgICAgICR0aGlzLT5sb2dnZXItPmRlYnVnKCJTQU1MIG5vcm1hbGl6ZWQgYXR0cmlidXRlcyIsICRhdHRyaWJ1dGVzKTsKICAgICAgICBpZiAoZW1wdHkoJGF0dHJpYnV0ZXNbJ1JvbGUgTmFtZSddKSkgewogICAgICAgICAgICAkdGhpcy0+bG9nZ2VyLT53YXJuaW5nKCJDb3VsZCBub3QgZ2V0IGluZm8gZm9yIHVzZXIgIiwgJHJhd0F0dHJpYnV0ZXMpOwogICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgfQogICAgICAgICR0YWJsZSAgICAgPSBTQU1MTWFuYWdlcjo6VEFCTEVfTkFNRTsKICAgICAgICAkdXNlclJvbGVzID0gbnVsbDsKICAgICAgICAkcm9sZXMgICAgID0gJGF0dHJpYnV0ZXNbc2VsZjo6Uk9MRV9JRF07CiAgICAgICAgJHF1ZXJ5ICAgICA9ICJTRUxFQ1QgdXIuKiBGUk9NIHskdGFibGV9IGFybQogICAgICAgICAgSk9JTiB1c2VyX3JvbGVzIHVyIE9OIGFybS51cmlkID0gdXIudXJpZAogICAgICAgICAgV0hFUkUgdXIuYWlkID0gOmFwcGxpY2F0aW9uIEFORCBleHRlcm5hbF9yb2xlIElOICg6cm9sZXMpIE9SREVSIEJZIGFybS5wcmlvcml0eSI7CgogICAgICAgIHRyeSB7CiAgICAgICAgICAgIC8qKiBAdmFyIEV4dGVuZGVkUGRvICRkYiAqLwoKICAgICAgICAgICAgJGRiICAgICA9ICR0aGlzLT5jb250YWluZXItPmdldCgncGRvJyk7CiAgICAgICAgICAgICRyZXN1bHQgPSAkZGItPnBlcmZvcm0oJHF1ZXJ5LCBbCiAgICAgICAgICAgICAgICAnYXBwbGljYXRpb24nID0+ICR0aGlzLT5nZXRBcHBsaWNhdGlvbklkKCksCiAgICAgICAgICAgICAgICAncm9sZXMnID0+ICRyb2xlcwogICAgICAgICAgICBdKTsKICAgICAgICAgICAgJGRhdGEgICA9ICRyZXN1bHQtPmZldGNoQWxsKCk7CiAgICAgICAgfSBjYXRjaCAoXFBET0V4Y2VwdGlvbiAkZSkgewogICAgICAgICAgICAkdGhpcy0+bG9nZ2VyLT53YXJuaW5nKCdDb3VsZCBub3QgZXhlY3V0ZSBxdWVyeScgLiAkZS0+Z2V0TWVzc2FnZSgpKTsKICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgIH0KICAgICAgICAkaW50ZXJuYWxSb2xlcyA9IFtdOwogICAgICAgICR0aGlzLT5sb2dnZXItPmRlYnVnKCJRdWVyeWluZyBmb3IgYXBwbGljYXRpb24gIiAuICR0aGlzLT5nZXRBcHBsaWNhdGlvbklkKCkgLiAiIGFuZCByb2xlcyAiIC4gaW1wbG9kZSgnLCcsCiAgICAgICAgICAgICAgICAkcm9sZXMpKTsKICAgICAgICAkdGhpcy0+bG9nZ2VyLT5kZWJ1ZygnRGF0YSByZXR1cm5lZCAnLCAkZGF0YSk7CiAgICAgICAgaWYgKGVtcHR5KCRkYXRhKSkgewogICAgICAgICAgICAkdGhpcy0+bG9nZ2VyLT53YXJuaW5nKCJTQU1MIGNvdWxkIG5vdCBmaW5kIGdyb3VwIG1hcHBpbmcgZm9yICIsICRhdHRyaWJ1dGVzKTsKICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgIH0KCiAgICAgICAgLy9UaGUgY3VzdG9tZXIgbWlnaHQgaGF2ZSBzZW50IG11bHRpcGxlIHJvbGVzIGZvciBhIHNpbmdsZSBkb21haW4uIFNpbmNlIHdlIG9yZGVyZWQgdGhlbSBieSBwcmlvcml0eQogICAgICAgIC8vIGluIHRoZSBxdWVyeSB3ZSBqdXN0IG5lZWQgdG8gdXNlIGxhc3Qgb25lIGluIHRoZSBsaXN0LgogICAgICAgIGZvcmVhY2ggKCRkYXRhIGFzICRrID0+ICR2YWx1ZSkgewogICAgICAgICAgICAkaW50ZXJuYWxSb2xlc1skdmFsdWVbJ2RpZCddXSA9ICR2YWx1ZVsncm9sZXMnXTsKICAgICAgICB9CgogICAgICAgICR1c2VyID0gbmV3IFVzZXIoKTsKICAgICAgICAkdXNlci0+c2V0Um9sZXMoJGludGVybmFsUm9sZXMpOwogICAgICAgICR1c2VyLT5zZXRVaWQoLTEpOwogICAgICAgICR1c2VyLT5zZXRVc2VybmFtZSgkYXR0cmlidXRlc1snRW1haWwnXSk7CiAgICAgICAgJHVzZXItPnNldEVtYWlsKCRhdHRyaWJ1dGVzWydFbWFpbCddKTsKICAgICAgICAkdXNlci0+c2V0QWN0aXZlKDEpOwogICAgICAgICR1c2VyLT5zZXRUeXBlKFVzZXI6OkVYVEVSTkFMX1VTRVIpOwogICAgICAgICR0aGlzLT5sb2dnZXItPmRlYnVnKCJTQU1MIFVzZXIiIC4gcHJpbnRfcigkdXNlciwgdHJ1ZSkpOwogICAgICAgIHJldHVybiAkdXNlcjsKICAgIH0KCiAgICAvKioKICAgICAqIEByZXR1cm4gc3RyaW5nCiAgICAgKi8KICAgIHB1YmxpYwogICAgZnVuY3Rpb24gZ2V0QXBwbGljYXRpb25OYW1lKCkKICAgIHsKICAgICAgICByZXR1cm4gQVBQTElDQVRJT047CiAgICB9CgogICAgLyoqCiAgICAgKiBAcGFyYW0gVXNlciAkdXNlcgogICAgICovCiAgICBwdWJsaWMKICAgIGZ1bmN0aW9uIGdldEFsbFVzZXJEaWRzKAogICAgICAgIFVzZXIgJHVzZXIKICAgICkgewogICAgICAgICRyb2xlcyA9ICR1c2VyLT5nZXRSb2xlcygpOwogICAgICAgIGVjaG8gJHJvbGVzOwogICAgfQoKICAgIC8qKgogICAgICogQHJldHVybiBudWxsfHN0cmluZwogICAgICovCiAgICBwdWJsaWMKICAgIGZ1bmN0aW9uIGdldExvZ291dFVybCgpCiAgICB7CiAgICAgICAgJGlkcERhdGEgPSAkdGhpcy0+c2V0dGluZ3MtPmdldElkUERhdGEoKTsKICAgICAgICAkc2xvVXJsICA9ICRpZHBEYXRhWydzaW5nbGVMb2dvdXRTZXJ2aWNlJ11bJ3VybCddOwogICAgICAgICR1cmwgICAgID0gXE9uZUxvZ2luX1NhbWwyX1V0aWxzOjpyZWRpcmVjdCgkc2xvVXJsLCBbXSwgdHJ1ZSk7CiAgICAgICAgcmV0dXJuICR1cmw7CiAgICB9CgogICAgLyoqCiAgICAgKiBAcmV0dXJuIG51bGx8c3RyaW5nCiAgICAgKi8KICAgIHB1YmxpYwogICAgZnVuY3Rpb24gZ2V0TG9naW5VcmwoKQogICAgewogICAgICAgICRpZHBEYXRhID0gJHRoaXMtPnNldHRpbmdzLT5nZXRJZFBEYXRhKCk7CiAgICAgICAgJHNsb1VybCAgPSAkaWRwRGF0YVsnc2luZ2xlU2lnbk9uU2VydmljZSddWyd1cmwnXTsKICAgICAgICAkdXJsICAgICA9IFxPbmVMb2dpbl9TYW1sMl9VdGlsczo6cmVkaXJlY3QoJHNsb1VybCwgW10sIHRydWUpOwogICAgICAgIHJldHVybiAkdXJsOwogICAgfQoKCiAgICAvKioKICAgICAqIEByZXR1cm4gc3RyaW5nCiAgICAgKi8KICAgIHB1YmxpYwogICAgZnVuY3Rpb24gZ2V0QXBwbGljYXRpb25JZCgpCiAgICB7CiAgICAgICAgcmV0dXJuIEFQUExJQ0FUSU9OX0lEOwogICAgfQoK</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
