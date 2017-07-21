@@ -91,7 +91,7 @@
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/module/Services/src/Services/Controller/LiveDataDefinitionController.php" timestamp="1493766084451">
         <mark key="[" line="87" column="79" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/config/application.config.php" timestamp="1500657640473">
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/config/application.config.php" timestamp="1500659210458">
         <mark key="[" line="6" column="27" />
         <mark key="]" line="6" column="26" />
         <mark key="^" line="6" column="26" />
@@ -589,10 +589,10 @@
       <file name="/JavaScript Console" timestamp="1500401040355">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/settings/bofa.adfs.settings.php" timestamp="1500657582195">
-        <mark key="[" line="4" column="62" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/settings/bofa.adfs.settings.php" timestamp="1500659666334">
+        <mark key="[" line="14" column="25" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-cms/vendor/rioseo/rls-lib-user/tests/SAML/SAMLManagerTest.php" timestamp="1493072685511">
         <mark key="[" line="275" column="17" />
@@ -805,8 +805,8 @@
       <jump line="183" column="10" filename="$USER_HOME$/Documents/Rio/rls-lib-user/src/SAML/AbstractClaimManager.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.txt</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="-" type="4">
         <text>.txt</text>
@@ -818,31 +818,31 @@
         <text>. print_r($samlResponse, true));</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PD9waHAK</text>
+        <text encoding="base64">J2JvZmFfdG9rZW5fc2lnbmluZy5jcnQnOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBpZiB0aGUgdXNlciB3YW50cyB0byBieXBhc3Mgc2FtbCB0aGV5IHVzZSB0aGlzIHNpbXBsZSBjb29raWUK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAqCg==</text>
+        <text encoding="base64">ICAgICRjYWNoZU1vZHVsZU1hcCA9IHRydWU7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4gbnVsbHxzdHJpbmcK</text>
+        <text encoding="base64">ICAgICRjYWNoZUNvbmZpZyA9IHRydWU7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8qKgo=</text>
+        <text encoding="base64">fSBlbHNlIHsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkZGlkICAgPSBnZXRTZXNzaW9uKCdkaWQnKTsK</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICRjYWNoZUNvbmZpZyA9IGZhbHNlOwogICAgJGNhY2hlTW9kdWxlTWFwID0gZmFsc2U7</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PD9waHAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
