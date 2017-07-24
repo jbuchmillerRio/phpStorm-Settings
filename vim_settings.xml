@@ -589,10 +589,11 @@
       <file name="/JavaScript Console" timestamp="1500401040355">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/settings/bofa.adfs.settings.php" timestamp="1500659666334">
-        <mark key="[" line="14" column="25" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/settings/bofa.adfs.settings.php" timestamp="1500660645343">
+        <mark key="[" line="11" column="46" />
+        <mark key="]" line="14" column="47" />
+        <mark key="." line="14" column="47" />
+        <mark key="^" line="14" column="47" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-cms/vendor/rioseo/rls-lib-user/tests/SAML/SAMLManagerTest.php" timestamp="1493072685511">
         <mark key="[" line="275" column="17" />
@@ -806,7 +807,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAkaWRwWDUwOWNlcnQgLj0gJyc7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>.txt</text>
@@ -814,35 +815,35 @@
       <register name="/" type="4">
         <text>container</text>
       </register>
-      <register name="0" type="4">
-        <text>. print_r($samlResponse, true));</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAkaWRwWDUwOWNlcnQgLj0gJ2JvZmFfdG9rZW5fc2lnbmluZ19kZXYuY3J0JzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAkaWRwWDUwOWNlcnQgLj0gJyc7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">J2JvZmFfdG9rZW5fc2lnbmluZy5jcnQnOwo=</text>
+        <text encoding="base64">ICAgICAgICAkaWRwWDUwOWNlcnQgLj0gJyc7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICRjYWNoZU1vZHVsZU1hcCA9IHRydWU7Cg==</text>
+        <text encoding="base64">J2JvZmFfdG9rZW5fc2lnbmluZy5jcnQnOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICRjYWNoZUNvbmZpZyA9IHRydWU7Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fSBlbHNlIHsK</text>
+        <text encoding="base64">ICAgICRjYWNoZU1vZHVsZU1hcCA9IHRydWU7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICRjYWNoZUNvbmZpZyA9IGZhbHNlOwogICAgJGNhY2hlTW9kdWxlTWFwID0gZmFsc2U7</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICRjYWNoZUNvbmZpZyA9IHRydWU7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fSBlbHNlIHsK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">PD9waHAK</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICRjYWNoZUNvbmZpZyA9IGZhbHNlOwogICAgJGNhY2hlTW9kdWxlTWFwID0gZmFsc2U7</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
