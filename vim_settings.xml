@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Model/LocationEntity.php" timestamp="1500931292610">
+        <mark key="[" line="723" column="70" />
+        <mark key="]" line="724" column="46" />
+        <mark key="^" line="724" column="46" />
+        <mark key="." line="724" column="46" />
+      </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lib-user/tests/AbstractUserManager.php" timestamp="1491846333743">
         <mark key="[" line="11" column="24" />
       </file>
@@ -35,6 +41,12 @@
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-cms/src/RLS/Manager/UserManager.php" timestamp="1493152352176">
         <mark key="[" line="84" column="55" />
+      </file>
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/module/Services/src/Services/Controller/LocationController.php" timestamp="1500933858254">
+        <mark key="[" line="41" column="38" />
+        <mark key="]" line="297" column="38" />
+        <mark key="^" line="297" column="38" />
+        <mark key="." line="297" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lib-user/tests/Mock/UserMock.php" timestamp="1491845254400">
         <mark key="[" line="13" column="29" />
@@ -104,7 +116,7 @@
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/scripts/async_foursquare.php" timestamp="1494104271495">
         <mark key="[" line="27" column="51" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/module/Services/src/Services/Controller/ConfigurationController.php" timestamp="1500656295444">
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/module/Services/src/Services/Controller/ConfigurationController.php" timestamp="1500932208108">
         <mark key="[" line="45" column="67" />
         <mark key="]" line="45" column="81" />
         <mark key="^" line="45" column="81" />
@@ -394,11 +406,11 @@
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/DataTransfer/Processor/BofAAtm.php" timestamp="1486832011854">
         <mark key="[" line="435" column="96" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/LocationManager.php" timestamp="1500652208475">
-        <mark key="[" line="78" column="21" />
-        <mark key="]" line="78" column="17" />
-        <mark key="." line="78" column="17" />
-        <mark key="^" line="78" column="17" />
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/LocationManager.php" timestamp="1500932793486">
+        <mark key="[" line="520" column="43" />
+        <mark key="]" line="158" column="55" />
+        <mark key="." line="158" column="55" />
+        <mark key="^" line="158" column="55" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/scripts/gmb_attributes_updater.php" timestamp="1494104306742">
         <mark key="[" line="70" column="55" />
@@ -415,6 +427,7 @@
         <mark key="^" line="69" column="27" />
         <mark key="." line="69" column="27" />
       </file>
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/DB.php" timestamp="1500934139472" />
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/public/js/rls/rls_live_data_field/rls_live_data_definition_controller.js" timestamp="1496352811259">
         <mark key="[" line="41" column="58" />
       </file>
@@ -451,7 +464,7 @@
       <file name="$USER_HOME$/Documents/Rio/rls-cms/src/RLS/Manager/HoursManager.php" timestamp="1487349362876">
         <mark key="[" line="100" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/config/dependencies.php" timestamp="1500925374011" />
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/config/dependencies.php" timestamp="1500933298729" />
       <file name="$USER_HOME$/Documents/Rio/rls-cms/src/RLS/Manager/SpecialtyManager.php" timestamp="1485359345381">
         <mark key="[" line="200" column="57" />
       </file>
@@ -460,6 +473,12 @@
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/vendor/rioseo/rls-lib-history/src/Document/GenericDocument.php" timestamp="1482345479831">
         <mark key="[" line="9" column="11" />
+      </file>
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Validator/Fid.php" timestamp="1500931497660">
+        <mark key="[" line="57" column="35" />
+        <mark key="]" line="57" column="36" />
+        <mark key="^" line="57" column="36" />
+        <mark key="." line="57" column="36" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/43ead0a7-6e6e-40e7-aded-158d695cd5bf/console.sql" timestamp="1485813288446">
         <mark key="[" line="0" column="0" />
@@ -524,7 +543,7 @@
         <mark key="." line="70" column="0" />
         <mark key="^" line="74" column="37" />
       </file>
-      <file name="/PHP Console" timestamp="1500929155843">
+      <file name="/PHP Console" timestamp="1500934248049">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-cms/src/RLS/Controller/ADFSController.php" timestamp="1498579674280">
@@ -587,7 +606,7 @@
       <file name="$USER_HOME$/Documents/Rio/rls-lib-datastore/Gruntfile.js" timestamp="1483922260074">
         <mark key="[" line="5" column="52" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500929897096">
+      <file name="/Dummy.txt" timestamp="1500930875420">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
@@ -766,11 +785,11 @@
       <jump line="48" column="16" filename="$USER_HOME$/Documents/Rio/rls-lib-user/src/SAML/AbstractClaimManager.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLyoqIEB2YXIgRXh0ZW5kZWRQZG8gJGRiICovCg==</text>
+      <register name="&quot;" type="4">
+        <text>, \TLS_DB::WRITE_DB);</text>
       </register>
       <register name="-" type="4">
-        <text>updated error messaging for saml logins.</text>
+        <text>, \TLS_DB::WRITE_DB);</text>
       </register>
       <register name="/" type="4">
         <text>dids</text>
@@ -842,7 +861,6 @@
         <entry>dids</entry>
       </history-search>
       <history-cmd>
-        <entry>w2</entry>
         <entry>122</entry>
         <entry>118</entry>
         <entry>106</entry>
@@ -861,6 +879,7 @@
         <entry>192</entry>
         <entry>67</entry>
         <entry>227</entry>
+        <entry>522</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
