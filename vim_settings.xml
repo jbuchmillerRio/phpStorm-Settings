@@ -12,7 +12,6 @@
       <file name="$USER_HOME$/Documents/Rio/rls-lib-user/tests/Mocks/UserMock.php" timestamp="1494888546930">
         <mark key="[" line="158" column="11" />
       </file>
-      <file name="$USER_HOME$/Downloads/Metadata File_Pre-Prod_ Environment_SSO_2017_10364_Ben.xml" timestamp="1500643007862" />
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/scripts/build/run_scheduled_builds.php" timestamp="1494640689740">
         <mark key="[" line="36" column="67" />
       </file>
@@ -44,7 +43,6 @@
       <file name="$USER_HOME$/Documents/Rio/rls-lib-user/tests/fixture/settingsTestFixtureNox509certIDPFile.php" timestamp="1494005642888">
         <mark key="[" line="36" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-cms/src/RLS/Manager/SAMLClaimsManagement/HallmarkClaimManager.php" timestamp="1500654407805" />
       <file name="$USER_HOME$/Documents/Rio/rls-cms/src/RLS/Manager/UserManager.php" timestamp="1493152352176">
         <mark key="[" line="84" column="55" />
       </file>
@@ -291,7 +289,6 @@
       <file name="/fragment.php" timestamp="1500414417364">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-cms/src/RLS/Manager/SAMLClaimsManagement/RioClaimManager.php" timestamp="1500654476713" />
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/FoursquareApiManager.php" timestamp="1497547358691">
         <mark key="[" line="212" column="58" />
         <mark key="]" line="212" column="52" />
@@ -505,7 +502,6 @@
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/vendor/rioseo/rls-lib-history/src/Document/GenericDocument.php" timestamp="1482345479831">
         <mark key="[" line="9" column="11" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.xml" timestamp="1500649528784" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/43ead0a7-6e6e-40e7-aded-158d695cd5bf/console.sql" timestamp="1485813288446">
         <mark key="[" line="0" column="0" />
       </file>
@@ -589,7 +585,7 @@
       <file name="/JavaScript Console" timestamp="1500401040355">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/settings/bofa.adfs.settings.php" timestamp="1500660645343">
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/settings/bofa.adfs.settings.php" timestamp="1500910264009">
         <mark key="[" line="11" column="46" />
         <mark key="]" line="14" column="47" />
         <mark key="." line="14" column="47" />
