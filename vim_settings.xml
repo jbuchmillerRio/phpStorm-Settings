@@ -540,13 +540,15 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/settings/bofa.adfs.settings.php" timestamp="1500926229737">
-        <mark key="y" line="24" column="9" />
-        <mark key="[" line="62" column="32" />
-        <mark key="]" line="62" column="41" />
-        <mark key="." line="62" column="41" />
-        <mark key="^" line="62" column="41" />
+        <mark key="y" line="23" column="9" />
+        <mark key="[" line="61" column="32" />
+        <mark key="]" line="61" column="41" />
+        <mark key="." line="61" column="41" />
+        <mark key="^" line="61" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lib-user/src/SAML/AbstractClaimManager.php" timestamp="1500925429393" />
+      <file name="$USER_HOME$/Documents/Rio/rls-lib-user/src/SAML/AbstractClaimManager.php" timestamp="1500930351063">
+        <mark key="'" line="48" column="16" />
+      </file>
       <file name="$USER_HOME$/Documents/Rio/rls-cms/vendor/rioseo/rls-lib-user/tests/SAML/SAMLManagerTest.php" timestamp="1493072685511">
         <mark key="[" line="275" column="17" />
       </file>
@@ -585,8 +587,8 @@
       <file name="$USER_HOME$/Documents/Rio/rls-lib-datastore/Gruntfile.js" timestamp="1483922260074">
         <mark key="[" line="5" column="52" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500929862016">
-        <mark key="[" line="0" column="9" />
+      <file name="/Dummy.txt" timestamp="1500929897096">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
@@ -635,11 +637,12 @@
       <file name="$USER_HOME$/Documents/Rio/docker-rls/apache/proc/settings.php" timestamp="1494367704348">
         <mark key="[" line="52" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lib-user/src/SAML/SAMLManager.php" timestamp="1500912938910">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="30" />
-        <mark key="." line="22" column="30" />
-        <mark key="^" line="22" column="30" />
+      <file name="$USER_HOME$/Documents/Rio/rls-lib-user/src/SAML/SAMLManager.php" timestamp="1500930323641">
+        <mark key="'" line="251" column="8" />
+        <mark key="[" line="298" column="23" />
+        <mark key="]" line="298" column="28" />
+        <mark key="^" line="298" column="28" />
+        <mark key="." line="298" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/ExportManager.php" timestamp="1500652220765">
         <mark key="[" line="1042" column="57" />
@@ -661,8 +664,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="0" filename="$USER_HOME$/Documents/Rio/rls-cms/vendor/rioseo/rls-lib-user/src/SAML/SAMLManager.php" />
-      <jump line="51" column="38" filename="$USER_HOME$/Documents/Rio/rls-cms/vendor/rioseo/rls-lib-user/src/SAML/SAMLManager.php" />
       <jump line="135" column="18" filename="$USER_HOME$/Documents/Rio/rls-cms/vendor/rioseo/rls-lib-user/src/SAML/SAMLManager.php" />
       <jump line="146" column="16" filename="$USER_HOME$/Documents/Rio/rls-cms/vendor/rioseo/rls-lib-user/src/SAML/SAMLManager.php" />
       <jump line="196" column="21" filename="$USER_HOME$/Documents/Rio/rls-cms/vendor/rioseo/rls-lib-user/src/SAML/SAMLManager.php" />
@@ -761,55 +762,57 @@
       <jump line="26" column="0" filename="$USER_HOME$/Documents/Rio/rls-cms/src/RLS/Controller/SAMLController.php" />
       <jump line="183" column="10" filename="$USER_HOME$/Documents/Rio/rls-lib-user/src/SAML/AbstractClaimManager.php" />
       <jump line="48" column="31" filename="$USER_HOME$/Documents/Rio/rls-lbe/settings/riolocalbofa.adfs.settings.php" />
+      <jump line="251" column="8" filename="$USER_HOME$/Documents/Rio/rls-lib-user/src/SAML/SAMLManager.php" />
+      <jump line="48" column="16" filename="$USER_HOME$/Documents/Rio/rls-lib-user/src/SAML/AbstractClaimManager.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>updated error messaging for saml logins.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLyoqIEB2YXIgRXh0ZW5kZWRQZG8gJGRiICovCg==</text>
       </register>
       <register name="-" type="4">
         <text>updated error messaging for saml logins.</text>
       </register>
       <register name="/" type="4">
-        <text>container</text>
+        <text>dids</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkbXlDb25maWctPmlkcFg1MDljZXJ0ID0gJ3Nzb3FhX3Rva2VuX3NpZ25pbmdQcm9kLmNydCc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkbXlDb25maWctPmlkcFg1MDljZXJ0ID0gJ3Nzb3FhX3Rva2VuX3NpZ25pbmdQcm9kLmNydCc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLyoqIEB2YXIgRXh0ZW5kZWRQZG8gJGRiICovCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkbXlDb25maWctPmlkcFg1MDljZXJ0ID0gJ3Nzb3FhX3Rva2VuX3NpZ25pbmdRQS5jcnQnOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGRiICAgICA9ICR0aGlzLT5jb250YWluZXItPmdldCgncGRvJyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkbXlDb25maWctPmlkcFg1MDljZXJ0ID0gJ3Nzb3FhX3Rva2VuX3NpZ25pbmdQcm9kLmNydCc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGRiICAgICA9ICR0aGlzLT5jb250YWluZXItPmdldCgncGRvJyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">JG15Q29uZmlnLT5zcFg1MDljZXJ0ID0gJy9ldGMvdGxzL2NvbmZpZy9zc2wvcmlvLnNwLmNydCc7CiRteUNvbmZpZy0+cHJpdmF0ZUtleSA9ICcvZXRjL3Rscy9jb25maWcvc3NsL3Jpby5zcC5rZXknOwoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLyoqIEB2YXIgRXh0ZW5kZWRQZG8gJGRiICovCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CjxWaXJ0dWFsSG9zdCAqOjQ0Mz4KICAgIERvY3VtZW50Um9vdCAvdmFyL3d3dy9odG1sL2Rldi9sYmUvcHVibGljCiAgICBTZXJ2ZXJOYW1lIGJvZmEucmlvc2VvLmNvbQogICAgU2VydmVyQWxpYXMgYm9mYXFhLnJpb3Nlby5jb20KCiAgICBTU0xFbmdpbmUgT24KICAgIFNTTFByb3h5RW5naW5lIE9uCiAgICBTU0xDZXJ0aWZpY2F0ZUZpbGUgL2V0Yy9zc2wvY2VydHMvc3Rhci5yaW9zZW8uY29tLjIwMTUwNzE4LmNydAogICAgU1NMQ2VydGlmaWNhdGVLZXlGaWxlIC9ldGMvc3NsL2NlcnRzL3N0YXIucmlvc2VvLmNvbS4yMDE1MDcxOC5rZXkKICAgIFNTTENlcnRpZmljYXRlQ2hhaW5GaWxlIC9ldGMvc3NsL2NlcnRzL0RpZ2lDZXJ0U0hBMlNlY3VyZVNlcnZlckNBLmNydAoKICAgIEhlYWRlciBhbHdheXMgc2V0IFN0cmljdC1UcmFuc3BvcnQtU2VjdXJpdHkgIm1heC1hZ2U9NjMwNzIwMDA7IGluY2x1ZGVTdWJkb21haW5zOyIKCiAgICBSZXdyaXRlRW5naW5lIE9uCiAgICBSZXdyaXRlQ29uZCAle1JFUVVFU1RfTUVUSE9EfSBeKFRSQUNFfFRSQUNLKQogICAgUmV3cml0ZVJ1bGUgLiogLSBbUj00MDUsTF0KCiAgICBSZXdyaXRlUnVsZSBeL2luZGV4LnBocCQgaHR0cHM6Ly9ib2ZhLmRhc2hib2FyZC5yaW9zZW8uY29tLyBbUj0zMDEsTkMsTF0KCiAgICAjIGlmIHRoZSBmaWxlIGRvZXNuJ3QgZXhpc3QsIHNlbmQgaXQgdGhyb3VnaCB0aGUgZnJvbnQgY29udHJvbGxlcgogICAgUmV3cml0ZUNvbmQgJXtET0NVTUVOVF9ST09UfSV7UkVRVUVTVF9GSUxFTkFNRX0gIS1mCiAgICBSZXdyaXRlQ29uZCAle0RPQ1VNRU5UX1JPT1R9JXtSRVFVRVNUX0ZJTEVOQU1FfSAhLXMKICAgIFJld3JpdGVDb25kICV7RE9DVU1FTlRfUk9PVH0le1JFUVVFU1RfRklMRU5BTUV9ICEtbAogICAgUmV3cml0ZVJ1bGUgXi4qJCAvaW5kZXgucGhwIFtOQyxMXQoKICAgIFNldEVudiBTU09fTU9ERSBzYW1sCiAgICBTZXRFbnYgU0FNTF9TRVRUSU5HUyAvZXRjL3Rscy9jb25maWcvYm9mYS5hZGZzLnNldHRpbmdzLnBocAogICAgU2V0RW52IFNBTUxfQ0xBSU1fTUFOQUdFUiBUTFNcTWFuYWdlclxTQU1MXEJvZkFDbGFpbU1hbmFnZXIKICAgIFNldEVudiBTQU1MX1RFTkFOVF9OQU1FIHJsc19ib2ZhCgogICAgPERpcmVjdG9yeSAvdmFyL3d3dy9odG1sL2Rldi9sYmUvcHVibGljPgogICAgICAgIEFsbG93T3ZlcnJpZGUgTm9uZQogICAgICAgIE9yZGVyIGRlbnksYWxsb3cKICAgICAgICBEZW55IGZyb20gYWxsCgogICAgICAgICMgQm9mYSBJUCB3aGl0ZWxpc3QKICAgICAgICBBbGxvdyBmcm9tIDY1LjIxMC4xNy40OSA2Ni4xNzkuMTExLjggMTY4LjIxNS4yNTEuMzMKICAgICAgICBBbGxvdyBmcm9tIDE3MS4xNTkuNjQuMTAgMTcxLjE1OS42Ni4xMCAxNzEuMTU5LjY2LjExIDE3MS4xNTkuNjYuMTIgMTcxLjE1OS4xOTIuMTAgMTcxLjE1OS4xOTQuMTAgMTcxLjE1OS4xOTQuMTEgMTcxLjE1OS4xOTQuMTIgMTcxLjE1OS4yMjEuMTMzIDE3MS4xNTkuMjIxLjEzNAogICAgICAgIEFsbG93IGZyb20gMTcxLjE2MS4xNjAuMTAgMTcxLjE2MS4xNjIuMTAgMTcxLjE2MS4xNjIuMTEgMTcxLjE2MS4xNjIuMTIgMTcxLjE2MS4xODkuMTMzIDE3MS4xNjEuMTg5LjEzNCAxNzEuMTYyLjE0NC4xMAogICAgICAgIEFsbG93IGZyb20gMTk5LjQzLjMyLjg1IDE5OS40My4zMi44NiAxOTkuNDMuMzIuODcgMTk5LjQzLjQ4LjEyOSAxOTkuNDMuNDguMTMwIDE5OS40My40OC4xMzEgMjA0Ljk3LjE4My43IDIwOS4yMy42NC4yMDUKCiAgICAgICAgIyBSTFMgSVAgd2hpdGVsaXN0CiAgICAgICAgQWxsb3cgZnJvbSAxMC4zMC4zMCAxMC4zMC4zNSA3Ni44MC4xOTIuODIgNzYuODAuMTkyLjgyIDEwLjEwLjAKCiAgICAgICAgIyBQZW5ueSdzIGhvbWUgSVAgc28gc2hlIGNhbiB0ZXN0IG9mZiBWUE4KICAgICAgICBBbGxvdyBmcm9tIDIwOS4yMzQuMTcxLjIzMAoKICAgICAgICAjIExvZ2ljIE1vbml0b3IgSVBzCiAgICAgICAgQWxsb3cgZnJvbSA1Mi45LjE1Mi4yMzkgNTIuMC4xNzMuMTkwIDUyLjkuODguMTgxIDUyLjIxLjYuMjIKICAgIDwvRGlyZWN0b3J5Pgo8L1ZpcnR1YWxIb3N0Pg==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJGRiICAgICA9ICR0aGlzLT5jb250YWluZXItPmdldCgncGRvJyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkYWNjZXNzRGVuaWVkVVJMID0gJ2h0dHBzOi8vd3d3LmJhbmtvZmFtZXJpY2EuY29tL2Rldic7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLyoqIEB2YXIgRXh0ZW5kZWRQZG8gJGRiICovCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkYWNjZXNzRGVuaWVkVVJMID0gJ2h0dHBzOi8vd3d3LmJhbmtvZmFtZXJpY2EuY29tL2Rldic7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGRiICAgICA9ICR0aGlzLT5jb250YWluZXItPmdldCgncGRvJyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkYWNjZXNzRGVuaWVkVVJMID0gJ2h0dHBzOi8vd3d3LmJhbmtvZmFtZXJpY2EuY29tL2Rldic7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLyoqIEB2YXIgRXh0ZW5kZWRQZG8gJGRiICovCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkaWRwWDUwOWNlcnQgICAgIC49ICdib2ZhX3Rva2VuX3NpZ25pbmdfcHJvZC5jcnQnOwo=</text>
+        <text encoding="base64">ICAgICAgICAkbXlDb25maWctPmlkcFg1MDljZXJ0ID0gJ3Nzb3FhX3Rva2VuX3NpZ25pbmdQcm9kLmNydCc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>container</last-search>
+      <last-search>dids</last-search>
       <last-offset />
-      <last-pattern>container</last-pattern>
+      <last-pattern>dids</last-pattern>
       <last-replace>other_one\.</last-replace>
       <last-substitute>otherone\.</last-substitute>
       <last-dir>1</last-dir>
@@ -817,8 +820,6 @@
     </search>
     <history>
       <history-search>
-        <entry>rls-lib-user</entry>
-        <entry>user</entry>
         <entry>clity</entry>
         <entry>city</entry>
         <entry encoding="base64">XDwiXD4=</entry>
@@ -837,9 +838,10 @@
         <entry>samlManager</entry>
         <entry>saml</entry>
         <entry>container</entry>
+        <entry encoding="base64">JGRiLT4=</entry>
+        <entry>dids</entry>
       </history-search>
       <history-cmd>
-        <entry>93</entry>
         <entry>w2</entry>
         <entry>122</entry>
         <entry>118</entry>
@@ -858,6 +860,7 @@
         <entry>55</entry>
         <entry>192</entry>
         <entry>67</entry>
+        <entry>227</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
