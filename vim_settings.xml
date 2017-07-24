@@ -57,12 +57,6 @@
         <mark key="^" line="432" column="23" />
         <mark key="." line="432" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/module/Application/src/Application/Controller/UserController.php" timestamp="1500656919381">
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="." line="68" column="0" />
-        <mark key="^" line="68" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/vendor/rioseo/rls-lib-user/src/SAML/SAMLManager.php" timestamp="1500936837306">
         <mark key="[" line="117" column="0" />
         <mark key="]" line="117" column="0" />
@@ -85,12 +79,6 @@
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/module/Services/src/Services/Controller/LiveDataDefinitionController.php" timestamp="1493766084451">
         <mark key="[" line="87" column="79" />
-      </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/config/application.config.php" timestamp="1500659210458">
-        <mark key="[" line="6" column="27" />
-        <mark key="]" line="6" column="26" />
-        <mark key="^" line="6" column="26" />
-        <mark key="." line="6" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/vhosts/bofa.dashboard.conf" timestamp="1500922791389">
         <mark key="[" line="53" column="0" />
@@ -120,12 +108,6 @@
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/scripts/async_foursquare.php" timestamp="1494104271495">
         <mark key="[" line="27" column="51" />
-      </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/module/Services/src/Services/Controller/ConfigurationController.php" timestamp="1500932208108">
-        <mark key="[" line="45" column="67" />
-        <mark key="]" line="45" column="81" />
-        <mark key="^" line="45" column="81" />
-        <mark key="." line="45" column="81" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/module/Services/src/Services/Controller/CountryController.php" timestamp="1498682995995">
         <mark key="[" line="46" column="80" />
@@ -362,9 +344,9 @@
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/MessageManager.php" timestamp="1500652298898">
         <mark key="[" line="469" column="37" />
-        <mark key="]" line="472" column="59" />
-        <mark key="^" line="472" column="59" />
-        <mark key="." line="472" column="59" />
+        <mark key="]" line="470" column="59" />
+        <mark key="^" line="470" column="59" />
+        <mark key="." line="470" column="59" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/Rbac/AssignmentManager.php" timestamp="1500653533413">
         <mark key="[" line="49" column="45" />
@@ -432,7 +414,6 @@
         <mark key="^" line="69" column="27" />
         <mark key="." line="69" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/DB.php" timestamp="1500934139472" />
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/public/js/rls/rls_live_data_field/rls_live_data_definition_controller.js" timestamp="1496352811259">
         <mark key="[" line="41" column="58" />
       </file>
@@ -469,7 +450,6 @@
       <file name="$USER_HOME$/Documents/Rio/rls-cms/src/RLS/Manager/HoursManager.php" timestamp="1487349362876">
         <mark key="[" line="100" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/config/dependencies.php" timestamp="1500933298729" />
       <file name="$USER_HOME$/Documents/Rio/rls-cms/src/RLS/Manager/SpecialtyManager.php" timestamp="1485359345381">
         <mark key="[" line="200" column="57" />
       </file>
@@ -532,12 +512,6 @@
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-rsm-ui/app/core/header.html" timestamp="1494632688213">
         <mark key="[" line="39" column="27" />
-      </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/tests/lbe/lib/TLS/Manager/DataTransfer/Processor/BofABulkNotificationTest.php" timestamp="1500652792902">
-        <mark key="[" line="144" column="0" />
-        <mark key="]" line="114" column="26" />
-        <mark key="^" line="114" column="26" />
-        <mark key="." line="114" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/ActiveDirectory/HallmarkClaimManager.php" timestamp="1488576219617">
         <mark key="[" line="2" column="13" />
@@ -611,7 +585,7 @@
       <file name="$USER_HOME$/Documents/Rio/rls-lib-datastore/Gruntfile.js" timestamp="1483922260074">
         <mark key="[" line="5" column="52" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500936724309">
+      <file name="/Dummy.txt" timestamp="1500938517652">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
@@ -669,10 +643,10 @@
         <mark key="." line="298" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/ExportManager.php" timestamp="1500652220765">
-        <mark key="[" line="1042" column="57" />
-        <mark key="]" line="1042" column="65" />
-        <mark key="." line="1042" column="65" />
-        <mark key="^" line="1042" column="65" />
+        <mark key="[" line="1052" column="57" />
+        <mark key="]" line="1052" column="65" />
+        <mark key="." line="1052" column="65" />
+        <mark key="^" line="1052" column="65" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/vendor/rioseo/rls-lib-hours/src/HoursSetManager.php" timestamp="1487788942910">
         <mark key="[" line="68" column="45" />
