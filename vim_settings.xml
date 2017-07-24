@@ -340,7 +340,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.xml" timestamp="1498432491029">
         <mark key="[" line="0" column="4050" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lib-user/src/SAML/ClaimMappingFactory.php" timestamp="1500393281307">
+      <file name="$USER_HOME$/Documents/Rio/rls-lib-user/src/SAML/ClaimMappingFactory.php" timestamp="1500925324980">
         <mark key="[" line="59" column="50" />
         <mark key="]" line="58" column="33" />
         <mark key="^" line="58" column="33" />
@@ -499,6 +499,7 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/config/dependencies.php" timestamp="1500925374011" />
       <file name="$USER_HOME$/Documents/Rio/rls-cms/src/RLS/Manager/SpecialtyManager.php" timestamp="1485359345381">
         <mark key="[" line="200" column="57" />
       </file>
@@ -576,7 +577,7 @@
         <mark key="." line="70" column="0" />
         <mark key="^" line="74" column="37" />
       </file>
-      <file name="/PHP Console" timestamp="1500924281701">
+      <file name="/PHP Console" timestamp="1500925254089">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-cms/src/RLS/Controller/ADFSController.php" timestamp="1498579674280">
@@ -591,12 +592,13 @@
       <file name="/JavaScript Console" timestamp="1500913192075">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/settings/bofa.adfs.settings.php" timestamp="1500920871844">
-        <mark key="[" line="15" column="37" />
-        <mark key="]" line="15" column="40" />
-        <mark key="." line="15" column="40" />
-        <mark key="^" line="15" column="40" />
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/settings/bofa.adfs.settings.php" timestamp="1500925606938">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="18" column="40" />
+        <mark key="." line="18" column="40" />
+        <mark key="^" line="18" column="40" />
       </file>
+      <file name="$USER_HOME$/Documents/Rio/rls-lib-user/src/SAML/AbstractClaimManager.php" timestamp="1500925429393" />
       <file name="$USER_HOME$/Documents/Rio/rls-cms/vendor/rioseo/rls-lib-user/tests/SAML/SAMLManagerTest.php" timestamp="1493072685511">
         <mark key="[" line="275" column="17" />
       </file>
@@ -635,7 +637,7 @@
       <file name="$USER_HOME$/Documents/Rio/rls-lib-datastore/Gruntfile.js" timestamp="1483922260074">
         <mark key="[" line="5" column="52" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500916899352">
+      <file name="/Dummy.txt" timestamp="1500925335822">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
