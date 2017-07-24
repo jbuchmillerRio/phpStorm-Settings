@@ -95,10 +95,10 @@
         <mark key="^" line="6" column="26" />
         <mark key="." line="6" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/vhosts/bofa.dashboard.conf" timestamp="1500921112390">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/vhosts/bofa.dashboard.conf" timestamp="1500922791389">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Service/LocationFilterService.php" timestamp="1498852761183">
         <mark key="[" line="324" column="0" />
@@ -180,7 +180,7 @@
       <file name="$USER_HOME$/Documents/Rio/rls-cms/vendor/rioseo/rls-lib-history/src/HistoryManager.php" timestamp="1484844559769">
         <mark key="[" line="85" column="36" />
       </file>
-      <file name="/Clipboard.txt" timestamp="1498767207492">
+      <file name="/Clipboard.txt" timestamp="1500922666184">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lib-hours/tests/HoursHistoryTest.php" timestamp="1496354878208">
@@ -621,6 +621,11 @@
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/vendor/zendframework/zendframework/library/Zend/View/Helper/Navigation.php" timestamp="1494639855655">
         <mark key="[" line="196" column="28" />
       </file>
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/vhosts/riolocalbofa.dashboard.conf" timestamp="1500922854780">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
       <file name="/dummy.sql" timestamp="1500654548801">
         <mark key="[" line="0" column="0" />
       </file>
@@ -638,8 +643,8 @@
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/public/js/rls/rls_location.js" timestamp="1491511974644">
         <mark key="[" line="909" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/vhosts/riolocal.dashboard.conf" timestamp="1500921042030">
-        <mark key="[" line="3" column="39" />
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/vhosts/riolocal.dashboard.conf" timestamp="1500922738919">
+        <mark key="[" line="21" column="38" />
         <mark key="]" line="3" column="63" />
         <mark key="." line="3" column="63" />
         <mark key="^" line="3" column="63" />
@@ -809,10 +814,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CjxWaXJ0dWFsSG9zdCAqOjQ0Mz4KICAgIERvY3VtZW50Um9vdCAvdmFyL3d3dy9odG1sL2Rldi9sYmUvcHVibGljCiAgICBTZXJ2ZXJOYW1lIGJvZmEucmlvc2VvLmNvbQogICAgU2VydmVyQWxpYXMgYm9mYXFhLnJpb3Nlby5jb20KCiAgICBTU0xFbmdpbmUgT24KICAgIFNTTFByb3h5RW5naW5lIE9uCiAgICBTU0xDZXJ0aWZpY2F0ZUZpbGUgL2V0Yy9zc2wvY2VydHMvc3Rhci5yaW9zZW8uY29tLjIwMTUwNzE4LmNydAogICAgU1NMQ2VydGlmaWNhdGVLZXlGaWxlIC9ldGMvc3NsL2NlcnRzL3N0YXIucmlvc2VvLmNvbS4yMDE1MDcxOC5rZXkKICAgIFNTTENlcnRpZmljYXRlQ2hhaW5GaWxlIC9ldGMvc3NsL2NlcnRzL0RpZ2lDZXJ0U0hBMlNlY3VyZVNlcnZlckNBLmNydAoKICAgIEhlYWRlciBhbHdheXMgc2V0IFN0cmljdC1UcmFuc3BvcnQtU2VjdXJpdHkgIm1heC1hZ2U9NjMwNzIwMDA7IGluY2x1ZGVTdWJkb21haW5zOyIKCiAgICBSZXdyaXRlRW5naW5lIE9uCiAgICBSZXdyaXRlQ29uZCAle1JFUVVFU1RfTUVUSE9EfSBeKFRSQUNFfFRSQUNLKQogICAgUmV3cml0ZVJ1bGUgLiogLSBbUj00MDUsTF0KCiAgICBSZXdyaXRlUnVsZSBeL2luZGV4LnBocCQgaHR0cHM6Ly9ib2ZhLmRhc2hib2FyZC5yaW9zZW8uY29tLyBbUj0zMDEsTkMsTF0KCiAgICAjIGlmIHRoZSBmaWxlIGRvZXNuJ3QgZXhpc3QsIHNlbmQgaXQgdGhyb3VnaCB0aGUgZnJvbnQgY29udHJvbGxlcgogICAgUmV3cml0ZUNvbmQgJXtET0NVTUVOVF9ST09UfSV7UkVRVUVTVF9GSUxFTkFNRX0gIS1mCiAgICBSZXdyaXRlQ29uZCAle0RPQ1VNRU5UX1JPT1R9JXtSRVFVRVNUX0ZJTEVOQU1FfSAhLXMKICAgIFJld3JpdGVDb25kICV7RE9DVU1FTlRfUk9PVH0le1JFUVVFU1RfRklMRU5BTUV9ICEtbAogICAgUmV3cml0ZVJ1bGUgXi4qJCAvaW5kZXgucGhwIFtOQyxMXQoKICAgIFNldEVudiBTU09fTU9ERSBzYW1sCiAgICBTZXRFbnYgU0FNTF9TRVRUSU5HUyAvZXRjL3Rscy9jb25maWcvYm9mYS5hZGZzLnNldHRpbmdzLnBocAogICAgU2V0RW52IFNBTUxfQ0xBSU1fTUFOQUdFUiBUTFNcTWFuYWdlclxTQU1MXEJvZkFDbGFpbU1hbmFnZXIKICAgIFNldEVudiBTQU1MX1RFTkFOVF9OQU1FIHJsc19ib2ZhCgogICAgPERpcmVjdG9yeSAvdmFyL3d3dy9odG1sL2Rldi9sYmUvcHVibGljPgogICAgICAgIEFsbG93T3ZlcnJpZGUgTm9uZQogICAgICAgIE9yZGVyIGRlbnksYWxsb3cKICAgICAgICBEZW55IGZyb20gYWxsCgogICAgICAgICMgQm9mYSBJUCB3aGl0ZWxpc3QKICAgICAgICBBbGxvdyBmcm9tIDY1LjIxMC4xNy40OSA2Ni4xNzkuMTExLjggMTY4LjIxNS4yNTEuMzMKICAgICAgICBBbGxvdyBmcm9tIDE3MS4xNTkuNjQuMTAgMTcxLjE1OS42Ni4xMCAxNzEuMTU5LjY2LjExIDE3MS4xNTkuNjYuMTIgMTcxLjE1OS4xOTIuMTAgMTcxLjE1OS4xOTQuMTAgMTcxLjE1OS4xOTQuMTEgMTcxLjE1OS4xOTQuMTIgMTcxLjE1OS4yMjEuMTMzIDE3MS4xNTkuMjIxLjEzNAogICAgICAgIEFsbG93IGZyb20gMTcxLjE2MS4xNjAuMTAgMTcxLjE2MS4xNjIuMTAgMTcxLjE2MS4xNjIuMTEgMTcxLjE2MS4xNjIuMTIgMTcxLjE2MS4xODkuMTMzIDE3MS4xNjEuMTg5LjEzNCAxNzEuMTYyLjE0NC4xMAogICAgICAgIEFsbG93IGZyb20gMTk5LjQzLjMyLjg1IDE5OS40My4zMi44NiAxOTkuNDMuMzIuODcgMTk5LjQzLjQ4LjEyOSAxOTkuNDMuNDguMTMwIDE5OS40My40OC4xMzEgMjA0Ljk3LjE4My43IDIwOS4yMy42NC4yMDUKCiAgICAgICAgIyBSTFMgSVAgd2hpdGVsaXN0CiAgICAgICAgQWxsb3cgZnJvbSAxMC4zMC4zMCAxMC4zMC4zNSA3Ni44MC4xOTIuODIgNzYuODAuMTkyLjgyIDEwLjEwLjAKCiAgICAgICAgIyBQZW5ueSdzIGhvbWUgSVAgc28gc2hlIGNhbiB0ZXN0IG9mZiBWUE4KICAgICAgICBBbGxvdyBmcm9tIDIwOS4yMzQuMTcxLjIzMAoKICAgICAgICAjIExvZ2ljIE1vbml0b3IgSVBzCiAgICAgICAgQWxsb3cgZnJvbSA1Mi45LjE1Mi4yMzkgNTIuMC4xNzMuMTkwIDUyLjkuODguMTgxIDUyLjIxLjYuMjIKICAgIDwvRGlyZWN0b3J5Pgo8L1ZpcnR1YWxIb3N0Pg==</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>riolocal.adfs.rioseo.com</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>container</text>
