@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/SAML/RioBofAClaimManager.php" timestamp="1500998825667">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="5" column="49" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/SAML/RioBofAClaimManager.php" timestamp="1501005708448">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="93" />
+        <mark key="." line="36" column="0" />
+        <mark key="^" line="25" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lib-hours/src/HoursHistory.php" timestamp="1497471445353">
         <mark key="[" line="49" column="72" />
@@ -33,11 +33,11 @@
         <mark key="^" line="47" column="30" />
         <mark key="." line="47" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/module/Services/src/Services/Controller/ADFSController.php" timestamp="1500997570608">
-        <mark key="[" line="47" column="72" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
-        <mark key="^" line="48" column="0" />
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/module/Services/src/Services/Controller/ADFSController.php" timestamp="1501006696382">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="96" />
+        <mark key="^" line="70" column="33" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/vendor/rioseo/rls-lib-rbac/src/Overseer.php" timestamp="1498838246477">
         <mark key="[" line="164" column="79" />
@@ -68,6 +68,12 @@
         <mark key="]" line="66" column="47" />
         <mark key="." line="66" column="47" />
         <mark key="^" line="66" column="47" />
+      </file>
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/vendor/rioseo/rls-lib-user/src/SAML/SAMLManager.php" timestamp="1501005267575">
+        <mark key="[" line="116" column="89" />
+        <mark key="]" line="116" column="89" />
+        <mark key="^" line="116" column="89" />
+        <mark key="." line="116" column="89" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Service/LocationFilterService.php" timestamp="1498852761183">
         <mark key="[" line="324" column="0" />
@@ -142,6 +148,12 @@
         <mark key="^" line="62" column="68" />
         <mark key="." line="62" column="68" />
       </file>
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/config/dependencies.php" timestamp="1501007169519">
+        <mark key="[" line="60" column="5" />
+        <mark key="]" line="66" column="34" />
+        <mark key="." line="66" column="34" />
+        <mark key="^" line="66" column="34" />
+      </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lib-hours/tests/HoursHistoryTest.php" timestamp="1496354878208">
         <mark key="[" line="316" column="56" />
         <mark key="]" line="153" column="44" />
@@ -190,6 +202,11 @@
         <mark key="^" line="99" column="25" />
         <mark key="." line="99" column="25" />
       </file>
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/tests/fixtures/testSAMLTokenForBofA.txt" timestamp="1501005059745">
+        <mark key="[" line="1" column="8063" />
+        <mark key="]" line="1" column="8064" />
+        <mark key="." line="1" column="8064" />
+      </file>
       <file name="$USER_HOME$/Documents/Rio/rls-client_lib/module/Locator/Manager/ClientSitemapManager.php" timestamp="1497998566875">
         <mark key="[" line="130" column="22" />
         <mark key="]" line="130" column="23" />
@@ -214,10 +231,10 @@
         <mark key="^" line="19" column="6" />
         <mark key="." line="19" column="6" />
       </file>
-      <file name="/PHP Console" timestamp="1500999814090">
+      <file name="/PHP Console" timestamp="1501004407638">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1500996473994">
+      <file name="/JavaScript Console" timestamp="1501003906052">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/ProfileManager.php" timestamp="1498852853299">
@@ -243,7 +260,7 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500995391598">
+      <file name="/Dummy.txt" timestamp="1501004438849">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
@@ -296,12 +313,12 @@
         <mark key="." line="26" column="5" />
         <mark key="^" line="26" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lib-user/src/SAML/SAMLManager.php" timestamp="1500940381016">
-        <mark key="'" line="250" column="8" />
-        <mark key="[" line="115" column="97" />
-        <mark key="]" line="115" column="66" />
-        <mark key="^" line="115" column="66" />
-        <mark key="." line="115" column="66" />
+      <file name="$USER_HOME$/Documents/Rio/rls-lib-user/src/SAML/SAMLManager.php" timestamp="1501004782013">
+        <mark key="'" line="255" column="8" />
+        <mark key="[" line="154" column="0" />
+        <mark key="]" line="154" column="74" />
+        <mark key="^" line="151" column="70" />
+        <mark key="." line="154" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/ExportManager.php" timestamp="1500652220765">
         <mark key="[" line="1052" column="57" />
@@ -426,43 +443,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkZGF0YVsnU0FNTFJlc3BvbnNlJ10gPSAkcmVxdWVzdC0+Z2V0UG9zdCgpLT5nZXQoJ1NBTUxSZXNwb25zZScpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgXExvZ2dlcjo6ZGVidWcoX19MSU5FX18gLiAiIGxha3NqOTg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODgiKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;SAML: claims assertion succeeded. &quot;);</text>
+        <text>ksldkjfsldkfjslkdjf</text>
       </register>
       <register name="/" type="4">
         <text>dids</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkZGF0YVsnU0FNTFJlc3BvbnNlJ10gPSAkcmVxdWVzdC0+Z2V0UG9zdCgpLT5nZXQoJ1NBTUxSZXNwb25zZScpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgXExvZ2dlcjo6ZGVidWcoX19MSU5FX18gLiAiIGxha3NqOTg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODgiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmxvZ2dlci0+aW5mbyhwcmludF9yKCR1c2VyLCB0cnVlKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgXExvZ2dlcjo6ZGVidWcoX19MSU5FX18gLiAiIGxha3NqOTg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODgiKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLyoqIEB2YXIgRXh0ZW5kZWRQZG8gJGRiICovCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgXExvZ2dlcjo6ZGVidWcoX19MSU5FX18gLiAiIGxha3NqOTg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODgiKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGRiICAgICA9ICR0aGlzLT5jb250YWluZXItPmdldCgncGRvJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgXExvZ2dlcjo6ZGVidWcoX19MSU5FX18gLiAiIGxha3NqOTg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODgiKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGRiICAgICA9ICR0aGlzLT5jb250YWluZXItPmdldCgncGRvJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFxMb2dnZXI6OmRlYnVnKF9fTElORV9fIC4gIiBsYWtzajk4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4Iik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLyoqIEB2YXIgRXh0ZW5kZWRQZG8gJGRiICovCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFxMb2dnZXI6OmRlYnVnKF9fTElORV9fIC4gIiBsYWtzajk4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4Iik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGRiICAgICA9ICR0aGlzLT5jb250YWluZXItPmdldCgncGRvJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFxMb2dnZXI6OmRlYnVnKF9fTElORV9fIC4gIiBsYWtzajk4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4Iik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLyoqIEB2YXIgRXh0ZW5kZWRQZG8gJGRiICovCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFxMb2dnZXI6OmRlYnVnKF9fTElORV9fIC4gIiBsYWtzajk4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4Iik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGRiICAgICA9ICR0aGlzLT5jb250YWluZXItPmdldCgncGRvJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFxMb2dnZXI6OmRlYnVnKF9fTElORV9fIC4gIiBsYWtzajk4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4Iik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLyoqIEB2YXIgRXh0ZW5kZWRQZG8gJGRiICovCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFxMb2dnZXI6OmRlYnVnKF9fTElORV9fIC4gIiBsYWtzajk4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4Iik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -504,7 +521,6 @@
         <entry>384</entry>
         <entry>355</entry>
         <entry>386</entry>
-        <entry>wq!</entry>
         <entry>100</entry>
         <entry>349</entry>
         <entry>218</entry>
@@ -520,6 +536,7 @@
         <entry>142</entry>
         <entry>135</entry>
         <entry>76</entry>
+        <entry>wq!</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
