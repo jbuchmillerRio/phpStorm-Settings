@@ -3,8 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/SAML/RioBofAClaimManager.php" timestamp="1500655693946">
-        <mark key="[" line="4" column="0" />
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/SAML/RioBofAClaimManager.php" timestamp="1500997327333">
+        <mark key="[" line="7" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="^" line="5" column="49" />
         <mark key="." line="4" column="0" />
@@ -33,11 +33,11 @@
         <mark key="^" line="47" column="30" />
         <mark key="." line="47" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/module/Services/src/Services/Controller/ADFSController.php" timestamp="1500578873245">
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="0" />
-        <mark key="." line="80" column="0" />
-        <mark key="^" line="81" column="24" />
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/module/Services/src/Services/Controller/ADFSController.php" timestamp="1500997570608">
+        <mark key="[" line="47" column="72" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+        <mark key="^" line="48" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/vendor/rioseo/rls-lib-rbac/src/Overseer.php" timestamp="1498838246477">
         <mark key="[" line="164" column="79" />
@@ -214,6 +214,12 @@
         <mark key="^" line="19" column="6" />
         <mark key="." line="19" column="6" />
       </file>
+      <file name="/PHP Console" timestamp="1500997776959">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1500996473994">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/ProfileManager.php" timestamp="1498852853299">
         <mark key="[" line="63" column="43" />
         <mark key="]" line="63" column="23" />
@@ -237,7 +243,7 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500995227957">
+      <file name="/Dummy.txt" timestamp="1500995391598">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
@@ -266,7 +272,7 @@
         <mark key="^" line="212" column="52" />
         <mark key="." line="212" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/SAML/BofAClaimManager.php" timestamp="1500654859040">
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/SAML/BofAClaimManager.php" timestamp="1500997324379">
         <mark key="[" line="116" column="0" />
         <mark key="]" line="95" column="93" />
         <mark key="." line="95" column="93" />
@@ -420,7 +426,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmxvZ2dlci0+aW5mbyhwcmludF9yKCR1c2VyLCB0cnVlKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkZGF0YVsnU0FNTFJlc3BvbnNlJ10gPSAkcmVxdWVzdC0+Z2V0UG9zdCgpLT5nZXQoJ1NBTUxSZXNwb25zZScpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>&quot;SAML: claims assertion succeeded. &quot;);</text>
@@ -429,7 +435,7 @@
         <text>dids</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkbXlDb25maWctPmlkcFg1MDljZXJ0ID0gJ3Nzb3FhX3Rva2VuX3NpZ25pbmdQcm9kLmNydCc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkZGF0YVsnU0FNTFJlc3BvbnNlJ10gPSAkcmVxdWVzdC0+Z2V0UG9zdCgpLT5nZXQoJ1NBTUxSZXNwb25zZScpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmxvZ2dlci0+aW5mbyhwcmludF9yKCR1c2VyLCB0cnVlKSk7Cg==</text>
