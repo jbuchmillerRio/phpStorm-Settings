@@ -63,11 +63,11 @@
         <mark key="." line="66" column="47" />
         <mark key="^" line="66" column="47" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/vendor/rioseo/rls-lib-user/src/SAML/SAMLManager.php" timestamp="1501082870254">
-        <mark key="[" line="145" column="62" />
-        <mark key="]" line="145" column="67" />
-        <mark key="^" line="145" column="67" />
-        <mark key="." line="145" column="67" />
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/vendor/rioseo/rls-lib-user/src/SAML/SAMLManager.php" timestamp="1501086257585">
+        <mark key="[" line="184" column="35" />
+        <mark key="]" line="199" column="79" />
+        <mark key="^" line="199" column="79" />
+        <mark key="." line="199" column="79" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Service/LocationFilterService.php" timestamp="1498852761183">
         <mark key="[" line="324" column="0" />
@@ -248,7 +248,7 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501082801186">
+      <file name="/Dummy.txt" timestamp="1501083938156">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
@@ -271,17 +271,23 @@
         <mark key="." line="269" column="47" />
         <mark key="^" line="269" column="47" />
       </file>
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/vendor/rioseo/rls-lib-user/src/SAML/AbstractClaimManager.php" timestamp="1501085602000">
+        <mark key="[" line="208" column="41" />
+        <mark key="]" line="208" column="34" />
+        <mark key="." line="208" column="34" />
+        <mark key="^" line="208" column="34" />
+      </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/FoursquareApiManager.php" timestamp="1497547358691">
         <mark key="[" line="212" column="58" />
         <mark key="]" line="212" column="52" />
         <mark key="^" line="212" column="52" />
         <mark key="." line="212" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/SAML/BofAClaimManager.php" timestamp="1501017708581">
-        <mark key="[" line="116" column="0" />
-        <mark key="]" line="95" column="93" />
-        <mark key="." line="95" column="93" />
-        <mark key="^" line="95" column="93" />
+      <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/SAML/BofAClaimManager.php" timestamp="1501086582925">
+        <mark key="[" line="131" column="44" />
+        <mark key="]" line="114" column="36" />
+        <mark key="." line="114" column="36" />
+        <mark key="^" line="114" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/public/js/rls/rls_profileField.js" timestamp="1499980773265">
         <mark key="[" line="11" column="0" />
@@ -324,6 +330,12 @@
         <mark key="]" line="173" column="61" />
         <mark key="^" line="173" column="59" />
         <mark key="." line="173" column="61" />
+      </file>
+      <file name="$USER_HOME$/Documents/Rio/rls-lib-user/src/SAML/ClaimMappingFactory.php" timestamp="1501087032829">
+        <mark key="[" line="55" column="88" />
+        <mark key="]" line="58" column="94" />
+        <mark key="^" line="58" column="94" />
+        <mark key="." line="58" column="94" />
       </file>
     </filemarks>
     <jumps>
@@ -430,52 +442,52 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="-" type="4">
-        <text>ksldkjfsldkfjslkdjf</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
-        <text>dids</text>
+        <text>load</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBcTG9nZ2VyOjpEZWJ1ZygiLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gd2Ugc2V0IGl0IHRvIC0xIGJlY2F1c2UgIFNTTyBoYXMgbm8gdWlkIGFuZCBhIGxvdCBvZiBzdHVmZiBpbiB0aGUgYXBwbGljYXRpb25zCiAgICAgICAgICAgIC8vZXhwZWN0cyB1aWQgdG8gbm90IGJlIGVtcHR5Lg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIC8qKgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgXExvZ2dlcjo6ZGVidWcoIjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjYiKTsK</text>
+        <text encoding="base64">ICAgICAqIEB2YXIgYm9vbAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgXExvZ2dlcjo6ZGVidWcoIjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjYiKTsK</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCAkZGVidWcgPSBmYWxzZTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgXExvZ2dlcjo6ZGVidWcoIjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjYiKTsK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZGVidWcgPSBlbXB0eSgkc2V0dGluZ3NbJ2RlYnVnJ10pIHx8ICRzZXR0aW5nc1snZGVidWcnXSAhPSB0cnVlID8gZmFsc2UgOiB0cnVlOwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgXExvZ2dlcjo6ZGVidWcoIjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjYiKTsK</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICAgICAgICAjJHNlc3Npb25bc2VsZjo6U0FNTF9TRVNTSU9OXSA9IHRydWU7Ci8vICAgICAgICAgICAgIyRzZXNzaW9uW3NlbGY6OlNBTUxfTkFNRV9JRF0gPSAkdXNlci0+Z2V0VXNlcm5hbWUoKTs7Ci8vICAgICAgICAgICAgIyRzZXNzaW9uW3NlbGY6OlNBTUxfVFlQRV0gPSAkdXNlci0+Z2V0VHlwZSgp</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9leHBlY3RzIHVpZCB0byBub3QgYmUgZW1wdHkuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gd2Ugc2V0IGl0IHRvIC0xIGJlY2F1c2UgIFNTTyBoYXMgbm8gdWlkIGFuZCBhIGxvdCBvZiBzdHVmZiBpbiB0aGUgYXBwbGljYXRpb25zCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gd2Ugc2V0IGl0IHRvIC0xIGJlY2F1c2UgIFNTTyBoYXMgbm8gdWlkIGFuZCBhIGxvdCBvZiBzdHVmZiBpbiB0aGUgYXBwbGljYXRpb25zCiAgICAgICAgICAgIC8vZXhwZWN0cyB1aWQgdG8gbm90IGJlIGVtcHR5Lg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFxMb2dnZXI6OmRlYnVnKCI3ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4OCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgXExvZ2dlcjo6ZGVidWcoIjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjYiKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>dids</last-search>
+      <last-search>load</last-search>
       <last-offset />
-      <last-pattern>dids</last-pattern>
+      <last-pattern>load</last-pattern>
       <last-replace>other_one\.</last-replace>
       <last-substitute>otherone\.</last-substitute>
       <last-dir>1</last-dir>
@@ -483,7 +495,6 @@
     </search>
     <history>
       <history-search>
-        <entry>clity</entry>
         <entry>city</entry>
         <entry encoding="base64">XDwiXD4=</entry>
         <entry>saveOver</entry>
@@ -503,9 +514,9 @@
         <entry>container</entry>
         <entry encoding="base64">JGRiLT4=</entry>
         <entry>dids</entry>
+        <entry>load</entry>
       </history-search>
       <history-cmd>
-        <entry>384</entry>
         <entry>355</entry>
         <entry>386</entry>
         <entry>100</entry>
@@ -524,6 +535,7 @@
         <entry>135</entry>
         <entry>76</entry>
         <entry>wq!</entry>
+        <entry>129</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
