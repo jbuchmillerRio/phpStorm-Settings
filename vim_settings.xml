@@ -93,13 +93,6 @@
         <mark key="^" line="69" column="27" />
         <mark key="." line="69" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lbe/composer.json" timestamp="1500943694385">
-        <mark key="'" line="90" column="47" />
-        <mark key="[" line="90" column="36" />
-        <mark key="]" line="90" column="47" />
-        <mark key="^" line="90" column="47" />
-        <mark key="." line="90" column="47" />
-      </file>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/public/js/rls/rls_mtp.js" timestamp="1496505461432">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="42" column="41" />
@@ -260,6 +253,7 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Rio/rls-lib-hours/src/Helper/Substitution/DefaultSubstitution.php" timestamp="1501109638454" />
       <file name="/Dummy.txt" timestamp="1501091829305">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
