@@ -5,7 +5,7 @@
     <filemarks>
       <file name="$USER_HOME$/Documents/Rio/rls-lbe/lib/TLS/Manager/SAML/RioBofAClaimManager.php" timestamp="1501169154350" />
       <file name="$USER_HOME$/Documents/Rio/rls-lib-user/.gitignore" timestamp="1501166044499" />
-      <file name="$USER_HOME$/Documents/Rio/rls-cms/src/RLS/Model/User.php" timestamp="1501169918751">
+      <file name="$USER_HOME$/Documents/Rio/rls-cms/src/RLS/Model/User.php" timestamp="1501173291438">
         <mark key="]" line="80" column="3" />
         <mark key="^" line="80" column="3" />
         <mark key="." line="80" column="3" />
@@ -210,7 +210,7 @@
         <mark key="^" line="130" column="23" />
         <mark key="." line="130" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lib-user/src/Model/User.php" timestamp="1501168820528">
+      <file name="$USER_HOME$/Documents/Rio/rls-lib-user/src/Model/User.php" timestamp="1501173188410">
         <mark key="[" line="72" column="41" />
         <mark key="]" line="72" column="32" />
         <mark key="^" line="72" column="32" />
@@ -330,7 +330,7 @@
         <mark key="." line="26" column="5" />
         <mark key="^" line="26" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/Rio/rls-lib-user/src/SAML/SAMLManager.php" timestamp="1501168959586">
+      <file name="$USER_HOME$/Documents/Rio/rls-lib-user/src/SAML/SAMLManager.php" timestamp="1501173139360">
         <mark key="'" line="253" column="8" />
         <mark key="[" line="139" column="47" />
         <mark key="]" line="139" column="12" />
